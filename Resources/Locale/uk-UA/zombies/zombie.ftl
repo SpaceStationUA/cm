@@ -1,9 +1,9 @@
-zombie-transform = {CAPITALIZE(THE($target))} turned into a zombie!
-zombie-infection-greeting = You have become a zombie. Your goal is to seek out the living and to try to infect them.  Work together with the other zombies to overtake the station.
+zombie-transform = {CAPITALIZE($target)} перетворився на зомбі!
+zombie-infection-greeting = Ви стали зомбі. Ваша ціль знайти живих і спробувати перетворити їх. Працюйте разом з іншима зомбі та підчинить станцію собі.
 
-zombie-generic = zombie
-zombie-name-prefix = Zombified {$target}
-zombie-role-desc =  A malevolent creature of the dead.
-zombie-role-rules = You are an antagonist. Search out the living and bite them in order to infect them and turn them into zombies. Work together with the other zombies to overtake the station.
+zombie-generic = зомбі
+zombie-name-prefix = Зомбований {$target}
+zombie-role-desc =  Мертва істота що бажає тільки одного - завдавати болю.
+zombie-role-rules = Ви антагоніст. Шукайте живих та кусайте їх щоб заразити їх та перетворити на зомбі. Працюйте разом з іншима зомбі щоб підчинити станцію собі.
 
-zombie-permadeath = This time, you're dead for real.
+zombie-permadeath = Цього разу, ви померли назавжди.

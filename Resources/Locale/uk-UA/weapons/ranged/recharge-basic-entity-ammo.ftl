@@ -1,2 +1,2 @@
-﻿recharge-basic-entity-ammo-can-recharge = It will recharge its ammo in [color=yellow]{$seconds}[/color] seconds.
-recharge-basic-entity-ammo-full = It doesn't need to recharge its ammo yet.
+﻿recharge-basic-entity-ammo-can-recharge = Воно перезарядиться через [color=yellow]{$seconds}[/color] секунд.
+recharge-basic-entity-ammo-full = Нема потреби перезаряджатися.

@@ -1,7 +1,7 @@
-voice-mask-name-change-window = Voice Mask Name Change
-voice-mask-name-change-info = Type in the name you want to mimic.
-voice-mask-name-change-set = Set name
-voice-mask-name-change-set-description = Change the name others hear to something else.
+voice-mask-name-change-window = Змінити ім'я Голосової маски
+voice-mask-name-change-info = Введить ім'я людини чий голос ви хочете імітувати.
+voice-mask-name-change-set = Поставити ім'я
+voice-mask-name-change-set-description = Змінює голос який інші люді чують.
 
-voice-mask-popup-success = Name set successfully.
-voice-mask-popup-failure = Name could not be set.
+voice-mask-popup-success = Ім'я поставлено успішно.
+voice-mask-popup-failure = Ім'я не може бути поставлено.

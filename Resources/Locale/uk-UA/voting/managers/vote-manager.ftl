@@ -3,19 +3,19 @@ ui-vote-initiator-server = The server
 
 ## Default.Votes
 
-ui-vote-restart-title = Restart round
-ui-vote-restart-succeeded = Restart vote succeeded.
-ui-vote-restart-failed = Restart vote failed (need { TOSTRING($ratio, "P0") }).
-ui-vote-restart-yes = Yes
-ui-vote-restart-no = No
-ui-vote-restart-abstain = Abstain
+ui-vote-restart-title = Перезапуск раунду
+ui-vote-restart-succeeded = Голосування успішне.
+ui-vote-restart-failed = Для перезапуску потрібно { TOSTRING($ratio, "P0") } голосів.
+ui-vote-restart-yes = За
+ui-vote-restart-no = Проти
+ui-vote-restart-abstain = Утриматися
 
-ui-vote-gamemode-title = Next gamemode
-ui-vote-gamemode-tie = Tie for gamemode vote! Picking... { $picked }
-ui-vote-gamemode-win = { $winner } won the gamemode vote!
+ui-vote-gamemode-title = Наступний ігровий режим
+ui-vote-gamemode-tie = Нічия! Обираємо... { $picked }
+ui-vote-gamemode-win = { $winner } переміг у голосуванні за режим!
 
-ui-vote-map-title = Next map
-ui-vote-map-tie = Tie for map vote! Picking... { $picked }
-ui-vote-map-win = { $winner } won the map vote!
-ui-vote-map-notlobby = Voting for maps is only valid in the pre-round lobby!
-ui-vote-map-notlobby-time = Voting for maps is only valid in the pre-round lobby with { $time } remaining!
+ui-vote-map-title = Наступна мапа
+ui-vote-map-tie = Нічия! Обираємо... { $picked }
+ui-vote-map-win = { $winner } переміг у голосуванні за мапу!
+ui-vote-map-notlobby = Голосування за мапу доступне тільки у лобі між раундами!
+ui-vote-map-notlobby-time = Голосування за мапу доступне тільки у лобі між раундами і з часом { $time }!

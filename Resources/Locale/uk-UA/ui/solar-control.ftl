@@ -1,10 +1,10 @@
-solar-control-window-title = Solar Control Console
-solar-control-window-output-power = Output Power:
-solar-control-window-watts = W
-solar-control-window-sun-angle = Sun Angle:
+solar-control-window-title = Консоль контролю сонячних панелей
+solar-control-window-output-power = Вихідна енергія:
+solar-control-window-watts = Вт
+solar-control-window-sun-angle = Вугол сонцю:
 solar-control-window-degrees = °
-solar-control-window-panel-angle = Panel Angle:
-solar-control-window-panel-angular-velocity = Panel Angular Velocity:
-solar-control-window-degrees-per-minute = °/min.
-solar-control-window-press-enter-to-confirm = Press Enter to confirm.
+solar-control-window-panel-angle = Вугол панелі:
+solar-control-window-panel-angular-velocity = Швидкість зміни вугла панелі:
+solar-control-window-degrees-per-minute = °/хвилину.
+solar-control-window-press-enter-to-confirm = Нажмить Enter щоб підтвердити.
 

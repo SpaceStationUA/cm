@@ -1,14 +1,14 @@
-﻿whitelist-not-whitelisted = You are not whitelisted.
+﻿whitelist-not-whitelisted = Ви не у вайтлісті.
 
 # proper handling for having a min/max or not
 whitelist-playercount-invalid = {$min ->
-    [0] The whitelist for this server only applies below {$max} players.
-    *[other] The whitelist for this server only applies above {$min} {$max ->
-        [2147483647] -> players, so you may be able to join later.
-       *[other] -> players and below {$max} players, so you may be able to join later.
+    [0] Вайтліст на цьому сервері працює тільки коли гравців менше за {$max}.
+    *[other] Вайтліст на цьому сервері працює тільки коли гравців більше за {$min} {$max ->
+        [2147483647] -> гравців, так що ви зможете під'єднатися пізніше.
+       *[other] -> гравців і менше за {$max} гравців, так що ви зможете під'єднатися пізніше.
     }
 }
-whitelist-not-whitelisted-rp = You are not whitelisted. To become whitelisted, visit our Discord (which can be found at https://spacestation14.io) and check the #rp-whitelist channel.
+whitelist-not-whitelisted-rp = Ви не у вайтлісті. Щоб потрапити у нього, посетить наш Діскорд
 
 cmd-whitelistadd-desc = Adds the player with the given username to the server whitelist.
 cmd-whitelistadd-help = Usage: whitelistadd <username>
@@ -27,15 +27,15 @@ cmd-whitelistremove-arg-player = [player]
 cmd-kicknonwhitelisted-desc = Kicks all non-whitelisted players from the server.
 cmd-kicknonwhitelisted-help = Usage: kicknonwhitelisted
 
-ban-banned-permanent = This ban will only be removed via appeal.
-ban-banned-permanent-appeal = This ban will only be removed via appeal. You can appeal at {$link}
-ban-expires = This ban is for {$duration} minutes and will expire at {$time} UTC.
-ban-banned-1 = You, or another user of this computer or connection, are banned from playing here.
-ban-banned-2 = The ban reason is: "{$reason}"
-ban-banned-3 = Attempts to circumvent this ban such as creating a new account will be logged.
+ban-banned-permanent = Цей бан може бути знятий через апіляцію.
+ban-banned-permanent-appeal = Цей бан може бути знятий тільки через апіляцію. Ви можете подати її на {$link}
+ban-expires = Цей бан продлиться ще {$duration} хвилин та пройде {$time} по UTC.
+ban-banned-1 = Ви, або інший гравець на цьому комп'ютері чи з'єднані, були забанені на цьому сервері.
+ban-banned-2 = Причина бана: "{$reason}"
+ban-banned-3 = Спроби обійти цей бан, наприклад шляхом зроблення нового акаунту, будуть зафіксовані.
 
-soft-player-cap-full = The server is full!
-panic-bunker-account-denied = This server is in panic bunker mode. New connections are not being accepted at this time. Try again later
-panic-bunker-account-denied-reason = This server is in panic bunker mode and you were rejected. Reason: "{$reason}"
-panic-bunker-account-reason-account = The account's age must be older than {$minutes} minutes
-panic-bunker-account-reason-overall = The account's overall playtime must be greater than {$hours} hours
+soft-player-cap-full = Цій сервер повний!
+panic-bunker-account-denied = Цей сервер у режиму Панік бункера. Нові з'єднаня не приймаються у даний час. Спробуйте знов пізніше
+panic-bunker-account-denied-reason = Цей сервер у режиму Панік бункера й вам було відмовлено в під'єднані. Причина: "{$reason}"
+panic-bunker-account-reason-account = Вік цього акаунту повинен бути більше {$minutes} хвилин.
+panic-bunker-account-reason-overall = Загальний час гри на цьому акаунті повинен бути більше {$hours} годин

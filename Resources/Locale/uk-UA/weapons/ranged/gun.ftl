@@ -1,31 +1,31 @@
 
-gun-selected-mode-examine = Current selected fire mode is [color={$color}]{$mode}[/color].
-gun-fire-rate-examine = Fire rate is [color={$color}]{$fireRate}[/color] per second.
-gun-selector-verb = Change to {$mode}
-gun-selected-mode = Selected {$mode}
-gun-disabled = You can't use guns!
-gun-clumsy = The gun blows up in your face!
-gun-set-fire-mode = Set to {$mode}
+gun-selected-mode-examine = Поточній режим вогню = [color={$color}]{$mode}[/color].
+gun-fire-rate-examine = Скорострільність - [color={$color}]{$fireRate}[/color] у секунду.
+gun-selector-verb = Перемкнуто {$mode}
+gun-selected-mode = Обрано {$mode}
+gun-disabled = Ви не можете використати зброю!
+gun-clumsy = Зброя стріляє вам прямо у лице!
+gun-set-fire-mode = Перемкнуто на {$mode}
 
 # SelectiveFire
-gun-SemiAuto = semi-auto
-gun-Burst = burst
-gun-FullAuto = full-auto
+gun-SemiAuto = пів-авто
+gun-Burst = чергі
+gun-FullAuto = автомат
 
 # BallisticAmmoProvider
 gun-ballistic-cycle = Cycle
 gun-ballistic-cycled = Cycled
 gun-ballistic-cycled-empty = Cycled (empty)
-gun-ballistic-transfer-invalid = {CAPITALIZE(THE($ammoEntity))} won't fit inside {THE($targetEntity)}!
-gun-ballistic-transfer-empty = {CAPITALIZE(THE($entity))} is empty.
-gun-ballistic-transfer-target-full = {CAPITALIZE(THE($entity))} is already fully loaded.
+gun-ballistic-transfer-invalid = {CAPITALIZE($ammoEntity)} не вміщається у {$targetEntity}!
+gun-ballistic-transfer-empty = {CAPITALIZE($entity)} порожнє.
+gun-ballistic-transfer-target-full = {CAPITALIZE($entity)} вже заряджено.
 
 # CartridgeAmmo
-gun-cartridge-spent = It is [color=red]spent[/color].
-gun-cartridge-unspent = It is [color=lime]not spent[/color].
+gun-cartridge-spent = Набій [color=red]стріляний[/color].
+gun-cartridge-unspent = Набій ще [color=lime]не стріляний[/color].
 
 # BatteryAmmoProvider
-gun-battery-examine = It has enough charge for [color={$color}]{$count}[/color] shots.
+gun-battery-examine = Воно має достатньо заряду для [color={$color}]{$count}[/color] пострілів.
 
 # CartridgeAmmoProvider
 gun-chamber-bolt-ammo = Gun not bolted
@@ -42,9 +42,9 @@ gun-chamber-rack = Rack
 gun-magazine-examine = It has [color={$color}]{$count}[/color] shots remaining.
 
 # RevolverAmmoProvider
-gun-revolver-empty = Empty revolver
-gun-revolver-full = Revolver full
-gun-revolver-insert = Inserted
-gun-revolver-spin = Spin revolver
-gun-revolver-spun = Spun
-gun-speedloader-empty = Speedloader empty
+gun-revolver-empty = Опорожніти револьвер
+gun-revolver-full = Револьвер повний
+gun-revolver-insert = Вставлено
+gun-revolver-spin = Прокрутити
+gun-revolver-spun = Прокручено
+gun-speedloader-empty = Спідлоадер порожній

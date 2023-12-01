@@ -1,3 +1,3 @@
-melee-inject-failed-hardsuit = Your {$weapon} cannot inject through hardsuits!
+melee-inject-failed-hardsuit = Ваша {$weapon} не може ввести рідину через твердий костюм!
 
-melee-balloon-pop = {CAPITALIZE(THE($balloon))} popped!
+melee-balloon-pop = {CAPITALIZE($balloon)} лопається!
