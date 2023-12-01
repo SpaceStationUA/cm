@@ -19,6 +19,7 @@
     - ActionXenoWatch
     - ActionXenoHide
     - ActionXenoLeap
+    tier: 0
   - type: XenoPlasma
     maxPlasma: 10
     plasmaRegenOnWeeds: 1
@@ -39,4 +40,5 @@
         - SmallMobLayer
   - type: XenoAnimateMovement
   - type: XenoLeap
+    knockdownTime: 90
   - type: XenoHugger

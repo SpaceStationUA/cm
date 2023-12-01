@@ -31,6 +31,8 @@
     - ActionXenoChooseStructure
     - ActionXenoSecreteStructure
     - ActionXenoTransferPlasma
+    - ActionXenoEvolve60 # TODO CM14 300
+    tier: 1
   - type: XenoAcid
   - type: XenoConstruction
     buildDelay: 2
