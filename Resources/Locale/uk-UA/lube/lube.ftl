@@ -1,4 +1,4 @@
-lube-success = {THE($target)} has been covered in lube!
-lubed-name-prefix = Lubed {$target}
-lube-failure = Can't cover {THE($target)} in lube!
-lube-slip = {THE($target)} slips out of your hands!
+lube-success = {$target} була покрита в смазці!
+lubed-name-prefix = Смазана {$target}
+lube-failure = Не можливо покрити {$target} смазкою!
+lube-slip = {$target} вискальзує з ваших рук!

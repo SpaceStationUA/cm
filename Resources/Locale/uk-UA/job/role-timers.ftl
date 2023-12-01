@@ -1,10 +1,10 @@
-﻿role-timer-department-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes of [color={$departmentColor}]{$department}[/color] department playtime to play this role.
-role-timer-department-too-high = You require [color=yellow]{TOSTRING($time, "0")}[/color] fewer minutes in [color={$departmentColor}]{$department}[/color] department to play this role. (Are you trying to play a trainee role?)
-role-timer-overall-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes of playtime to play this role.
-role-timer-overall-too-high = You require [color=yellow]{TOSTRING($time, "0")}[/color] fewer minutes of playtime to play this role. (Are you trying to play a trainee role?)
-role-timer-role-insufficient = You require [color=yellow]{TOSTRING($time, "0")}[/color] more minutes with [color={$departmentColor}]{$job}[/color] to play this role.
-role-timer-role-too-high = You require[color=yellow] {TOSTRING($time, "0")}[/color] fewer minutes with [color={$departmentColor}]{$job}[/color] to play this role. (Are you trying to play a trainee role?)
+﻿role-timer-department-insufficient = Вам потрібно ще [color=yellow]{TOSTRING($time, "0")}[/color] хвилин у [color={$departmentColor}]{$department}[/color] щоб відкрити цю роль.
+role-timer-department-too-high = Вам потрібно на [color=yellow]{TOSTRING($time, "0")}[/color] хвилин менше у [color={$departmentColor}]{$department}[/color] щоб відкрити цю роль. (Ви хочете пограти за роль для новачків?)
+role-timer-overall-insufficient = Вам потрібно [color=yellow]{TOSTRING($time, "0")}[/color] хвилин щоб відкрити цю роль.
+role-timer-overall-too-high = Вам потрібно на [color=yellow]{TOSTRING($time, "0")}[/color] хвилин менше щоб відкрити цю роль. (Ви хочете пограти за роль для новачків?)
+role-timer-role-insufficient = Вам потрібно [color=yellow]{TOSTRING($time, "0")}[/color] хвилин на [color={$departmentColor}]{$job}[/color] щоб відкрити цю роль.
+role-timer-role-too-high = Вам потрібно на [color=yellow]{TOSTRING($time, "0")}[/color] хвилин менше на [color={$departmentColor}]{$job}[/color] щоб відкрити цю роль. (Ви хочете пограти за роль для новачків?)
 
-role-timer-locked = Locked (hover for details)
+role-timer-locked = Не доступна (наведить для деталей)
 
-role-ban = You have been banned from this role.
+role-ban = Вам було заблуковано грати на цієї ролі.

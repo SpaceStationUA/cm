@@ -1,5 +1,5 @@
-﻿parse-minutes-fail = Unable to parse '{$minutes}' as minutes
-parse-session-fail = Did not find session for '{$username}'
+﻿parse-minutes-fail = Не вдалося парснути '{$minutes}' як хвилини
+parse-session-fail = Не знайдено сесій '{$username}'
 
 ## Role Timer Commands
 

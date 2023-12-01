@@ -1,2 +1,2 @@
-jetpack-no-station = Can't use jetpacks under gravity
-jetpack-to-grid = The jetpack turns off
+jetpack-no-station = Не можливо увімкнути джетпак під дією гравітації
+jetpack-to-grid = Джетпак вимикається

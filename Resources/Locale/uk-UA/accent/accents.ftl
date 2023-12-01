@@ -1,11 +1,11 @@
 # Cat accent
-accent-words-cat-1 = Meow!
-accent-words-cat-2 = Mow.
-accent-words-cat-3 = Mrrrow!
-accent-words-cat-4 = Hhsss!
-accent-words-cat-5 = Brrow.
-accent-words-cat-6 = Meow?
-accent-words-cat-7 = Miau.
+accent-words-cat-1 = Мяв!
+accent-words-cat-2 = Мя.
+accent-words-cat-3 = Мрряяя!
+accent-words-cat-4 = Хшшш!
+accent-words-cat-5 = Мяу.
+accent-words-cat-6 = Мав?
+accent-words-cat-7 = М'яяя.
 
 # Dog accent
 accent-words-dog-1 = Bark!
@@ -24,21 +24,21 @@ accent-words-mouse-6 = Fwiep!
 accent-words-mouse-7 = Heep!
 
 # Mumble
-accent-words-mumble-1 = Mmfph!
-accent-words-mumble-2 = Mmmf mrrfff!
-accent-words-mumble-3 = Mmmf mnnf!
+accent-words-mumble-1 = Умф!
+accent-words-mumble-2 = Ммф мвввх!
+accent-words-mumble-3 = Мммф гумф!
 
 # Silicon
-accent-words-silicon-1 = Beep.
-accent-words-silicon-2 = Boop.
-accent-words-silicon-3 = Whirr.
-accent-words-silicon-4 = Beep-boop.
+accent-words-silicon-1 = Біп.
+accent-words-silicon-2 = Буп.
+accent-words-silicon-3 = Вжжж.
+accent-words-silicon-4 = Буп-біп.
 
 # Xeno
-accent-words-xeno-1 = Hiss.
-accent-words-xeno-2 = Hisssss!
-accent-words-xeno-3 = Hisssuuu...
-accent-words-xeno-4 = Hiss...!
+accent-words-xeno-1 = Хшшш.
+accent-words-xeno-2 = Ххшшшшш!
+accent-words-xeno-3 = Хіщщ...
+accent-words-xeno-4 = Хщщщ...!
 
 # Zombie
 accent-words-zombie-1 = Gruaahhhh...

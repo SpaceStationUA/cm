@@ -1,9 +1,9 @@
 # sheets of steel
 materials-unit-sheet = sheet
 # bars of gold
-materials-unit-bar = bar
+materials-unit-bar = слитки
 # planks of wood
-materials-unit-plank = plank
+materials-unit-plank = доски
 # rolls of cloth
 materials-unit-roll = roll
 # pieces of biomass

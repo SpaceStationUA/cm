@@ -1,13 +1,13 @@
-delete-verb-get-data-text = Delete
-edit-solutions-verb-get-data-text = Edit Solutions
-explode-verb-get-data-text = Explode
-ahelp-verb-get-data-text = Message
+delete-verb-get-data-text = Видалити
+edit-solutions-verb-get-data-text = Редагувати рідину
+explode-verb-get-data-text = Взірвати
+ahelp-verb-get-data-text = Повідомити
 admin-verbs-admin-logs-entity = Entity Logs
-admin-verbs-teleport-to = Teleport To
-admin-verbs-teleport-here = Teleport Here
-admin-verbs-freeze = Freeze
-admin-verbs-unfreeze = Unfreeze
-admin-verbs-erase = Erase
+admin-verbs-teleport-to = Телепортуватися до
+admin-verbs-teleport-here = Телепортувати сюди
+admin-verbs-freeze = Заморозити
+admin-verbs-unfreeze = Розморозити
+admin-verbs-erase = Стерти
 admin-verbs-erase-description = Removes the player from the round and crew manifest and deletes their chat messages.
     Their items are dropped on the ground.
     Players are shown a popup indicating them to play as if they never existed.

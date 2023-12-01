@@ -1,8 +1,8 @@
-﻿ui-lobby-title = Lobby
-ui-lobby-ahelp-button = AHelp
-ui-lobby-options-button = Options
-ui-lobby-leave-button = Leave
-ui-lobby-observe-button = Observe
-ui-lobby-ready-up-button = Ready Up
-ui-lobby-online-players-block = Online Players
-ui-lobby-server-info-block = Server Info
+﻿ui-lobby-title = Лоббі
+ui-lobby-ahelp-button = Адміністрація
+ui-lobby-options-button = Налаштунки
+ui-lobby-leave-button = Вийти
+ui-lobby-observe-button = Оглядати
+ui-lobby-ready-up-button = Приготуватися
+ui-lobby-online-players-block = Гравців онлайн
+ui-lobby-server-info-block = Інформація сервера

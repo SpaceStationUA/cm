@@ -2,28 +2,28 @@
 ### Interaction Messages
 
 # When trying to eat food without the required utensil... but you gotta hold it
-food-you-need-to-hold-utensil = You need to be holding a {$utensil} to eat that!
+food-you-need-to-hold-utensil = Ви маєте тримати у руках {$utensil} щоб з'їсти це!
 
-food-nom = Nom. {$flavors}
-food-swallow = You swallow the {$food}. {$flavors}
+food-nom = Ням ням. {$flavors}
+food-swallow = Ви проковтуєте {$food}. {$flavors}
 
-food-has-used-storage = You cannot eat the {$food} with an item stored inside.
+food-has-used-storage = Ви не можете з'їсти {$food} поки у ньому є щось.
 
-food-system-remove-mask = You need to take off the {$entity} first.
+food-system-remove-mask = Ви не можете їсти з надягнутою {$entity}.
 
 ## System
 
-food-system-you-cannot-eat-any-more = You can't eat any more!
-food-system-you-cannot-eat-any-more-other = They can't eat any more!
-food-system-try-use-food-is-empty = {CAPITALIZE(THE($entity))} is empty!
-food-system-wrong-utensil = You can't eat {THE($food)} with {INDEFINITE($utensil)} {$utensil}.
-food-system-cant-digest = You can't digest {THE($entity)}!
-food-system-cant-digest-other = They can't digest {THE($entity)}!
+food-system-you-cannot-eat-any-more = Вам більше нічого не вміщюється до рота!
+food-system-you-cannot-eat-any-more-other = Їм більше нічого не вміщюється до рота!
+food-system-try-use-food-is-empty = {CAPITALIZE($entity)} порожня!
+food-system-wrong-utensil = Ви не можете з'їсти {$food} з {INDEFINITE($utensil)} {$utensil}.
+food-system-cant-digest = Ви не можете переварити {$entity}!
+food-system-cant-digest-other = Вони не можуть переварити {$entity}!
 
-food-system-verb-eat = Eat
+food-system-verb-eat = З'їсти
 
 ## Force feeding
 
-food-system-force-feed = {CAPITALIZE(THE($user))} is trying feed you something!
-food-system-force-feed-success = {CAPITALIZE(THE($user))} forced you to eat something! {$flavors}
-food-system-force-feed-success-user = You successfully feed {THE($target)}
+food-system-force-feed = {CAPITALIZE($user)} змушує вас проковтнути щось!
+food-system-force-feed-success = {CAPITALIZE($user)} змусив вас проковтнути щось! {$flavors}
+food-system-force-feed-success-user = Ви успішно нагодували {$target}

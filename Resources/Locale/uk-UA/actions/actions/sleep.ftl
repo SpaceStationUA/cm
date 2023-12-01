@@ -1,7 +1,7 @@
-action-name-wake = Wake up
+action-name-wake = Прокинутися
 
-sleep-onomatopoeia = Zzz...
+sleep-onomatopoeia = Спить...
 sleep-examined = [color=lightblue]{CAPITALIZE(SUBJECT($target))} {CONJUGATE-BE($target)} asleep.[/color]
 
-wake-other-success = You shake {THE($target)} awake.
-wake-other-failure = You shake {THE($target)}, but {SUBJECT($target)} {CONJUGATE-BE($target)} not waking up.
+wake-other-success = Ви змушуєте {$target} прокинутися.
+wake-other-failure = Ви трясете {$target}, але {SUBJECT($target)} {CONJUGATE-BE($target)} не прокидається.
