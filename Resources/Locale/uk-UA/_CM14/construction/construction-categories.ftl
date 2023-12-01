@@ -1,2 +1,2 @@
-construction-category-cm-all = CM Усе
-construction-category-cm-structures = CM Структури
+construction-category-cm-all = КM Усе
+construction-category-cm-structures = КM Структури

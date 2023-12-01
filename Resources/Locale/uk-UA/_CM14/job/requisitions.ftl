@@ -1,10 +1,10 @@
 ﻿# requisitions
 job-name-cm-quartermaster = Квартермейстер
-job-description-cm-quartermaster = Ваша робота - слідкувати за тим щоб кожний морпіх получив свої речі.
+job-description-cm-quartermaster = Ваша робота - слідкувати за тим щоб кожен морпіх отримав свої речі.
 JobCMQuartermaster = Квартермейстер
 
 job-name-cm-cargotech = Вантажник
-job-description-cm-cargotech = Ваша завдача замовляти та видавати морпіхам припаси.
+job-description-cm-cargotech = Ваша задача замовляти та видавати морпіхам припаси.
 JobCMCargoTech = Вантажник
 
 job-name-messtech = Кок
