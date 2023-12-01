@@ -8,7 +8,6 @@ tiles-cm-white-sterile = білий стальний стерільний тай
 tiles-cm-black = чорний стальний тайл
 tiles-cm-ai = тайл кімнати ARES
 tiles-cm-tcomms = тайл телекомунікацій
-tiles-cm-catwalk = steel catwalk
 
 tiles-cm-dirt = тайл землі
 tiles-cm-desert = тайл пустелі
