@@ -1,11 +1,11 @@
 ﻿accent-mobster-prefix-1 = Nyehh,
 
-accent-mobster-suffix-boss-1 = , see?
-accent-mobster-suffix-boss-2 = , fugeddaboutit.
-accent-mobster-suffix-boss-3 = , capiche?
+accent-mobster-suffix-boss-1 = , бач?
+accent-mobster-suffix-boss-2 = , та збудь про це.
+accent-mobster-suffix-boss-3 = , капіш?
 
-accent-mobster-suffix-minion-1 = , yeah!
-accent-mobster-suffix-minion-2 = , boss says!
+accent-mobster-suffix-minion-1 = , таак!
+accent-mobster-suffix-minion-2 = , бос каже!
 
 accent-mobster-words-1 = let me
 accent-mobster-words-replace-1 = lemme
@@ -28,8 +28,8 @@ accent-mobster-words-replace-6 = whack
 accent-mobster-words-7 = murder
 accent-mobster-words-replace-7 = whack
 
-accent-mobster-words-8 = dead
-accent-mobster-words-replace-8 = sleepin' with da fishies
+accent-mobster-words-8 = мертвий
+accent-mobster-words-replace-8 = кормить риб
 
 accent-mobster-words-9 = hey
 accent-mobster-words-replace-9 = ey'o

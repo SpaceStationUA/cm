@@ -1,36 +1,36 @@
-alert-level-announcement = Attention! Station alert level is now {$name}! {$announcement}
+alert-level-announcement = Увага! Поставлено {$name} рівень небезпеки! {$announcement}
 
-alert-level-unknown = Unknown.
-alert-level-unknown-instructions = Unknown.
+alert-level-unknown = Невідомо.
+alert-level-unknown-instructions = Невідомо
 
-alert-level-green = Green
-alert-level-green-announcement = It is now safe to return to your workplaces.
-alert-level-green-instructions = Do your job.
+alert-level-green = Зелений
+alert-level-green-announcement = Небезпека минула. Персонал об'єкту може повертатися до роботи.
+alert-level-green-instructions = Робить вашу роботу.
 
-alert-level-blue = Blue
-alert-level-blue-announcement = There is a confirmed threat to the station. Security should perform random checks. Crewmembers are advised to be vigilant and report suspicious activity to security.
-alert-level-blue-instructions = Crewmembers are advised to be vigilant and report suspicious activity to security.
+alert-level-blue = Синій
+alert-level-blue-announcement = На об'єкті є підтвердженна загроза. Служба Безпеки може проводити випадкові перевірки. Радимо персоналу повідомляти о будь якої підозрілої діяльності службі безпеки.
+alert-level-blue-instructions = Персоналу об'єкту радиться повідомляти о підозрілої діяльності.
 
-alert-level-red = Red
+alert-level-red = Червоний
 alert-level-red-announcement = There is an immediate threat to the station. Security should prepare to use lethal force if necessary. Crewmembers should find a safe place to shelter in, and are advised to follow any present authorities.
 alert-level-red-instructions = Crewmembers should find a safe place to shelter in, and are advised to follow any present authorities.
 
-alert-level-violet = Violet
+alert-level-violet = Фіолетовий
 alert-level-violet-announcement = There is a viral threat on the station. Medical staff are advised to isolate crewmembers with any symptoms. Crewmembers are advised to distance themselves from others and perform safety measures to prevent further spread.
 alert-level-violet-instructions = Crewmembers are advised to distance themselves from others and perform safety measures to prevent further spread.
 
-alert-level-yellow = Yellow
+alert-level-yellow = Жовтий
 alert-level-yellow-announcement = There is a structural or atmospheric threat within the station. Engineering staff are advised to immediately respond and perform safety measures. Crewmembers are advised to stay away from the threat, and stay in their workplaces if necessary.
 alert-level-yellow-instructions = Crewmembers are advised to stay away from the threat, and stay in their workplaces if necessary.
 
-alert-level-gamma = Gamma
-alert-level-gamma-announcement = Central Command has ordered the Gamma security level on the station. Security is to have weapons equipped at all times, and all civilians are to immediately seek their nearest head for transportation to a secure location.
-alert-level-gamma-instructions = All civilians are to immediately seek their nearest head for transportation to a secure location.
+alert-level-gamma = Гамма
+alert-level-gamma-announcement = Центральне Командування перемкнуло рівень небезпеки на Гамма. Служба Безпеки повинна носити з собою зброю. Цивільним наказано шукати безпечні місця.
+alert-level-gamma-instructions = Усім цивільним наказано евакуюватися або знайти безпечне місце.
 
-alert-level-delta = Delta
-alert-level-delta-announcement = The station is currently under threat of imminent destruction. Crewmembers are advised to listen to heads of staff for more information.
-alert-level-delta-instructions = Crewmembers are advised to listen to heads of staff for more information.
+alert-level-delta = Дельта
+alert-level-delta-announcement = Об'єкт під загрозою немінучого знищення. Персонал повинен слухатися наказам голов відділів.
+alert-level-delta-instructions = Персонал повинен слухатися наказам голов відділів.
 
-alert-level-epsilon = Epsilon
-alert-level-epsilon-announcement = Central Command has ordered the Epsilon security level on the station. Consider all contracts terminated.
-alert-level-epsilon-instructions = Consider all contracts terminated.
+alert-level-epsilon = Епсілон
+alert-level-epsilon-announcement = Центральне Командування перемкнуло рівень небезпеки на Епсілон. Усі контракти було розірвано.
+alert-level-epsilon-instructions = Усі контракти розірвано.

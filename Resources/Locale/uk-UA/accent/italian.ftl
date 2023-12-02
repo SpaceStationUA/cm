@@ -12,20 +12,20 @@ accent-italian-words-replace-1 = goombah
 accent-italian-words-2 = assistants
 accent-italian-words-replace-2 = goombahs
 
-accent-italian-words-3 = baby
-accent-italian-words-replace-3 = bambino
+accent-italian-words-3 = крошка
+accent-italian-words-replace-3 = бамбіна
 
-accent-italian-words-4 = bad
-accent-italian-words-replace-4 = molto male
+accent-italian-words-4 = погано
+accent-italian-words-replace-4 = мольте мале
 
-accent-italian-words-5 = bye
-accent-italian-words-replace-5 = arrivederci
+accent-italian-words-5 = пока
+accent-italian-words-replace-5 = арівідерчі
 
-accent-italian-words-6 = captain
-accent-italian-words-replace-6 = capitano
+accent-italian-words-6 = капітан
+accent-italian-words-replace-6 = капітано
 
-accent-italian-words-7 = cheese
-accent-italian-words-replace-7 = parmesano
+accent-italian-words-7 = сир
+accent-italian-words-replace-7 = пармезано
 
 accent-italian-words-8 = cook
 accent-italian-words-replace-8 = cook-a
@@ -33,11 +33,11 @@ accent-italian-words-replace-8 = cook-a
 accent-italian-words-9 = could
 accent-italian-words-replace-9 = could-a
 
-accent-italian-words-10 = dad
-accent-italian-words-replace-10 = pappa
+accent-italian-words-10 = тато
+accent-italian-words-replace-10 = паппа
 
-accent-italian-words-11 = good
-accent-italian-words-replace-11 = molto bene
+accent-italian-words-11 = добре
+accent-italian-words-replace-11 = мольто бене
 
 accent-italian-words-12 = greytide
 accent-italian-words-replace-12 = curvisti
@@ -48,8 +48,8 @@ accent-italian-words-replace-13 = curvisti
 accent-italian-words-14 = greytiders
 accent-italian-words-replace-14 = curvisti
 
-accent-italian-words-15 = hello
-accent-italian-words-replace-15 = ciao
+accent-italian-words-15 = привіт
+accent-italian-words-replace-15 = чао
 
 accent-italian-words-16 = it's
 accent-italian-words-replace-16 = it's-a
@@ -60,8 +60,8 @@ accent-italian-words-replace-17 = make-a
 accent-italian-words-18 = meat
 accent-italian-words-replace-18 = prosciutto
 
-accent-italian-words-19 = mom
-accent-italian-words-replace-19 = mamma
+accent-italian-words-19 = мама
+accent-italian-words-replace-19 = мамма
 
 accent-italian-words-20 = my
 accent-italian-words-replace-20 = my-a
@@ -99,23 +99,23 @@ accent-italian-words-replace-29 = carabinieri
 accent-italian-words-30 = sing
 accent-italian-words-replace-30 = sing-a
 
-accent-italian-words-31 = spaghetti
-accent-italian-words-replace-31 = SPAGHETT
+accent-italian-words-31 = спагеті
+accent-italian-words-replace-31 = СПАГЕТ
 
 accent-italian-words-32 = spicy
 accent-italian-words-replace-32 = a-spicy
 
-accent-italian-words-33 = thanks
-accent-italian-words-replace-33 = grazie
+accent-italian-words-33 = дякую
+accent-italian-words-replace-33 = граці
 
 accent-italian-words-34 = thing
 accent-italian-words-replace-34 = thing-a
 
-accent-italian-words-35 = traitor
-accent-italian-words-replace-35 = mafioso
+accent-italian-words-35 = зрадник
+accent-italian-words-replace-35 = мафіозо
 
-accent-italian-words-36 = traitors
-accent-italian-words-replace-36 = mafioso
+accent-italian-words-36 = зрадники
+accent-italian-words-replace-36 = мафіозіі
 
 accent-italian-words-37 = use
 accent-italian-words-replace-37 = use-a

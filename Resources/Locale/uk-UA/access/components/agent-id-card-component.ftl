@@ -1,7 +1,7 @@
-agent-id-no-new = Didn't gain any new accesses from {THE($card)}.
-agent-id-new-1 = Gained one new access from {THE($card)}.
-agent-id-new = Gained {$number} new accesses from {THE($card)}.
-agent-id-card-current-name = Name:
-agent-id-card-current-job = Job:
-agent-id-card-job-icon-label = Job icon:
-agent-id-menu-title = Agent ID Card
+agent-id-no-new = Не получено жодних нових доступів з {$card}.
+agent-id-new-1 = Получено одного нового доступу з {$card}.
+agent-id-new = Получено {$number} нових доступів з {$card}.
+agent-id-card-current-name = Ім'я:
+agent-id-card-current-job = Праця:
+agent-id-card-job-icon-label = Іконка праці:
+agent-id-menu-title = ID картка Агента

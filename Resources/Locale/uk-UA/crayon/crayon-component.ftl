@@ -7,4 +7,4 @@ crayon-interact-used-up-text = The {$owner} got used up.
 crayon-interact-invalid-location = Can't reach there!
 
 ## UI
-crayon-window-title = Crayon
+crayon-window-title = Крейда

@@ -1,3 +1,3 @@
-magic-mirror-component-activate-user-has-no-hair = You can't have any hair!
+magic-mirror-component-activate-user-has-no-hair = У вас нема зачиски!
 
-magic-mirror-window-title = Magic Mirror
+magic-mirror-window-title = Магічне дзеркало
