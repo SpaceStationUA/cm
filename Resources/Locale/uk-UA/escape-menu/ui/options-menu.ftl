@@ -1,28 +1,28 @@
 ## General stuff
 
-ui-options-title = Game Options
-ui-options-tab-graphics = Graphics
-ui-options-tab-controls = Controls
-ui-options-tab-audio = Audio
-ui-options-tab-network = Network
+ui-options-title = Ігрови
+ui-options-tab-graphics = Графіка
+ui-options-tab-controls = Управління
+ui-options-tab-audio = Аудіо
+ui-options-tab-network = Інтернет
 
-ui-options-apply = Apply
-ui-options-reset-all = Reset All
-ui-options-default = Default
+ui-options-apply = Прийняти
+ui-options-reset-all = Скинути
+ui-options-default = Замовчення
 
 ## Audio menu
 
 ui-options-master-volume = Master Volume:
 ui-options-midi-volume = MIDI (Instrument) Volume:
 ui-options-ambient-music-volume = Ambient music volume:
-ui-options-ambience-volume = Ambience volume:
-ui-options-lobby-volume = Lobby & Round-end volume:
+ui-options-ambience-volume = Гучніть ембіенту:
+ui-options-lobby-volume = Гучність музики лобі:
 ui-options-ambience-max-sounds = Ambience simultaneous sounds:
-ui-options-lobby-music = Lobby & Round-end Music
-ui-options-restart-sounds = Round Restart Sounds
-ui-options-event-music = Event Music
-ui-options-admin-sounds = Play Admin Sounds
-ui-options-volume-label = Volume
+ui-options-lobby-music = Музика в лобі
+ui-options-restart-sounds = Звуки перезапуску раунда
+ui-options-event-music = Музика івентів
+ui-options-admin-sounds = Музика адмінів
+ui-options-volume-label = Гучність
 ui-options-volume-percent = { TOSTRING($volume, "P0") }
 
 ## Graphics menu
