@@ -1,67 +1,70 @@
-alerts-low-oxygen-name = [color=red]Низький рівень кисня[/color]
-alerts-low-oxygen-desc = Тут [color=red]не достатньо кисня[/color] у повітрі. Подключить ваш [color=green]балон[/color].
+alerts-low-oxygen-name = [color=red]Low Oxygen[/color]
+alerts-low-oxygen-desc = There is [color=red]not enough oxygen[/color] in the air you are breathing. Put on [color=green]internals[/color].
 
-alerts-high-toxin-name = [color=red]Високий рівень токсінів[/color]
-alerts-high-toxin-desc = Тут [color=red]забагато отрути[/color] у повітрі. Подключить ваш [color=green]балон[/color] або покиньте територію.
+alerts-high-toxin-name = [color=red]High Toxin Level[/color]
+alerts-high-toxin-desc = There are [color=red]too many toxins[/color] in the air you are breathing. Put on [color=green]internals[/color] or get away.
 
-alerts-low-pressure-name = [color=red]Низький тиск[/color]
-alerts-low-pressure-desc = Повітря навколо тебе [color=red]екстремально ненасичене[/color]. Було би не погано одягнути [color=green]Космічний костюм[/color].
+alerts-low-pressure-name = [color=red]Low Pressure[/color]
+alerts-low-pressure-desc = The air around you is [color=red]hazardously thin[/color]. A [color=green]space suit[/color] would protect you.
 
-alerts-high-pressure-name = [color=red]Високий тиск[/color]
-alerts-high-pressure-desc = Повітря навколо тебе [color=red]екстремально перенасичене[/color]. [color=green]Спеціального костюма[/color] повинно бути достатньо.
+alerts-high-pressure-name = [color=red]High Pressure[/color]
+alerts-high-pressure-desc = The air around you is [color=red]hazardously thick[/color]. A [color=green]pressurized suit[/color] would be enough protect you.
 
-alerts-on-fire-name = [color=red]Ви горите[/color]
-alerts-on-fire-desc = Ви [color=red]горите[/color]. Нажмить на це щоб почати кататися по підлозі щоб потушити себе.
+alerts-on-fire-name = [color=red]On Fire[/color]
+alerts-on-fire-desc = You're [color=red]on fire[/color]. Click the alert to stop, drop and roll to put the fire out or move to a vacuum area.
 
-alerts-too-cold-name = [color=cyan]Занадто холодно[/color]
-alerts-too-cold-desc = Ви [color=cyan]замерзаєте до смерті![/color] Знайдить більш тепле місце та знимить вашого костюма.
+alerts-too-cold-name = [color=cyan]Too Cold[/color]
+alerts-too-cold-desc = You're [color=cyan]freezing cold![/color] Get somewhere warmer and take off any insulating clothing like a space suit.
 
-alerts-too-hot-name = [color=red]Занадто горяче[/color]
-alerts-too-hot-desc = Вам [color=red]занадто горяче![/color] Знайдить більш холодне місце, знимить космічний костюм або не стійте у вогні.
+alerts-too-hot-name = [color=red]Too Hot[/color]
+alerts-too-hot-desc = It's [color=red]too hot![/color] Get somewhere colder, take off any insulating clothing like a space suit, or at least get away from the flames.
 
-alerts-weightless-name = Невагомий
+alerts-weightless-name = Weightless
 alerts-weightless-desc =
-    Гравітація більш не утримуває вас та ви літаєте у невагомості. Знайдить щось за що можна триматися або кидайте щось чи стріляйте чимось щоб рухатися.
-    Магнітні ботинки або джетпак могли б допомогти вам рухатися краще.
+    Gravity has ceased affecting you, and you're floating around aimlessly. Find something sturdy to hold onto, or throw or shoot something in a direction opposite of you.
+    Mag-boots or jetpacks would help you move with more control.
 
-alerts-stunned-name = [color=yellow]Оглушені[/color]
-alerts-stunned-desc = Ви [color=yellow]оглушені[/color]! Ви не можете рухатися.
+alerts-stunned-name = [color=yellow]Stunned[/color]
+alerts-stunned-desc = You're [color=yellow]stunned[/color]! Something is impairing your ability to move or interact with objects.
 
-alerts-handcuffed-name = [color=yellow]Звязані[/color]
-alerts-handcuffed-desc = На вас [color=yellow]кайдани[/color] і ви не можете поворохнути руками. Якщо хтось потягне вас - ви не зможете втекти.
+alerts-handcuffed-name = [color=yellow]Handcuffed[/color]
+alerts-handcuffed-desc = You're [color=yellow]handcuffed[/color] and can't use your hands. If anyone drags you, you won't be able to resist.
 
 alerts-ensnared-name = [color=yellow]Ensnared[/color]
 alerts-ensnared-desc = You're [color=yellow]ensnared[/color] and is impairing your ability to move.
 
-alerts-buckled-name = [color=yellow]Пристебнути[/color]
-alerts-buckled-desc = Ви [color=yellow]пристебнути[/color] до чогось. Натисніть щоб відстебнутися, але тільки якщо ви не в [color=yellow]кайданах[/color]
+alerts-buckled-name = [color=yellow]Buckled[/color]
+alerts-buckled-desc = You've been [color=yellow]buckled[/color] to something. Click the alert to unbuckle unless you're [color=yellow]handcuffed.[/color]
 
-alerts-crit-name = [color=red]Без свідомості[/color]
-alerts-crit-desc = Ви без свідомості.
+alerts-crit-name = [color=red]Critical Condition[/color]
+alerts-crit-desc = You're severely injured and unconscious.
 
-alerts-dead-name = Мертві
-alerts-dead-desc = Ви мертві, але зауважте, вас все ще можна врятувати!
+alerts-dead-name = Dead
+alerts-dead-desc = You're dead, note that you can still be revived!
 
-alerts-health-name = Здоров'я
-alerts-health-desc = [color=green]Зелене[/color] - добре. [color=red]Червоне[/color] - погано.
+alerts-health-name = Health
+alerts-health-desc = [color=green]Green[/color] good. [color=red]Red[/color] bad.
 
-alerts-battery-name = Батарея
-alerts-battery-desc = Якщо баша батарея розрядиться, ви не зможете використовувати свої спосібності.
+alerts-battery-name = Battery
+alerts-battery-desc = If your battery depletes, you will be unable to use your abilities.
 
-alerts-no-battery-name = Немає батареї
-alerts-no-battery-desc = У вас нема батарейки, ви не можете зарядитися чи використати свої спосібності.
+alerts-no-battery-name = No Battery
+alerts-no-battery-desc = You don't have a battery, rendering you unable to charge or use your abilities.
 
-alerts-internals-name = Перемнуть балон
-alerts-internals-desc = Перемикає вашого балона.
+alerts-internals-name = Toggle internals
+alerts-internals-desc = Toggles your gas tank internals on or off.
 
-alerts-piloting-name = У режимі пілотування
-alerts-piloting-desc = Ви пілотуєте космоліт. Натисніть щоб перестати.
+alerts-internals-name = Toggle internals
+alerts-internals-desc = Toggles your gas tank internals on or off.
+
+alerts-piloting-name = Piloting Shuttle
+alerts-piloting-desc = You are piloting a shuttle. Click the alert to stop.
 
 alerts-hunger-name = [color=yellow]Peckish[/color]
 alerts-hunger-desc = Some food would be good right about now.
 
-alerts-stamina-name = Стаміна
-alerts-stamina-desc = Оглушає вас якщо її мало.
+alerts-stamina-name = Stamina
+alerts-stamina-desc = Stuns you if it is too low.
 
 alerts-starving-name = [color=red]Starving[/color]
 alerts-starving-desc = You're severely malnourished. The hunger pains make moving around a chore.
@@ -87,8 +90,8 @@ alerts-pulled-desc = You're being pulled. Move to break free.
 alerts-pulling-name = Pulling
 alerts-pulling-desc = You're pulling something. Click the alert to stop.
 
-alerts-bleed-name = [color=red]Кровотеча[/color]
-alerts-bleed-desc = У вас [color=red]кровотеча[/color].
+alerts-bleed-name = [color=red]Bleed[/color]
+alerts-bleed-desc = You're [color=red]bleeding[/color].
 
 alerts-pacified-name = [color=green]Pacified[/color]
 alerts-pacified-desc = You're pacified; you won't be able to attack anyone directly.
