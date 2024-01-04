@@ -4,8 +4,8 @@ cm-xeno-not-enough-plasma = У вас недостатньо плазми!
 # Costruction
 cm-xeno-choose-resin-structure = Оберіть Гумову Структуру
 cm-xeno-order-construction = Побудувати Структуру
-cm-xeno-too-close-to-other-node = Дуже близько до {THE($target)}!
-cm-xeno-requires-more-plasma = {THE($construction)} потребує {$plasma} більше плазми.
+cm-xeno-too-close-to-other-node = Дуже близько до {$target}!
+cm-xeno-requires-more-plasma = {$construction} потребує {$plasma} більше плазми.
 cm-xeno-construction-plasma-left = {$construction} Тут позначається споруда. Їй потрібно [color=cyan]{$plasma}[/color] більше плазми.
 cm-xeno-cant-reach-there = Ви не можете дотягнутись!
 
@@ -27,11 +27,11 @@ cm-xeno-leap-cancelled = Ви скасували стрибок!
 cm-xeno-weeds-already-here = Тут уже є рослинність!
 
 # Corrosive acid
-cm-xeno-acid-not-corrodable = роз'їдаюча кислота не може роз'їсти {THE($target)}!
-cm-xeno-acid-already-corroding = {THE($target)} вже покритий роз'їдаючею кислотою!
+cm-xeno-acid-not-corrodable = роз'їдаюча кислота не може роз'їсти {$target}!
+cm-xeno-acid-already-corroding = {$target} вже покритий роз'їдаючею кислотою!
 
 # Devour
-cm-xeno-cant-devour = Ви не можете проковтнути {THE($target)}!
+cm-xeno-cant-devour = Ви не можете проковтнути {$target}!
 
 # Paralyzing Slash
 cm-xeno-paralyzing-slash-activate = Ваш наступний удар застосує нейротоксин!
@@ -65,4 +65,4 @@ cm-xeno-plasma-transferred-to-other = Ви передали {$plasma} плазм
 cm-xeno-plasma-transferred-to-self = {$target} передав {$plasma} одиниць плазми. Зараз у вас {$total}
 
 # Watch
-cm-xeno-watch = Watch Xeno
+cm-xeno-watch = Дивитися за іншима

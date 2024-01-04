@@ -1,7 +1,7 @@
-﻿cm-cpr-already-being-performed = CPR is already being performed on {$target}!
-cm-cpr-self-start-perform = You start performing CPR on {$target}
-cm-cpr-other-start-perform = {$performer} starts performing CPR on {$target}
-cm-cpr-self-perform = You perform CPR on {$target}. Repeat at least every {$seconds} seconds.
-cm-cpr-other-perform = {$performer} performs CPR on {$target}
-cm-cpr-self-perform-fail-received-too-recently = You fail to perform CPR on {$target}. Incorrect rhythm. Do it slower.
-cm-cpr-other-perform-fail = {$performer} fails to perform CPR on {$target}
+﻿cm-cpr-already-being-performed = СЛР вже проводиться на {$target}!
+cm-cpr-self-start-perform = Ви почали проводити СЛР на {$target}
+cm-cpr-other-start-perform = {$performer} почав проводити СЛР на {$target}
+cm-cpr-self-perform = Ви провели СЛР на {$target}. Продовжуйте повторювати це раз на {$seconds} секунд.
+cm-cpr-other-perform = {$performer} провів СЛР на {$target}
+cm-cpr-self-perform-fail-received-too-recently = Ви не змогли провести СЛР на {$target}. Зашвидкий рітм.
+cm-cpr-other-perform-fail = {$performer} не зміг провести СЛР на {$target}
