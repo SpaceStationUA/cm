@@ -3,13 +3,13 @@ job-name-rifleman = Рядовий
 job-description-rifleman = Слухайте наказів від офіцерів. Стріляйте коли треба стріляти, виконуйте свою роботу, та будь ласка, постарайтеся не померти.
 JobRifleman = Рядовий
 
-job-name-squad-leader = Лідер Загону
+job-name-squad-leader = Лідер Загіну
 job-description-squad-leader = Лідер одного з чотирьох загонів. Віддавайте вашому загону та бойовим групам цілі та слухайтеся наказів від Командування. Тримайте ваших людей живими.
-JobSquaderLeader = Лідер Загону
+JobSquaderLeader = Лідер Загіну
 
-job-name-fireteam-leader = Лідер Бойової Групи
+job-name-fireteam-leader = Лідер Бойового Отряду
 job-description-fireteam-leader = Слухайтеся наказів лідера загону та командуйте вашою групою.
-JobFireteamLeader = Лідер Бойової Групи
+JobFireteamLeader = Лідер Бойового Отряду
 
 job-name-weapons-specialist = Спеціаліст по Озброєнню
 job-description-weapons-specialist = Тримайте у своїх руках найтяжчу та найсильнішу зброю що бачив світ.
