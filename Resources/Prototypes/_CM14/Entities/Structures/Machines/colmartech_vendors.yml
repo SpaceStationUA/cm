@@ -2,7 +2,7 @@
 # TODO CM14 deny and vend states
 - type: entity
   abstract: true
-  parent: [ BaseMachinePowered, CMEntityBase ]
+  parent: BaseMachinePowered
   id: ColMarTechBase
   name: ColMarTech vendor
   components:
@@ -152,7 +152,7 @@
 - type: entity
   parent: ColMarTechBase
   id: ColMarTechUtilities
-  name: ColMarTech automated utilities Squad Vendor
+  name: ColMarTech automated utilities squad vendor
   description: An automated supply rack hooked up to a small storage of various utilities and tools. Can be accessed by any Marine Rifleman.
   components:
   - type: Sprite
@@ -169,19 +169,20 @@
       entries:
       #- id: CMEntrenchingTool
       #  amount: 2
-      #- id: CMEntrenchingTool
-      #  amount: 2
       - id: CMScrewdriver
         amount: 5
       - id: CMWirecutter
         amount: 5
       - id: CMCrowbar
         amount: 5
+      - id: CMWrench
+        amount: 5
       - id: CMMultitool
         amount: 1
-      #- id: CMHandWelderME3
-#    - name: Flare and light
-#      entries:
+      - id: CMWelder
+        amount: 1
+    - name: Flare and light
+      entries: []
       #  amount: 1
       #- id: CMCombatFlashlight
       #  amount: 5
@@ -193,8 +194,8 @@
       #  amount: 10
       #- id: CMSignalFlarePackM89S
       #  amount: 1
-#    - name: Miscellaneous
-#      entries:
+    - name: Miscellaneous
+      entries: []
       #- id: CMEngineerKit
       #  amount: 1
       #- id: CMMap
@@ -225,23 +226,31 @@
   - type: Sprite
     sprite: _CM14/Structures/Machines/VendingMachines/ColMarTech/requisitions_ammo.rsi
   - type: CMAutomatedVendor
-    sections: []
+    sections:
+    - name: Armor-Piercing Ammunition
+      entries: []
     #- id: CMMagazineM4RAAP
     #  amount: 3
     #- id: CMMagazineM39AP
     #  amount: 3
     #- id: CMMagazineM41AAP
     #  amount: 3
+    - name: Extended Ammunition
+      entries: []
     #- id: CMMagazineExtendedM39
     #  amount: 1
     #- id: CMMagazineExtendedM41A
     #  amount: 1
+    - name: Special Ammunition
+      entries: []
     #- id: CMDrumSmartgunM56
     #  amount: 1
     #- id: CMHeavySpeedLoaderM44
     #  amount: 2
     #- id: CMMarksmanSpeedLoaderM44
     #  amount: 2
+    - name: Restricted Firearm Ammunition
+      entries: []
     #- id: CMMagazineVP78
     #  amount: 5
     #- id: CMMagazineSmartpistolSU6
@@ -311,8 +320,8 @@
       #  amount: 20
       - id: CMMagazinePistolM4A3
         amount: 25
-#    - name: Attachments
-#      entries:
+    - name: Attachments
+      entries: []
       #- id: CMAttachmentFoldingStockM39
       #  amount: 10
       #- id: CMAttachmentFoldingStockM41A
@@ -339,23 +348,24 @@
   - type: Sprite
     sprite: _CM14/Structures/Machines/VendingMachines/ColMarTech/equipment.rsi
   - type: CMAutomatedVendor
-    sections: []
-#    - id: ArmorMarineM3
-#      amount: 30
-#    - id: CMArmorM3Light
-#      amount: 30
-#    - id: ArmorHelmetM10
-#      amount: 50
-#    #    CMStandardMarineApparel
-#    - id: CMMRE
-#      amount: 50 # Infinite
+    sections:
+    - name: Standard Equipment
+      entries: []
+    #    CMStandardMarineApparel
+    #    CMMRE
     #    CMMap
+    - name: Armor
+      entries: []
     #    CMLightArmor
     #    CMMediumArmor
     #    CMHeavyArmor
+    - name: Backpack
+      entries: []
     #    CMBackpack
     #    CMSatchel
     #    CMShotgunScabbard
+    - name: Belt
+      entries: []
     #    CMM276AmmoLoadRig
     #    CMM276GeneralPistolHolsterRig
     #    CMM276KnifeRigFull
@@ -365,6 +375,8 @@
     #    CMM276ShotgunShellLoadingRig
     #    CMM276G8AGeneralUtilityPouch
     #    CMM276M40GrenadeRigEmpty
+    - name: Pouches
+      entries: []
     #    CMBayonetSheathFull
     #    CMFirstAidPouchRefillableInjectors
     #    CMFirstAidPouchSplintsGauzeOintment
@@ -376,15 +388,21 @@
     #    CMMediumGeneralPouch
     #    CMPistolMagazinePouch
     #    CMPistolPouch
+    - name: Mask
+      entries: []
     #    CMGasMask
     #    CMHeatAbsorbentCoif
     #    CMRebreather
+    - name: Restricted Firearms
+      entries: []
     #- id: CMVP78Pistol
     #  amount: 15P
     #- id: CMSU6SmartPistol
     #  amount: 15P
     #- id: CMM79GrenadeLauncher
     #  amount: 30P
+    - name: Explosives
+      entries: []
     #- id: CMM40HEDPHighExplosivePacket3
     #  amount: 20P
     #- id: CMM40HIDPIncendiaryPacket3
@@ -403,6 +421,8 @@
     #  amount: 15P
     #- id: CMM20MineBox4
     #  amount: 20P
+    - name: Ammunition
+      entries: []
     #- id: CMM4RAAPMagazine
     #  amount: 10P
     #- id: CMM39APMagazine
@@ -413,10 +433,14 @@
     #  amount: 10P
     #- id: CMM44HeavySpeedLoader
     #  amount: 10P
+    - name: Armors
+      entries: []
     #- id: CMM3B12PatternMarineArmor
     #  amount: 30P
     #- id: CMM4PatternArmor
     #  amount: 30P
+    - name: Clothing Items
+      entries: []
     #- id: CMWebbing
     #  amount: 10P
     #- id: CMBrownWebbingVest
@@ -443,6 +467,8 @@
     #  amount: 15P
     #- id: CMLargeGeneralPouch
     #  amount: 15P
+    - name: Utilities
+      entries: []
     #- id: CMEntrenchingTool
     #  amount: 5P
     #- id: CMSandbags
@@ -459,18 +485,26 @@
     #  amount: 15P
     #- id: CMWhistle
     #  amount: 5P
+    - name: Binoculars
+      entries: []
     #- id: CMRangeFinder
     #  amount: 10P
     #- id: CMLaserDesignator
     #  amount: 15P
+    - name: Helmet Optics
+      entries: []
     #- id: CMMedicalHelmetOptic
     #  amount: 15P
     #- id: CMWelding isor
     #  amount: 5P
+    - name: Pamphlets
+      entries: []
     #- id: CMJTACPamphlet
     #  amount: 15P
     #- id: CMEngineeringPamphlet
     #  amount: 15P
+    - name: Radio Keys
+      entries: []
     #- id: CMEngineeringRadioEncryptionKey
     #  amount: 5P
     #- id: CMIntelRadioEncryptionKey
@@ -489,9 +523,13 @@
   - type: Sprite
     sprite: _CM14/Structures/Machines/VendingMachines/ColMarTech/gear.rsi
   - type: CMAutomatedVendor
-    sections: []
+    sections:
+    - name: Squad Leader Kit
+      entries: []
     #- id: CMEssentialSLKit
     #  amount: 0P
+    - name: Squad Kit
+      entries: []
     #- id: CMM4RASniperKit
     #  amount: 0P
     #- id: CMM41AStandardKit
@@ -510,8 +548,12 @@
     #  amount: 0P
     #- id: CMBasicEngineeringSupplies
     #  amount: 0P
+    - name: Armors
+      entries: []
     #- id: CMM4PatternArmor
     #  amount: 30P
+    - name: Clothing Items
+      entries: []
     #- id: CMMacheteScabbardFull
     #  amount: 4P
     #- id: CMMachetePouchFull
@@ -520,6 +562,8 @@
     #  amount: 5P
     #- id: CMM276PatternCombatToolbeltRig
     #  amount: 15P
+    - name: Utilities
+      entries: []
     #- id: CMWhistle
     #  amount: 3P
     #- id: CMFireExtinguisherPortable
@@ -528,20 +572,26 @@
     #  amount: 5P
     #- id: CMFultonDeviceStack
     #  amount: 5P
+    - name: Binoculars
+      entries: []
     #- id: CMRangeFinder
     #  amount: 3P
     #- id: CMLaserDesignator
     #  amount: 5P
+    - name: Helmet Optics
+      entries: []
     #- id: CMWeldingVisor
     #  amount: 5P
     #- id: CMMedicalHelmetOptic
     #  amount: 4P
     #- id: CMNightVisionOptic
     #  amount: 20P
+    - name: Engineering Supplies
+      entries:
     #- id: CMInsulatedGloves
     #  amount: 3P
-    #- id: CMMetalx10
-    #  amount: 5P
+      - id: CMSheetSteel
+        points: 5
     #- id: CMPlasteelx10
     #  amount: 7P
     #- id: CMPlasticexplosive
@@ -556,6 +606,8 @@
     #  amount: 5P
     #- id: CMWeldingGoggles
     #  amount: 5P
+    - name: Explosives
+      entries: []
     #- id: CMM40HEDPHighExplosivePacketx3
     #  amount: 18P
     #- id: CMM40HIDPIncendiaryPacketx3
@@ -576,6 +628,8 @@
     #  amount: 20P
     #- id: CMM40MFHSMetalFoamGrenade
     #  amount: 5P
+    - name: Medical Supplies
+      entries: []
     #- id: CMBurnKit
     #  amount: 2P
     #- id: CMTraumaKit
@@ -602,6 +656,8 @@
     #  amount: 4P
     #- id: CMRollerBed
     #  amount: 2P
+    - name: Special Ammunition
+      entries: []
     #- id: CMM4RAAPMagazine10x24mm
     #  amount: 6P
     #- id: CMM39APMagazine10x20mm
@@ -616,6 +672,8 @@
     #  amount: 3P
     #- id: CMM240IncineratorTankB-Gel
     #  amount: 3P
+    - name: Restricted Firearms
+      entries: []
     #- id: CMM240IncineratorUnit
     #  amount: 18P
     #- id: CMVP78Pistol
@@ -624,6 +682,8 @@
     #  amount: 12P
     #- id: CMM79GrenadeLauncher
     #  amount: 18P
+    - name: Radio Keys
+      entries: []
     #- id: CMEngineeringRadioEncryptionKey
     #  amount: 3P
     #- id: CMIntelRadioEncryptionKey
@@ -642,14 +702,20 @@
   - type: Sprite
     sprite: _CM14/Structures/Machines/VendingMachines/ColMarTech/clothing.rsi
   - type: CMAutomatedVendor
-    sections: []
+    sections:
+    - name: Standard Equipment
+      entries: []
     #- id: CMStandardMarineApparel
     #- id: CMB12PatternArmor
     #- id: CMMRE
     #- id: CMMap
+    - name: Backpack
+      entries: []
     #- id: CMBackpack
     #- id: CMMacheteScabbardFull
     #- id: CMSatchel
+    - name: Belt
+      entries: []
     #- id: CMG8AGeneralUtilityPouch
     #- id: CMM276AmmoLoadRig
     #- id: CMM276GeneralPistolHolsterRig
@@ -661,6 +727,8 @@
     #- id: CMM276ShotgunShellLoadingRig
     #- id: CMM276ToolbeltRigFull
     #- id: CMM276M40GrenadeRig
+    - name: Pouches
+      entries: []
     #- id: CMAutoinjectorPouchFull
     #- id: CMFirstAidPouchRefillableInjectors
     #- id: CMFirstAidPouchSplintsGauzeOintment
@@ -673,11 +741,15 @@
     #- id: CMLargeShotgunShellPouch
     #- id: CMLargePistolMagazinePouch
     #- id: CMPistolPouch
+    - name: Accessories
+      entries: []
     #- id: CMBlackWebbingVest
     #- id: CMBrownWebbingVest
     #- id: CMShoulderHolster
     #- id: CMWebbing
     #- id: CMDropPouch
+    - name: Mask
+      entries: []
     #- id: CMGasMask
     #- id: CMHeatAbsorbentCoif
 
@@ -690,7 +762,10 @@
   - type: Sprite
     sprite: _CM14/Structures/Machines/VendingMachines/ColMarTech/specialist_gear.rsi
   - type: CMAutomatedVendor
-    sections: []
+    sections:
+    - name: Weapons Specialist Sets
+      choices: { SquadLeaderKit: 1 }
+      entries:
     #- id: DemolitionistSet
     #  amount: 0P
     #- id: HeavyGrenadierSet
@@ -698,27 +773,33 @@
     #- id: PyroSet
     #  amount: 0P
     #- id: ScoutSet
-    #  amount: 0P
-    #- id: SniperSet
-    #  amount: 0P
+      - id: CMSniperEquipmentCase
+    - name: Extra Scout Ammunition
+      entries: []
     #- id: A19HighVelocityImpactMagazine
     #  amount: 40P
     #- id: A19HighVelocityIncendiaryMagazine
     #  amount: 40P
     #- id: A19HighVelocityMagazine
     #  amount: 40P
+    - name: Extra Sniper Ammunition
+      entries: []
     #- id: M42AFlakMagazine
     #  amount: 40P
     #- id: M42AIncendiaryMagazine
     #  amount: 40P
     #- id: M42AMarksmanMagazine
     #  amount: 40P
+    - name: Extra Demolitionist Ammunition
+      entries: []
     #- id: 84mmAntiArmorRocket
     #  amount: 40P
     #- id: 84mmHighExplosiveRocket
     #  amount: 40P
     #- id: 84mmWhitePhosphorusRocket
     #  amount: 40P
+    - name: Extra Grenades
+      entries: []
     #- id: M40HEDPGrenadesx6
     #  amount: 40P
     #- id: M40HIDPIncendiaryGrenadesx6
@@ -731,6 +812,8 @@
     #  amount: 40P
     #- id: M74AGMSSmokeGrenadesx6
     #  amount: 20P
+    - name: Extra Flamethrower Tanks
+      entries: []
     #- id: LargeIncineratorTank
     #  amount: 40P
     #- id: LargeIncineratorTankB GreenFlame
@@ -747,12 +830,18 @@
   - type: Sprite
     sprite: _CM14/Structures/Machines/VendingMachines/ColMarTech/clothing.rsi
   - type: CMAutomatedVendor
-    sections: []
+    sections:
+    - name: Standard Equipment
+      entries: []
     #- id: CMStandardMarineApparel
     #- id: CMMRE
     #- id: CMMap
+    - name: Backpack
+      entries: []
     #- id: CMBackpack
     #- id: CMSatchel
+    - name: Belt
+      entries: []
     #- id: CMG8AGeneralUtilityPouch
     #- id: CMM276AmmoLoadRig
     #- id: CMM276GeneralPistolHolsterRig
@@ -760,6 +849,8 @@
     #- id: CMM276M44HolsterRig
     #- id: CMM276M82FHolsterRig
     #- id: CMM276ShotgunShellLoadingRig
+    - name: Pouches
+      entries: []
     #- id: CMFirstAidPouchRefillableInjectors
     #- id: CMFirstAidPouchSplints, Gauze, Ointment
     #- id: CMFirstAidPouchPillPackets
@@ -770,13 +861,19 @@
     #- id: CMMediumGeneralPouch
     #- id: CMPistolPouch
     #- id: CMSlingPouch
+    - name: Accessories
+      entries: []
     #- id: CMBrownWebbingVest
     #- id: CMBlackWebbingVest
     #- id: CMShoulderHolster
     #- id: CMWebbing
     #- id: CMDropPouch
+    - name: Mask
+      entries: []
     #- id: CMGasMask
     #- id: CMHeatAbsorbentCoif
+    - name: Clothing Items
+      entries: []
     #- id: CMMacheteScabbardFull
     #- id: CMMachetePouchFull
     #- id: CMUSCMRadioTelephonePack
@@ -785,14 +882,22 @@
     #- id: CMLargeGeneralPouch
     #- id: CMM276PatternCombatToolbeltRig
     #- id: CMAutoinjectorPouchFull
+    - name: Utilities
+      entries: []
     #- id: CMFireExtinguisherPortable
     #- id: CMRollerBed
     #- id: CMFultonDeviceStack
     #- id: CMMotionDetector
+    - name: Helmet Optics
+      entries: []
     #- id: CMMedicalHelmetOptic
     #- id: CMWeldingVisor
+    - name: Pàmphlets
+      entries: []
     #- id: CMJTACPamphlet
     #- id: CMEngineeringPamphlet
+    - name: Radio Keys
+      entries: []
     #- id: CMEngineeringRadioEncryptionKey
     #- id: CMIntelRadioEncryptionKey
     #- id: CMJTACRadioEncryptionKey
@@ -809,14 +914,20 @@
   - type: AccessReader
     access: [["CMAccessCombatTechPrep"]]
   - type: CMAutomatedVendor
-    sections: []
+    sections:
+    - name: Engineer Set (Mandatory)
+      entries: []
     #    CMEssentialEngineerSet
+    - name: Handheld Defense
+      entries: []
     #    CM21STeslaCoil
     #    CMJIMAPlantedFlag
     #    CMUA42FSentryFlamer
     #    CMUA571CSentryGun
     #- id: CMSentryUpgradeKit
     #  amount: 15P
+    - name: Engineering Supplies
+      entries: []
     #- id: CMAirlockCircuitBoard
     #  amount: 2P
     #- id: CMAPCCircuitBoard
@@ -839,6 +950,8 @@
     #  amount: 10P
     #- id: CMES11MobileFuelCanister
     #  amount: 4P
+    - name: Explosives
+      entries: []
     #- id: CMM40HEDPHighExplosivePacket3
     #  amount: 18P
     #- id: CMM40HIDPIncendiaryPacket3
@@ -859,6 +972,8 @@
     #  amount: 18P
     #- id: CMM40MFHSMetalFoamGrenade
     #  amount: 5P
+    - name: Ammunition
+      entries: []
     #- id: CMMagazineM4RAAP
     #  amount: 6P
     #- id: CMMagazineM39AP
@@ -869,10 +984,14 @@
     #  amount: 6P
     #- id: CMMagazineExtendedM41A
     #  amount: 6P
+    - name: Armors
+      entries: []
     #- id: CMArmorM3B12PatternMarine
     #  amount: 24P
     #- id: CMArmorM4Pattern
     #  amount: 30P
+    - name: Restricted FIrearms
+      entries: []
     #- id: CMVP78Pìstol
     #  amount: 8P
     #- id: CMSU6SmartPistol
@@ -883,6 +1002,8 @@
     #  amount: 24P
     #- id: CMM56DHeavyMachineGun
     #  amount: 24P
+    - name: Clothing Items
+      entries: []
     #- id: CMMacheteScabbardFull
     #  amount: 6P
     #- id: CMMachetePouchFull
@@ -897,6 +1018,8 @@
     #  amount: 6P
     #- id: CMM276PatternCombatToolbeltRig
     #  amount: 15P
+    - name: Utilities
+      entries: []
     #- id: CMRollerBed
     #  amount: 5P
     #- id: CMFultonDeviceStack
@@ -907,16 +1030,24 @@
     #  amount: 8P
     #- id: CMWhistle
     #  amount: 3P
+    - name: Binoculars
+      entries: []
     #- id: CMBinoculars
     #  amount: 5P
     #- id: CMRangeFinder
     #  amount: 10P
     #- id: CMLaserDesignator
     #  amount: 15P
+    - name: Helmet Optics
+      entries: []
     #- id: CMMedicalHelmetOptic
     #  amount: 12P
+    - name: Pamphlets
+      entries: []
     #- id: CMJTACPamphlet
     #  amount: 15P
+    - name: Radio Keys
+      entries: []
     #- id: CMIntelRadioEncryptionKey
     #  amount: 3P
     #- id: CMJTACRadioEncryptionKey
@@ -935,19 +1066,27 @@
   - type: AccessReader
     access: [["CMAccessCombatTechPrep"]]
   - type: CMAutomatedVendor
-    sections: []
+    sections:
+    - name: Standard Equipment
+      entries: []
     #- id: CMStandardMarineApparel
     #- id: CMMRE
     #- id: CMMap
+    - name: Armor
+      entries: []
     #- id: CMLightArmor
     #- id: CMMediumArmor
     #- id: CMHeavyArmor
+    - name: Backpack
+      entries: []
     #- id: CMMacheteScabbardFull
     #- id: CMTechnicianBackpack
     #- id: CMTechnicianSatchel
     #- id: CMTechnicianWelderpack
     #- id: CMTechnicianWelderSatchel
     #- id: CMTechnicianWelderChestrig
+    - name: Belt
+      entries: []
     #- id: CMG8AGeneralUtilityPouch
     #- id: CMM276AmmoLoadRig
     #- id: CMM276GeneralPistolHolsterRig
@@ -958,6 +1097,8 @@
     #- id: CMM276MortarOperatorBelt
     #- id: CMM276ToolbeltRigFull
     #- id: CMM276M40GrenadeRig
+    - name: Pouches
+      entries: []
     #- id: CMConstructionPouch
     #- id: CMFirstAidPouchRefillableInjectors
     #- id: CMFirstAidPouchSplintsGauzeOintment
@@ -971,11 +1112,15 @@
     #- id: CMMediumGeneralPouch
     #- id: CMPistolPouch
     #- id: CMToolsPouchFull
+    - name: Accessories
+      entries: []
     #- id: CMBlackWebbingVest
     #- id: CMBrownWebbingVest
     #- id: CMShoulderHolster
     #- id: CMWebbing
     #- id: CMDropPouch
+    - name: Mask
+      entries: []
     #- id: CMGasMask
     #- id: CMHeatAbsorbentCoif
 
@@ -988,20 +1133,28 @@
   - type: Sprite
     sprite: _CM14/Structures/Machines/VendingMachines/ColMarTech/medical_gear.rsi
   - type: CMAutomatedVendor
-    sections: []
+    sections:
+    - name: Medical Set (Mandatory)
+      entries: []
     #    CMEssentialMedicalSet: 0P
+    - name: Field Supplies
+      entries: []
     #    CMBurnKit: 2P
     #    CMTraumaKit: 2P
     #    CMMedicalSplints: 1P
     #    CMGauze: 1P
     #    CMOintment: 1P
     #    CMBloodBagO-: 4P
+    - name: Firstaid Kits
+      entries: []
     #    CMAdvancedFirstaidKit: 12P
     #    CMFirstaidKit: 5P
     #    CMFireFirstaidKit: 6P
     #    CMToxinFirstaidKit: 6P
     #    CMOxygenFirstaidKit: 6P
     #    CMRadiationFirstaidKit: 6P
+    - name: Autoinjectors
+      entries: []
     #    CMAutoinjectorBicaridine: 1P
     #    CMAutoinjectorDexalin+: 1P
     #    CMAutoinjectorEpinephrine: 2P
@@ -1010,19 +1163,30 @@
     #    CMAutoinjectorOxycodone: 2P
     #    CMAutoinjectorTramadol: 1P
     #    CMAutoinjectorTricord: 1P
-    #    CMPillBottleBicaridine: 5P
-    #    CMPillBottleDexalin: 5P
-    #    CMPillBottleDylovene: 5P
-    #    CMPillBottleInaprovaline: 5P
-    #    CMPillBottleKelotane: 5P
-    #    CMPillBottlePeridaxon: 5P
-    #    CMPillBottleTramadol: 5P
+    - name: Pill Bottles
+      entries:
+        - id: CMPillCanisterBicaridine
+          amount: 5 #P
+        - id: CMPillCanisterDylovene
+          amount: 5 #P
+        - id: CMPillCanisterInaprovaline
+          amount: 5 #P
+        - id: CMPillCanisterKelotane
+          amount: 5 #P
+#        - id: CMPillCanisterPeridaxon
+#          amount: 5 #P
+#        - id: CMPillCanisterTramadol
+#          amount: 5 #P
+    - name: Medical Utilities
+      entries: []
     #    CMHealthAnalyzer: 4P
     #    CMRollerBed: 4P
     #    CMStasisBag: 6P
     #    CMPressurizedReagentCanisterPouchEMPTY: 3P
     #    CMG8AGeneralUtilityPouch: 15P
     #    CMMS11SmartRefillTank: 6P
+    - name: Explosives
+      entries: []
     #    CMM40HEDPHighExplosivePacketx3grenades: 18P
     #    CMM40HIDPIncendiaryPacketx3grenades: 18P
     #    CMM40HPDPWhitePhosphorusPacketx3grenades: 18P
@@ -1032,29 +1196,47 @@
     #    CMM74AGMSmokeAirburstPacketx3airburstgrenades: 10P
     #    CMM74AGMHornetAirburstPacketx3airburstgrenades: 20P
     #    CMM20MineBoxx4mines: 20P
+    - name: Ammunition
+      entries: []
     #    CMM4RAAPMagazine: 6P
     #    CMM39APMagazine: 6P
     #    CMM39ExtendedMagazine: 6P
     #    CMM41AAPMagazine: 6P
     #    CMM41AExtendedMagazine: 6P
+    - name: Armors
+      entries: []
     #    CMM3B12PatternMarineArmor: 28P
     #    CMM4PatternArmor: 28P
+    - name: Restricted Firearms
+      entries: []
     #    CMVP78Pistol: 8P
     #    CMSU6SmartPistol: 12P
+    - name: Clothing Items
+      entries: []
     #    CMMacheteScabbardFull: 6P
     #    CMMachetePouchFull: 8P
     #    CMUSCMRadioTelephonePack: 15P
     #    CMFuelTankStrapPouch: 4P
     #    CMWeldingGoggles: 3P
+    - name: Utilities
+      entries: []
     #    CMFireExtinguisherPortable: 3P
     #    CMMotionDetector: 8P
     #    CMWhistle: 3P
+    - name: Binoculars
+      entries: []
     #    CMBinoculars: 5P
     #    CMRangeFinder: 10P
     #    CMLaserDesignator: 15P
+    - name: Helmet Optics
+      entries: []
     #    CMWeldingVisor: 5P
+    - name: Pamphlets
+      entries: []
     #    CMJTACPamphlet: 15P
     #    CMEngineeringPamphlet: 15P
+    - name: Radio Keys
+      entries: []
     #    CMEngineeringRadioEncryptionKey: 3P
     #    CMIntelRadioEncryptionKey: 3P
     #    CMJTACRadioEncryptionKey: 3P
@@ -1069,16 +1251,24 @@
   - type: Sprite
     sprite: _CM14/Structures/Machines/VendingMachines/ColMarTech/clothing.rsi
   - type: CMAutomatedVendor
-    sections: []
+    sections:
+    - name: Standard Equipment
+      entries: []
     #- id: CMStandardMarineApparel
     #- id: CMCombatSterileGloves
     #- id: CMMRE
     #- id: CMMap
+    - name: Armor
+      entries: []
     #- id: CMLightArmor
     #- id: CMMediumArmor
     #- id: CMHeavyArmor
+    - name: Backpack
+      entries: []
     #- id: CMMedicalBackpack
     #- id: CMMedicalSatchel
+    - name: Belt
+      entries: []
     #- id: CMM276AmmoLoadRig
     #- id: CMM276GeneralPistolHolsterRig
     #- id: CMM276LifesaverBagFull
@@ -1088,6 +1278,8 @@
     #- id: CMM276M82FHolsterRig
     #- id: CMM276ShotgunShellLoadingRig
     #- id: CMM276M40GrenadeRig
+    - name: Pouches
+      entries: []
     #- id: CMAutoinjectorPouch
     #- id: CMFirst-AidPouchRefillableInjectors
     #- id: CMFirst-AidPouchSplintsGauzeOintment
@@ -1108,11 +1300,15 @@
     #- id: CMPressurizedReagentCanisterPouchEmpty
     #- id: CMPistolPouch
     #- id: CMVialPouchFull
+    - name: Accessories
+      entries: []
     #- id: CMBrownWebbingVest
     #- id: CMBlackWebbingVest
     #- id: CMShoulderHolster
     #- id: CMWebbing
     #- id: CMDropPouch
+    - name: Mask
+      entries: []
     #- id: CMGasMask
     #- id: CMHeatAbsorbentCoif
     #- id: CMSterileMask
@@ -1131,9 +1327,25 @@
     - state: "normal"
       map: ["enum.VendingMachineVisualLayers.BaseUnshaded"]
   - type: CMAutomatedVendor
-    sections: []
-    # injectors basic and tramadol
-    # ointment, bruise pack, splint
+    sections:
+    - name: Autoinjectors
+      entries: []
+    #- id: CMFirstAidInjector
+    #- id: CMPainStopAutoinjector
+    - name: Devices
+      entries:
+      - id: CMHealthAnalyzer
+        amount: 3
+    - name: Field Supplies
+      entries:
+      - id: CMFireExtinguisher # TODO CM14 portable
+        amount: 5
+      - id: CMOintment10
+        amount: 7
+      - id: CMGauze10
+        amount: 7
+#      - id: CMMedicalSplints5
+#        amount: 7
 
 - type: entity
   parent: ColMarTechBase
@@ -1144,17 +1356,25 @@
   - type: Sprite
     sprite: _CM14/Structures/Machines/VendingMachines/ColMarTech/smartgunner_gear.rsi
   - type: CMAutomatedVendor
-    sections: []
+    sections:
+    - name: Smartgun Set (Mandatory)
+      entries: []
     #- id: CMEssentialSmartgunnerSet
     #  amount: 0P
+    - name: Smartgun Ammunition
+      entries: []
     #- id: CMM56SmartgunDrum
     #  amount: 15P
+    - name: Gun Attachments
+      entries: []
     #- id: CMLaserSight
     #  amount: 0P
     #- id: CMRedDotSight
     #  amount: 0P
     #- id: CMReflexSight
     #  amount: 0P
+    - name: Explosives
+      entries: []
     #- id: CMM40HEDPHighExplosivePacketx3
     #  amount: 30P
     #- id: CMM40HIDPIncendiaryPacketx3
@@ -1173,12 +1393,16 @@
     #  amount: 20P
     #- id: CMM20MineBox4
     #  amount: 20P
+    - name: Clothing Items
+      entries: []
     #- id: CMMacheteScabbardFull
     #  amount: 6P
     #- id: CMFuelTankStrapPouch
     #  amount: 5P
     #- id: CMLargeGeneralPouch
     #  amount: 6P
+    - name: Utilities
+      entries: []
     #- id: CMFireExtinguisherPortable
     #  amount: 5P
     #- id: CMWhistle
@@ -1187,20 +1411,28 @@
     #  amount: 5P
     #- id: CMFultonDeviceStack
     #  amount: 5P
+    - name: Binoculars
+      entries: []
     #- id: CMBinoculars
     #  amount: 5P
     #- id: CMRangeFinder
     #  amount: 10P
     #- id: CMLaserDesignator
     #  amount: 15P
+    - name: Helmet Optics
+      entries: []
     #- id: CMMedicalHelmetOptic
     #  amount: 15P
     #- id: CMWeldingVisor
     #  amount: 5P
+    - name: Pamphlets
+      entries: []
     #- id: CMJTACPamphlet
     #  amount: 15P
     #- id: CMEngineeringPamphlet
     #  amount: 15P
+    - name: Radio Keys
+      entries: []
     #- id: CMEngineeringRadioEncryptionKey
     #  amount: 5P
     #- id: CMIntelRadioEncryptionKey
@@ -1219,12 +1451,18 @@
   - type: Sprite
     sprite: _CM14/Structures/Machines/VendingMachines/ColMarTech/clothing.rsi
   - type: CMAutomatedVendor
-    sections: []
+    sections:
+    - name: Standard Equipment
+      entries: []
     #- id: CMStandardMarineApparel
     #- id: CMMRE
     #- id: CMMap
+    - name: Belt
+      entries: []
     #- id: CMM802SmartgunnerSidearmBelt
     #- id: CMM280SmartgunnerDrumBelt
+    - name: Pouches
+      entries: []
     #- id: CMFlarePouchFull
     #- id: CMElectronicsPouch
     #- id: CMFirstAidPouchRefillableInjectors
@@ -1237,11 +1475,15 @@
     #- id: CMPistolPouch
     #- id: CMMachetePouchFull
     #- id: CMSlingPouch
+    - name: Accessories
+      entries: []
     #- id: CMBrownWebbingVest
     #- id: CMBlackWebbingVest
     #- id: CMShoulderHolster
     #- id: CMWebbing
     #- id: CMDropPouch
+    - name: Mask
+      entries: []
     #- id: CMGasMask
     #- id: CMHeatAbsorbentCoif
 
@@ -1254,7 +1496,9 @@
   - type: Sprite
     sprite: _CM14/Structures/Machines/VendingMachines/ColMarTech/fireteam_leader_gear.rsi
   - type: CMAutomatedVendor
-    sections: []
+    sections:
+    - name: Ammunition
+      entries: []
     #- id: CMM4RAAPMagazine
     #  amount: 10
     #- id: CMM39APMagazine
@@ -1271,6 +1515,8 @@
     #  amount: 5
     #- id: CMM4A3APMagazine
     #  amount: 5
+    - name: Explosives
+      entries: []
     #- id: CMM40HEDPHighExplosivePacketx3
     #  amount: 18
     #- id: CMM40HIDPIncendiaryPacketx3
@@ -1291,14 +1537,20 @@
     #  amount: 20
     #- id: CMM40MFHSMetalFoamGrenade
     #  amount: 5
+    - name: Restricted Firearms
+      entries: []
     #- id: CMVP78Pistol
     #  amount: 10
     #- id: CMSU6SmartPistol
     #  amount: 15
     #- id: CMM79GrenadeLauncher
     #  amount: 30
+    - name: Armors
+      entries: []
     #- id: CMM3B12PatternMarineArmor
     #  amount: 30
+    - name: Clothing Items
+      entries: []
     #- id: CMMacheteScabbardFull
     #  amount: 5
     #- id: CMMachetePouchFull
@@ -1315,6 +1567,8 @@
     #  amount: 3
     #- id: CMNightVisionOptic
     #  amount: 30
+    - name: Utilities
+      entries: []
     #- id: CMMotionDetector
     #  amount: 15
     #- id: CMPlasticExplosive
@@ -1329,12 +1583,18 @@
     #  amount: 5
     #- id: CMWhistle
     #  amount: 5
+    - name: Binoculars
+      entries: []
     #- id: CMBinoculars
     #  amount: 5
+    - name: Helmet Optics
+      entries: []
     #- id: CMMedicalHelmetOptic
     #  amount: 15
     #- id: CMWeldingVisor
     #  amount: 5
+    - name: Radio Keys
+      entries: []
     #- id: CMEngineeringRadioEncryptionKey
     #  amount: 5
     #- id: CMIntelRadioEncryptionKey
@@ -1353,12 +1613,16 @@
   - type: Sprite
     sprite: _CM14/Structures/Machines/VendingMachines/ColMarTech/clothing.rsi
   - type: CMAutomatedVendor
-    sections: []
+    sections:
+    - name: Standard Equipment
+      entries: []
     #- id: CMStandardMarineApparel
     #- id: CMM4PatternArmor
     #- id: CMMRE
     #- id: CMMap
     #- id: CMEssentialFireteamLeaderUtilities
+    - name: Belt
+      entries: []
     #- id: CMG8AGeneralUtilityPouch
     #- id: CMM276AmmoLoadRig
     #- id: CMM276GeneralPistolHolsterRig
@@ -1368,6 +1632,8 @@
     #- id: CMM276ShotgunShellLoadingRig
     #- id: CMM276ToolbeltRigFull
     #- id: CMM276M40GrenadeRig
+    - name: Pouches
+      entries: []
     #- id: CMFirstAidPouchRefillableInjectors
     #- id: CMFirstAidPouchSplintsGauzeOintment
     #- id: CMFirstAidPouchPillPackets
@@ -1381,10 +1647,14 @@
     #- id: CMShotgunShellPouch
     #- id: CMSidearmPouch
     #- id: CMToolsPouchFull
+    - name: Accessories
+      entries: []
     #- id: CMBlackWebbingVest
     #- id: CMBrownWebbingVest
     #- id: CMShoulderHolster
     #- id: CMWebbing
     #- id: CMDropPouch
+    - name: Mask
+      entries: []
     #- id: CMGasMask
     #- id: CMHeatAbsorbentCoif

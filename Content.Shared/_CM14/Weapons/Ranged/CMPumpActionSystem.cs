@@ -64,8 +64,13 @@ public sealed class CMPumpActionSystem : EntitySystem
     {
         if (!ent.Comp.Running ||
             ent.Comp.Pumped ||
-            !_actionBlocker.CanInteract(user, ent) ||
-            !_useDelay.BeginDelay(ent))
+            !_actionBlocker.CanInteract(user, ent))
+        {
+            return;
+        }
+
+        if (TryComp(ent, out UseDelayComponent? delay) &&
+            !_useDelay.TryResetDelay((ent, delay), true))
         {
             return;
         }

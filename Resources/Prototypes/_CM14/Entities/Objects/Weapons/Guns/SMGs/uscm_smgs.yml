@@ -1,5 +1,5 @@
 ﻿- type: entity
-  parent: [BaseWeaponSubMachineGun, CMEntityBase]
+  parent: BaseWeaponSubMachineGun
   name: M39 submachine gun
   id: WeaponSMGM39
   description: The Armat Battlefield Systems M-39 submachinegun. Occasionally carried by light-infantry, scouts, engineers and medics.
@@ -30,7 +30,7 @@
         - Burst
         - FullAuto
       soundGunshot:
-        path: /Audio/_CM14/Weapons/Guns/Gunshots/m39.ogg
+        path: /Audio/_CM14/Weapons/Guns/Gunshots/gun_m39.ogg
     - type: GunWieldBonus
       minAngle: -5
       maxAngle: -5

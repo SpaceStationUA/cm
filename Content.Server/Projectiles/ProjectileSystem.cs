@@ -70,21 +70,11 @@ public sealed class ProjectileSystem : SharedProjectileSystem
 
         component.DamagedEntity = true;
 
-        if (component.DeleteOnCollide )
-        {
-            QueueDel(uid);
-        }
-        if (component.CanPenetrate)
-        {
-            component.DamagedEntity = false;
+        var afterProjectileHitEvent = new AfterProjectileHitEvent(component.Damage, target, args.OtherFixture);
+        RaiseLocalEvent(uid, ref afterProjectileHitEvent);
 
-            if (!TryComp<MobStateComponent>(target, out var mobState))
-                QueueDel(uid);
-        }
-        else if (component.DeleteOnCollide && !component.CanPenetrate)
-        {
+        if (component.DeleteOnCollide)
             QueueDel(uid);
-        }
 
         if (component.ImpactEffect != null && TryComp<TransformComponent>(uid, out var xform))
         {
