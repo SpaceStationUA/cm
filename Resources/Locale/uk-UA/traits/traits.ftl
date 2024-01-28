@@ -1,32 +1,32 @@
-trait-blindness-name = Blindness
-trait-blindness-desc = You are legally blind, and can't see clearly past a few meters in front of you.
+trait-blindness-name = Сліпий
+trait-blindness-desc = Ти - сліпий й не можеш бачити все що дальше за метр від тебе.
 
-trait-narcolepsy-name = Narcolepsy
-trait-narcolepsy-decs = You fall asleep randomly
+trait-narcolepsy-name = Нарколепсія
+trait-narcolepsy-decs = Ти раптово можеш заснути
 
-trait-pacifist-name = Pacifist
+trait-pacifist-name = Паціфист
 
-permanent-blindness-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} eyes are glassy and unfocused. It doesn't seem like {SUBJECT($target)} can see you well, if at all.[/color]
+permanent-blindness-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} очі порожні та не сфокусовані. Виглядає що {SUBJECT($target)} не може вас бачити, якщо взагалі може.[/color]
 
 trait-lightweight-name = Lightweight Drunk
 trait-lightweight-desc = Alcohol has a stronger effect on you
 
-trait-muted-name = Muted
-trait-muted-desc = You can't speak
+trait-muted-name = Німий
+trait-muted-desc = Ти не можеш розмовляти
 
-trait-paracusia-name = Paracusia
-trait-paracusia-desc = You hear sounds that aren't really there
+trait-paracusia-name = Паракузія
+trait-paracusia-desc = Ти чуєш звуки яких не існує
 
-trait-uncloneable-name = Uncloneable
-trait-uncloneable-desc = Cannot be cloned
+trait-uncloneable-name = Неклонуємий
+trait-uncloneable-desc = Тебе не можливо клонувати
 
-trait-pirate-accent-name = Pirate Accent
-trait-pirate-accent-desc = You can't stop speaking like a pirate!
+trait-pirate-accent-name = Акцент пірата
+trait-pirate-accent-desc = Ти не можеш зупинитися розмовляти як пірат! Яррр!
 
-trait-accentless-name = Accentless
-trait-accentless-desc = You don't have the accent that your species would usually have
+trait-accentless-name = Без акцентів
+trait-accentless-desc = Ти не маєш акценту який притаманен твоєї расі.
 
-trait-wheelchair-bound-name = Wheelchair Bound
+trait-wheelchair-bound-name = Пристосований до інвалідного крісла
 trait-wheelchair-bound-desc = You cannot move without your wheelchair. Wheelchair included.
 
 trait-frontal-lisp-name = Frontal Lisp

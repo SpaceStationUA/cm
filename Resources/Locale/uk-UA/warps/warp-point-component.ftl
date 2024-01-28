@@ -1,1 +1,1 @@
-warp-point-component-on-examine-success = Назва локації цього - {$location}
+warp-point-component-on-examine-success = Назва локації - {$location}

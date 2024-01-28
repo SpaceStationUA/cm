@@ -1,39 +1,39 @@
-game-ticker-restart-round = Restarting round...
-game-ticker-start-round = The round is starting now...
-game-ticker-start-round-cannot-start-game-mode-fallback = Failed to start {$failedGameMode} mode! Defaulting to {$fallbackMode}...
-game-ticker-start-round-cannot-start-game-mode-restart = Failed to start {$failedGameMode} mode! Restarting round...
+game-ticker-restart-round = Перезапускаємо раунд...
+game-ticker-start-round = Раунд починається...
+game-ticker-start-round-cannot-start-game-mode-fallback = Невдалося почати режим {$failedGameMode}! Запускаємо {$fallbackMode}...
+game-ticker-start-round-cannot-start-game-mode-restart = Невдалося запустити режим {$failedGameMode}! Перезапускаємо раунд...
 game-ticker-start-round-invalid-map = Selected map {$map} is inelligible for gamemode {$mode}. Gamemode may not function as intended...
-game-ticker-unknown-role = Unknown
+game-ticker-unknown-role = Невідома
 game-ticker-delay-start = Round start has been delayed for {$seconds} seconds.
 game-ticker-pause-start = Round start has been paused.
 game-ticker-pause-start-resumed = Round start countdown is now resumed.
-game-ticker-player-join-game-message = Welcome to Space Station 14! If this is your first time playing, be sure to read the game rules, and don't be afraid to ask for help in LOOC (local OOC) or OOC (usually available only between rounds).
-game-ticker-get-info-text = Hi and welcome to [color=white]Space Station 14![/color]
-                            The current round is: [color=white]#{$roundId}[/color]
-                            The current player count is: [color=white]{$playerCount}[/color]
-                            The current map is: [color=white]{$mapName}[/color]
-                            The current game mode is: [color=white]{$gmTitle}[/color]
+game-ticker-player-join-game-message = Вітаємо на Колоніальних Морпіхах 14! Якщо це ваш перший раз, прочитайте правила та не бійтеся просити допомоги у LOOC (локальному OOC), OOC (зазвичай вимкнутий під час раунду) чи у АХелпі (F1).
+game-ticker-get-info-text = Привіт і вітаємо на [color=white]Колоніальних Морпіхах 14![/color]
+                            Поточний раунд: [color=white]#{$roundId}[/color]
+                            Наразі гравців на сервері: [color=white]{$playerCount}[/color]
+                            Поточна мапа: [color=white]{$mapName}[/color]
+                            Поточний режим гри: [color=white]{$gmTitle}[/color]
                             >[color=yellow]{$desc}[/color]
-game-ticker-get-info-preround-text = Hi and welcome to [color=white]Space Station 14![/color]
-                            The current round is: [color=white]#{$roundId}[/color]
-                            The current player count is: [color=white]{$playerCount}[/color] ([color=white]{$readyCount}[/color] {$readyCount ->
-                                [one] is
-                                *[other] are
-                            } ready)
-                            The current map is: [color=white]{$mapName}[/color]
-                            The current game mode is: [color=white]{$gmTitle}[/color]
+game-ticker-get-info-preround-text = Привіт і вітаємо на [color=white]Колоніальних Морпіхах 14![/color]
+                            Поточний раунд: [color=white]#{$roundId}[/color]
+                            Наразі гравців на сервері: [color=white]{$playerCount}[/color] ([color=white]{$readyCount}[/color] {$readyCount ->
+                                [one] готовий
+                                *[other] готові
+                            }.)
+                            Поточна мапа: [color=white]{$mapName}[/color]
+                            Поточний режим гри: [color=white]{$gmTitle}[/color]
                             >[color=yellow]{$desc}[/color]
-game-ticker-no-map-selected = [color=yellow]Map not yet selected![/color]
-game-ticker-player-no-jobs-available-when-joining = When attempting to join to the game, no jobs were available.
+game-ticker-no-map-selected = [color=yellow]Мапа ще не обрана![/color]
+game-ticker-player-no-jobs-available-when-joining = Під час спроби під'єднання до раунду не було доступно жодної ролі.
 
 # Displayed in chat to admins when a player joins
-player-join-message = Player {$name} joined.
-player-first-join-message = Player {$name} joined for the first time.
+player-join-message = Гравець {$name} під'єднався.
+player-first-join-message = ! Гравець {$name} під'єднався вперше.
 
 # Displayed in chat to admins when a player leaves
-player-leave-message = Player {$name} left.
+player-leave-message = Граець {$name} від'єднався.
 
-latejoin-arrival-announcement = {$character} ({$job}) has arrived at the station!
-latejoin-arrival-sender = Station
-latejoin-arrivals-direction = A shuttle transferring you to your station will arrive shortly.
-latejoin-arrivals-direction-time = A shuttle transferring you to your station will arrive in {$time}.
+latejoin-arrival-announcement = {$character} ({$job}) прокинувся від кріосну!
+latejoin-arrival-sender = Корабель
+latejoin-arrivals-direction = Шатл що доставе вас на корабель скоро прибуде.
+latejoin-arrivals-direction-time = Шатл що доставе вас на корабель прибуде через {$time}.

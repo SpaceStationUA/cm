@@ -1,22 +1,22 @@
-ghost-gui-return-to-body-button = Return to body
-ghost-gui-ghost-warp-button = Ghost Warp
-ghost-gui-ghost-roles-button = Ghost Roles ({$count})
-ghost-gui-toggle-ghost-visibility-popup = Toggled visibility of ghosts.
-ghost-gui-toggle-lighting-manager-popup = Toggled all lighting.
-ghost-gui-toggle-fov-popup = Toggled field-of-view.
+ghost-gui-return-to-body-button = Повернутися до тіла
+ghost-gui-ghost-warp-button = Телепортуватися
+ghost-gui-ghost-roles-button = Ролі для привідів ({$count})
+ghost-gui-toggle-ghost-visibility-popup = Перемкнуто видімість привідів.
+ghost-gui-toggle-lighting-manager-popup = Перемкнуто світло.
+ghost-gui-toggle-fov-popup = Перемкнуто поле зору.
 
-ghost-gui-toggle-hearing-popup-on = You can now hear all messages.
-ghost-gui-toggle-hearing-popup-off = You can now only hear radio and nearby messages.
+ghost-gui-toggle-hearing-popup-on = Ви тепер чуєте усі повідомлення.
+ghost-gui-toggle-hearing-popup-off = Ви тепер чуєте тільки рацію та повідомлення поряд.
 
-ghost-target-window-title = Ghost Warp
-ghost-target-window-current-button = Warp: {$name}
+ghost-target-window-title = Телепортуватися
+ghost-target-window-current-button = До: {$name}
 
-ghost-roles-window-title = Ghost Roles
-ghost-roles-window-request-role-button = Request
-ghost-roles-window-request-role-button-timer = Request ({$time}s)
-ghost-roles-window-follow-role-button = Follow
-ghost-roles-window-no-roles-available-label = There are currently no available ghost roles.
-ghost-roles-window-rules-footer = The button will enable after {$time} seconds (this delay is to make sure you read the rules).
+ghost-roles-window-title = Ролі для привидів
+ghost-roles-window-request-role-button = Запросити
+ghost-roles-window-request-role-button-timer = Запросити через ({$time}с)
+ghost-roles-window-follow-role-button = Слідувати
+ghost-roles-window-no-roles-available-label = Зараз немає ролей для привидів.
+ghost-roles-window-rules-footer = Кнопка буде доступна через {$time} секунд (цій таймер потрібен для того щоб ви прочитали правила).
 
-ghost-return-to-body-title = Return to Body
-ghost-return-to-body-text = You are being revived! Return to your body?
+ghost-return-to-body-title = Повернутися в тіло
+ghost-return-to-body-text = Вас було реанімовано! Повернутися в тіло?

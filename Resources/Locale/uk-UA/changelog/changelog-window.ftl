@@ -1,14 +1,14 @@
 ### ChangelogWindow.xaml.cs
 
-changelog-window-title = Changelog
-changelog-author-changed = [color=#EEE]{ $author }[/color] changed:
-changelog-today = Today
-changelog-yesterday = Yesterday
-changelog-new-changes = new changes
-changelog-version-tag = version v{ $version }
+changelog-window-title = Оновлення
+changelog-author-changed = [color=#EEE]{ $author }[/color] змінив/ли/ла:
+changelog-today = Сьогодні
+changelog-yesterday = Вчора
+changelog-new-changes = нові зміни
+changelog-version-tag = версія v{ $version }
 
-changelog-button = Changelog
-changelog-button-new-entries = Changelog (new!)
+changelog-button = Оновлення
+changelog-button-new-entries = Оновлення (новi!)
 
-changelog-tab-title-Changelog = Changelog
-changelog-tab-title-Admin = Admin
+changelog-tab-title-Changelog = Оновлення
+changelog-tab-title-Admin = Адмін
