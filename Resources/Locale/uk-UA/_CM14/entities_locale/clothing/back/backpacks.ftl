@@ -1,31 +1,31 @@
-ent-CMBackpack = backpack
-    .desc = You wear this on your back and put items into it.
+ent-CMBackpack = рюкзак
+    .desc = Ти носиш його на собі і кладеш в нього свої речі.
 
-ent-CMBackpackEngineer = industrial backpack
-    .desc = It's a tough backpack lookin' backpack used by engineers and the like.
+ent-CMBackpackEngineer = індустріальний рюкзак
+    .desc = Крепко виглядаючий рюкзак використовуємий інженерами.
 
-ent-CMBackpackMedical = medical backpack
-    .desc = It's a backpack especially designed for use in a sterile environment.
+ent-CMBackpackMedical = медічний рюкзак
+    .desc = Спеціально зроблений рюкзак для використання у стерільному середовіщі.
 
-ent-CMBackpackSecurity = security backpack
-    .desc = It's a very robust backpack.
+ent-CMBackpackSecurity = рюкзак воєнполу
+    .desc = Дуже міцний рюкзак.
 
-ent-CMBackpackCommand = marine commanding officer backpack
-    .desc = The contents of this backpack are top secret.
+ent-CMBackpackCommand = рюкзак офіцерського составу
+    .desc = Речі в цьому рюкзаці під грифом "Top secret".
 
-ent-CMBackpackMarine = lightweight IMP backpack
-    .desc = The standard-issue pack of the USCM forces. Designed to lug gear into the battlefield.
+ent-CMBackpackMarine = легкий IMP рюкзак
+    .desc = Стандартний рюкзак сил СШКМ. Зроблений щоб тягнути спорядження у пекло бою.
 
-ent-CMBackpackMarineMedic = USCM corpsman backpack
-    .desc = A standard-issue backpack worn by USCM medics.
+ent-CMBackpackMarineMedic = рюкзак медиків СШКМ
+    .desc = Стандартний рюкзак бойових медиків СШКМ.
 
-ent-CMBackpackMarineTech = USCM technician backpack
-    .desc = A standard-issue backpack worn by USCM technicians.
+ent-CMBackpackMarineTech = рюкзак техників СШКМ
+    .desc = Стандартний рюкзак бойових техників СШКМ.
 
-ent-CMBackpackMortar = USCM mortar shell backpack
-    .desc = A backpack specifically designed to hold ammunition for the M402 mortar.
+ent-CMBackpackMortar = мінометний рюкзак СШКМ
+    .desc = Рюкзак спеціально зроблений щоб тримати у ньому снаряди для міномету M402.
 
-ent-CMBackpackWelder = USCM technician welderpack
-    .desc = A specialized backpack worn by USCM technicians. It carries a fueltank for quick welder refueling and use.
-    .suffix = BROKEN, DONT SPAWN
+ent-CMBackpackWelder = паливний рюкзак техників СШКМ
+    .desc = Спеціалізований рюкзак бойових техників СШКМ з додатковим баком палива для швидкої підзаправки зварників.
+    .suffix = ЗЛАМАНИЙ, НЕ СПАВНИТИ
 

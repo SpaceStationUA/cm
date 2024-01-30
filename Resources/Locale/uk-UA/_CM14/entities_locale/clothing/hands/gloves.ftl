@@ -1,21 +1,21 @@
-ent-CMHandsBlack = black gloves
-    .desc = A pair of black gloves.
+ent-CMHandsBlack = чорні рукавички
+    .desc = Пара чорних рукавичок.
 
-ent-CMHandsBrown = brown gloves
-    .desc = A pair of brown gloves.
+ent-CMHandsBrown = бурі рукавички
+    .desc = Пара бурих рукавичок.
 
-ent-CMHandsLightBrown = light brown gloves
-    .desc = A pair of light brown gloves.
+ent-CMHandsLightBrown = світло-бурі рукавички
+    .desc = Пара світло-бурих рукавичок.
 
-ent-CMHandsWhite = white gloves
-    .desc = A pair of white gloves.
+ent-CMHandsWhite = білі рукавички
+    .desc = Пара білих рукавичок.
 
-ent-CMHandsLatex = latex gloves
-    .desc = A pair of latex gloves.
+ent-CMHandsLatex = латексні рукавички
+    .desc = Пара латексних рукавичок.
 
-ent-CMHandsInsulated = insulated gloves
-    .desc = These gloves will protect the wearer from electric shocks.
+ent-CMHandsInsulated = ізольовані рукавички
+    .desc = Ці рукавички захистять носящого удару струмом.
 
-ent-CMHandsCaptain = captain's gloves
-    .desc = A pair of captain's gloves.
+ent-CMHandsCaptain = рукавички командуючого
+    .desc = Пара рукавичок командуючого.
 

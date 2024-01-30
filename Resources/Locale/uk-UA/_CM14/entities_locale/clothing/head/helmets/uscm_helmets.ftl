@@ -1,42 +1,42 @@
-ent-ArmorHelmetM10 = M10 Marine Helmet
-    .desc = A standard M10 Pattern Helmet. The inside label, along with washing information, reads, 'The difference between an open-casket and closed-casket funeral. Wear on head for best results.'. There is a built-in camera on the right side.
+ent-ArmorHelmetM10 = шолом морпіхів M10
+    .desc = Стандартний шолом зразку М10. На ярличку внутрі, поряд з інструкцією по пранню, написано "Між похоронами з відкритою кришкою гроба та закритою є різниця. Носи це на голові для кращого результу.". Має вбудовану камеру на правому боці.
 
-ent-CMArmorHelmetM10MP = M10 Helmet MP
-    .desc = A special variant of the M10 Pattern Helmet worn by the Military Police of the USCM.
+ent-CMArmorHelmetM10MP = шолом воєнполу M10
+    .desc = Спеціальний варіант шолому зразку М10 для військової поліції СШКМ.
 
-ent-CMArmorHelmetM10ChiefMP = M10 Helmet Chief MP
-    .desc = A special variant of the M10 Pattern Helmet worn by the Chief MP of the USCM.
+ent-CMArmorHelmetM10ChiefMP = шолом голови воєнполу M10
+    .desc = Спеціальний варіант шолому зразку М10 для голов військової поліції СШКМ.
 
-ent-CMArmorHelmetM10CO = M10 Helmet CO
-    .desc = A special variant of the M10 Pattern Helmet worn by the Commanding Officer of the USCM.
+ent-CMArmorHelmetM10CO = шолом командуючого M10
+    .desc = Спеціальний варіант шолому зразку М10 для командуючих офіцерів СШКМ.
 
-ent-CMArmorHelmetM10Medic = M10 Medic Helmet
-    .desc = A special variant of the M10 Pattern Helmet worn by the medic marines of the USCM.
+ent-CMArmorHelmetM10Medic = шолом медика M10
+    .desc = Спеціальний варіант шолому зразку М10 ждя бойових медиків СШКМ.
 
-ent-CMArmorHelmetM10Tech = M10 Tech Helmet
-    .desc = A special variant of the M10 Pattern Helmet worn by the engineer marines of the USCM.
+ent-CMArmorHelmetM10Tech = шолом техника M10
+    .desc = Спеціальний варіант шолому зразку М10 для бойових техників СШКМ.
 
-ent-CMArmorHelmetM11 = M11 Pattern Leader Helmet
-    .desc = A slightly fancier helmet for marine leaders. This one contains a small built-in camera and has cushioning to project your fragile brain.
+ent-CMArmorHelmetM11 = шолом лідера зразку M11
+    .desc = Трошечки красивіший шолом для лідерів морпіхів. Цій має вбудовану камеру та має амортізацію щоб захистити твої крихки мізки.
 
-ent-CMArmorHelmetM12 = M12 Pattern Helmet
-    .desc = An experimental brain-bucket. A dust ruffle hangs from back. Moderately better at deflecting blunt objects at the cost of humiliation. But who will be laughing at the memorial? Not you, you'll be busy getting medals for your intel work or for your fantastic leadership.
+ent-CMArmorHelmetM12 = шолом зразку M12
+    .desc = Експерементальне відро для мізків. З рюшкою що звісає зі спіни. Помірно краще захищає від тупих предметів ціною стида та принижень. Але хто буде сміятися останнім? Не ти, бо ти будеш зайнятий на церемоніях нагородження тебе за твою чудову роботу в розвідці чи фантастичне лідерство.
 
-ent-CMArmorHelmetM30 = M30 Tactical Helmet
-    .desc = The M30 tactical helmet has an left eyepiece filter used to filter tactical data.
+ent-CMArmorHelmetM30 = тактичний шолом M30
+    .desc = Тактичний шолом М30 має розумний окуляр що фільтрує тактичну інформацію.
 
-ent-CMArmorHelmetPress = press helmet
-    .desc = A special helmet variant worn by the press.
+ent-CMArmorHelmetPress = шолом "преса"
+    .desc = Спеціальний зразок шоломів для преси.
 
-ent-CMArmorHelmetM3Scout = M3-S Helmet
-    .desc = A custom helmet from the M3 series designed to be lightweight and used for recon missions.
+ent-CMArmorHelmetM3Scout = шолом M3-S
+    .desc = Спеціальний легкий шолом серії М3 зроблений для розвідувательних місій.
 
-ent-CMArmorHelmetM3G4 = M3-G4 Helmet
-    .desc = Pairs with the M3-G4 heavy grenadier plating. A distant cousin of the experimental B18 defensive helmet. As such, it also resists some facehugger latching attempts.
+ent-CMArmorHelmetM3G4 = шолом M3-G4
+    .desc = Поєднутється з тяжкою плитою гренадера М3-G4. Дальний кузен експериментального захисного шолому B18, тому також захищає від лицехватів пригаючих на ваше обличчя.
 
-ent-CMArmorHelmetM35 = M35 Helmet
-    .desc = A custom helmet from the M3 series designed to be highly flame retardant.
+ent-CMArmorHelmetM35 = шолом M35
+    .desc = Спеціальний шолом серії М3 зроблений щоб витримувати вогонь.
 
-ent-CMArmorHelmetM45 = M45 Ghillie Helmet
-    .desc = A lightweight M45 helmet with ghillie coif used by USCM snipers on recon missions.
+ent-CMArmorHelmetM45 = маскувальний шолом M45
+    .desc = Легкий шолом М45 з маскувальною сіткою використовуємий снайперами СШКМ на розвідувательних місіях.
 

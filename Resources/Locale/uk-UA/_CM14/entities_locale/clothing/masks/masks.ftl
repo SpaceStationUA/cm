@@ -1,3 +1,3 @@
-ent-CMClothingMaskGas = gas mask
-    .desc = A face-covering mask that can be connected to an air supply. Filters harmful gases from the air.
+ent-CMClothingMaskGas = газова маска
+    .desc = Маска що покриває все обличчя та яку можна під'єднати до джерела повітря. Фільтрує шкідливи гази.
 

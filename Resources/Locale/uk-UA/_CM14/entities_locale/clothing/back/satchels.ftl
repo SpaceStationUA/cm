@@ -1,27 +1,27 @@
-ent-CMSatchel = leather satchel
-    .desc = A very fancy satchel made of fine leather. Looks pretty pricey.
+ent-CMSatchel = шкіряна сумка
+    .desc = Дуже вишукана шкіряна сумка. Виглядає дорогою.
 
-ent-CMSatchelEngineer = industrial satchel
-    .desc = A tough satchel with extra pockets.
+ent-CMSatchelEngineer = індустріальна сумка
+    .desc = Крепка сумка з додатковими кармашками.
 
-ent-CMSatchelMedical = medical satchel
-    .desc = A sterile satchel used in medical departments.
+ent-CMSatchelMedical = медічна сумка
+    .desc = Стерільна сумка якою користуються у медічному відділі.
 
-ent-CMSatchelSecurity = security satchel
-    .desc = A robust satchel composed of two drop pouches and a large internal pocket. Made of a stiff fabric, it isn't very comfy to wear.
+ent-CMSatchelSecurity = сумка воєнполу
+    .desc = Міцна сумка яка представляє з себе два маленьких та один великий кармашки. Зроблений з не дуже зручної та комфортної жорсткої тканини.
 
-ent-CMSatchelMarine = USCM satchel
-    .desc = A heavy-duty satchel carried by some USCM soldiers and support personnel.
+ent-CMSatchelMarine = сумка СШКМ
+    .desc = Надміцна сумка солдатів СШКМ та персоналу підтримки.
 
-ent-CMSatchelMarineIntel = USCM lightweight expedition pack
-    .desc = A heavy-duty IMP based backpack that can be slung around the front or to the side, and can quickly be accessed with only one hand. Usually issued to USCM intelligence officers.
+ent-CMSatchelMarineIntel = легкий експедіційний рюкзак СШКМ
+    .desc = Надміцний IMP рюкзак який можна легко повісити собі на бік. Зазвичай такі видають Офіцерам Розвідки СШКМ.
 
-ent-CMSatchelMarineLogistics = USCM logistics IMP backpack
-    .desc = A standard-issue backpack worn by logistics personnel. It is occasionally issued to combat personnel for longer term expeditions and deep space incursions.
+ent-CMSatchelMarineLogistics = IMP рюкзак логістів СШКМ.
+    .desc = Стандартний рюкзак персоналу логістики. Також таки видають бойовому персоналу для довгих експедіцій.
 
-ent-CMSatchelMarineMedic = USCM corpsman satchel
-    .desc = A heavy-duty satchel used by USCM medics. It sacrifices capacity for usability. A small patch is sewn to the top flap.
+ent-CMSatchelMarineMedic = сумка медиків СШКМ
+    .desc = Надміцня сумка бойових медиків СШКМ. Зручність ціною місткості.
 
-ent-CMSatchelMarineTech = USCM technician chestrig
-    .desc = A heavy-duty chestrig used by some USCM technicians.
+ent-CMSatchelMarineTech = розгрузка техників СШКМ
+    .desc = Надміцня розгрузка техників СШКМ.
 

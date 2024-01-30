@@ -1,27 +1,27 @@
-ent-CMHeadBandGreen = green headband
-    .desc = Piece of cloth to wrap around the head.
+ent-CMHeadBandGreen = зелена пов'язка
+    .desc = Шматок тканини яким обмотають голову.
 
-ent-CMHeadBandBrown = brown headband
+ent-CMHeadBandBrown = бруда пов'язка
 
-ent-CMHeadBandGray = gray headband
+ent-CMHeadBandGray = сіра пов'язка
 
-ent-CMHeadBandRed = red headband
+ent-CMHeadBandRed = червона пов'язка
 
-ent-CMHeadBandTan = tan headband
+ent-CMHeadBandTan = пов'язка коліру засмаги
 
-ent-CMHeadBandAlpha = alpha headband
-    .desc = Piece of cloth in colors of your squad.
+ent-CMHeadBandAlpha = пов'язка Альфа
+    .desc = Шматок тканини в коліру твоєго загону.
 
-ent-CMHeadBandBravo = bravo headband
+ent-CMHeadBandBravo = пов'язка Браво
 
-ent-CMHeadBandCharlie = charlie headband
+ent-CMHeadBandCharlie = пов'язка Чарлі
 
-ent-CMHeadBandDelta = delta headband
+ent-CMHeadBandDelta = пов'язка Дельта
 
-ent-CMHeadBandEcho = echo headband
+ent-CMHeadBandEcho = пов'язка Еко
 
-ent-CMHeadBandFoxtrot = foxtrot headband
+ent-CMHeadBandFoxtrot = пов'язка Фокстрот
 
-ent-CMHeadBandIntel = intel headband
-    .desc = A piece of cloth that belonged to an experienced special forces operative, nobody seems to recall his name though. Viper..? Serpent..?
+ent-CMHeadBandIntel = пов'язка розвідників
+    .desc = Шматок тканини який колись належив досвідченому оперативнику спеціальних сил. Нажаль ніхто не може згадати його ім'я.. Гадюка?.. Змій?..
 

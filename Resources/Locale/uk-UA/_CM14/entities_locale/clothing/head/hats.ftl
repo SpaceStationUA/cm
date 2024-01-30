@@ -1,45 +1,45 @@
-ent-CMHeadBeret = beret
-    .desc = Does not protect a head from bullet.
+ent-CMHeadBeret = берет
+    .desc = Не захищає голову від пулі.
 
-ent-CMHeadBeretRed = MP beret
+ent-CMHeadBeretRed = берет воєнполу
 
-ent-CMHeadBeretTan = tan beret
+ent-CMHeadBeretTan = берет коліру засмаги
 
-ent-CMHeadBeretWO = WO's beret
+ent-CMHeadBeretWO = берет голови воєнполу
 
-ent-CMHeadBeretCO = CO's beret
+ent-CMHeadBeretCO = берет командуючого
 
-ent-CMHeadBeretCOBlack = CO's beret
+ent-CMHeadBeretCOBlack = берет командуючого
 
-ent-CMHeadCapMP = MP cap
-    .desc = A ball-cap worn by the more casual of the USCM's Military Police.
+ent-CMHeadCapMP = кепка воєнполу
+    .desc = Кепка бейсболка для більш повсякденних з сил військової поліції СШКМ.
 
-ent-CMHeadCapWarden = warden cap
-    .desc = Smells like donuts.
+ent-CMHeadCapWarden = кашкет наглядача
+    .desc = Пахне пончиками.
 
-ent-CMHeadCapCargo = cargo cap
-    .desc = It's a baseball hat in a tasteless yellow color.
+ent-CMHeadCapCargo = кепка вантажника
+    .desc = Бейсболка жовтого коліру.
 
-ent-CMHeadCap = cap
-    .desc = Standard baseball cap.
+ent-CMHeadCap = кепка
+    .desc = Стандартна бейсбольна кепка.
 
-ent-CMHeadCapCO = CO's cap
+ent-CMHeadCapCO = кепка командуючого
 
-ent-CMHeadCapCOFormalBlack = CO's formal cap
+ent-CMHeadCapCOFormalBlack = кашкет командуючого
 
-ent-CMHeadCapCOFormalWhite = CO's formal cap
+ent-CMHeadCapCOFormalWhite = кашкет командуючого
 
-ent-CMHeadCapDrill = drill hat
-    .desc = From now on you will speak only when spoken to, and the first and last words out of your filthy sewers will be 'Sir.'
+ent-CMHeadCapDrill = кашкет старшого радника
+    .desc = Ви говорите тільки коли вас просять. Першим і останнім словом із ваших ротів має бути "Сер"!
 
-ent-CMHeadCapCMO = CMO's cap
+ent-CMHeadCapCMO = кашкет головного лікаря
 
-ent-CMHeadCapSurgBlue = blue surgical cap
-    .desc = Standard-issue surgical cap.
+ent-CMHeadCapSurgBlue = синя шапка хірурга 
+    .desc = Стандартна шапка хірургів.
 
-ent-CMHeadCapSurgGreen = green surgical cap
+ent-CMHeadCapSurgGreen = зелена шапка хірурга
 
-ent-CMHeadCapSurgPurple = purple surgical cap
+ent-CMHeadCapSurgPurple = фіолетова шапка хірурга
 
-ent-CMHeadCapSurgOrange = orange surgical cap
+ent-CMHeadCapSurgOrange = оранжева шапка хірурга
 
