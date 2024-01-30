@@ -1,3 +1,35 @@
 ent-CMPottedPlantRandom = спавнер випадкової рослини
 
 ent-CMPottedPlantBase = рослина
+
+ent-CMPottedPlant0 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant1 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant2 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant3 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant4 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant5 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant6 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant7 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant8 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant9 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant10 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant11 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant12 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant13 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant14 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant15 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant16 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant17 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant18 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant19 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant20 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant21 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant22 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant23 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant24 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant25 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant26 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant27 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant28 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant29 = { ent-CMPottedPlantBase }
+ent-CMPottedPlant30 = { ent-CMPottedPlantBase }

@@ -1,6 +1,6 @@
 ent-CMPaper = paper
 
-ent-CMPaperWritten = ent-CMPaper
+ent-CMPaperWritten = { ent-CMPaper }
 
 ent-CMPaperJudgement = judgement
 

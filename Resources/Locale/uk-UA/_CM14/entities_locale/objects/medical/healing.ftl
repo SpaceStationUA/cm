@@ -1,21 +1,23 @@
+ent-CMBaseHealingItem = { ent-BaseItem }
+
 ent-CMOintment = ointment
     .desc = Used to treat those nasty burns. Less effective on caustic burns.
     .suffix = 10
 
-ent-CMOintment1 = ent-CMOintment
+ent-CMOintment1 = { ent-CMOintment }
     .suffix = 1
 
-ent-CMOintment10 = ent-CMOintment
+ent-CMOintment10 = { ent-CMOintment }
     .suffix = 10
 
 ent-CMGauze = gauze
     .desc = Some sterile gauze to wrap around bloody stumps and lacerations.
-    .suffix = Ten
+    .suffix = 10
 
-ent-CMGauze1 = ent-CMGauze
+ent-CMGauze1 = { ent-CMGauze }
     .suffix = 1
 
-ent-CMGauze10 = ent-CMGauze
+ent-CMGauze10 = { ent-CMGauze }
     .suffix = 10
 
 ent-CMSurgicalLine = surgical line
@@ -26,21 +28,21 @@ ent-CMSynthGraft = CMSynthGraft
 
 ent-CMBurnKit = burn kit
     .desc = A treatment kit for severe burns.
-    .suffix = Ten
+    .suffix = 10
 
-ent-CMBurnKit1 = ent-CMBurnKit
-    .suffix = One
+ent-CMBurnKit1 = { ent-CMBurnKit }
+    .suffix = 1
 
-ent-CMBurnKit = advanced burn kit
-    .suffix = Ten
+ent-CMBurnKit10 = { ent-CMBurnKit }
+    .suffix = 10
 
 ent-CMTraumaKit = trauma kit
     .desc = A trauma kit for severe injuries.
-    .suffix = Ten
+    .suffix = 10
 
-ent-CMTraumaKit1 = ent-CMTraumaKit
-    .suffix = One
+ent-CMTraumaKit1 = { ent-CMTraumaKit }
+    .suffix = 1
 
-ent-CMTraumaKit = advanced trauma kit
-    .suffix = Ten
+ent-CMTraumaKit10 = { ent-CMTraumaKit }
+    .suffix = 10
 

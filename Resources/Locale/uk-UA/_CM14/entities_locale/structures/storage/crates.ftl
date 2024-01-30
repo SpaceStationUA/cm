@@ -4,7 +4,7 @@ ent-CMCrateBase = ящик
 ent-CMCrateLarge = великий ящик
     .desc = Здоровений дерев'яний ящик.
 
-ent-CMCrateWeldable = ent-CMCrateBase
+ent-CMCrateWeldable = { ent-CMCrateBase }
 
 ent-CMCrateAlpha = ящик отряду Альфа
     .desc = Ящик з символом отряду Альфа.

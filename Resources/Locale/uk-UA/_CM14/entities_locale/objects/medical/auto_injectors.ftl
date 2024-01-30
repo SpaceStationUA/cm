@@ -21,4 +21,3 @@ ent-CMBicaridineAutoInjector = Bicaridine auto-injector
 
 ent-CMInaprovalineAutoInjector = inaprovaline auto-injector
     .desc = An auto-injector loaded with 3 uses of inaprovaline, a medicine for people in critical condition. Each use is 10 units.
-

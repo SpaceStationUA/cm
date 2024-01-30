@@ -4,8 +4,8 @@ ent-CMTable = стіл
 ent-CMTableReinforced = усилений стіл
     .desc = Стальна поверхня на чотирьох ніжках. Ця має додаткову полку.
 
-ent-CMTableReinforcedRequisition = ent-CMTableReinforced
-    .desc = ent-CMTableReinforced.desc
+ent-CMTableReinforcedRequisition = { ent-CMTableReinforced }
+    .desc = { ent-CMTableReinforced.desc }
 
 ent-CMTableReinforcedBlack = чорний стіл
     .desc = A sleek black metal table. Its legs are securely bolted to the floor.
@@ -22,6 +22,6 @@ ent-CMTableWoodenFancy = красивий дерев'яний стіл
 ent-CMTableWoodenGambling = ігровий стіл
     .desc = A curved wood and carpet surface resting on four legs. Used for gambling games.
 
-ent-CMTableAlmayer = ent-CMTable
+ent-CMTableAlmayer = { ent-CMTable }
     .desc = A square metal surface resting on four legs. Useful to put stuff on. Can be flipped in emergencies to act as cover.
     .suffix = Алмаєр

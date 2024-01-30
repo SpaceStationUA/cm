@@ -1,0 +1,2 @@
+ent-CMFoodBase = { ent-BaseItem }
+

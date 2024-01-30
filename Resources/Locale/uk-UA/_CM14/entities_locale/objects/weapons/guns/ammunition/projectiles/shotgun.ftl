@@ -9,4 +9,3 @@ ent-CMPelletShotgunBeanbag = beanbag slug
 ent-CMPelletShotgunFlechette = flechette shell
 
 ent-CMPelletShotgunIncendiaryBuckshot = incendiary buckshot shell
-

@@ -3,4 +3,3 @@ ent-CMWeaponPistolM4A3 = Chamber
 
 ent-CMWeaponPistol88m4 = Chamber
     .desc = Standard issue USCM firearm. Also found in the hands of Weyland-Yutani PMC teams. Fires 9mm armor shredding rounds and is capable of 3-round burst.
-

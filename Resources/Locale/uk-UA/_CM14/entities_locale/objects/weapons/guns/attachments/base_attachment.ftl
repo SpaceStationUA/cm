@@ -1,0 +1,2 @@
+ent-CMAttachmentBase = { ent-BaseItem }
+

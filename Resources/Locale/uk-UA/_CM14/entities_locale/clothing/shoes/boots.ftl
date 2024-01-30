@@ -7,17 +7,17 @@ ent-CMShoesDressCommander = commanding officer dress shoes
 ent-CMBootsBlack = cm-knife
     .desc = Standard issue combat boots used by the USCM for combat situations.  All combat, all the time.
 
-ent-CMBootsBlackFilled = ent-CMBootsBlack
+ent-CMBootsBlackFilled = { ent-CMBootsBlack }
     .suffix = Filled
 
 ent-CMBootsBrown = brown boots
     .desc = Standard issue combat boots used by the USCM for combat situations. All combat, all the time. These are brown.
 
-ent-CMBootsBrownFilled = ent-CMBootsBrown
+ent-CMBootsBrownFilled = { ent-CMBootsBrown }
     .suffix = Filled
 
 ent-CMBootsJungle = jungle boots
 
-ent-CMBootsJungleFilled = ent-CMBootsJungle
+ent-CMBootsJungleFilled = { ent-CMBootsJungle }
     .suffix = Filled
 

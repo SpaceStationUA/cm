@@ -1,6 +1,6 @@
 ent-BaseWallXeno = смоляна стіна
 
-ent-WallXenoResin = ent-BaseWallXeno
+ent-WallXenoResin = { ent-BaseWallXeno }
     .desc = Дивна слизь сформована у стіну.
 
 ent-WallXenoResinThick = товста смоляна стіна
@@ -8,7 +8,7 @@ ent-WallXenoResinThick = товста смоляна стіна
 
 ent-BaseMembraneXeno = смоляна мембрана
 
-ent-WallXenoMembrane = ent-BaseMembraneXeno
+ent-WallXenoMembrane = { ent-BaseMembraneXeno }
     .desc = Дивна смоляна стіна, ця прозора.
 
 ent-WallXenoMembraneThick = товста смоляна мембрана

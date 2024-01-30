@@ -1,54 +1,54 @@
-ent-CMAirlockRequisitionsLocked = 
+ent-CMAirlockRequisitionsLocked = двері логістів
     .suffix = Requisitions, Locked
 
-ent-CMAirlockGlassRequisitionsLocked = 
+ent-CMAirlockGlassRequisitionsLocked = { ent-CMAirlockRequisitionsLocked }
     .suffix = Requisitions, Locked, Glass
 
-ent-CMAirlockMaintRequisitionsLocked = 
+ent-CMAirlockMaintRequisitionsLocked = { ent-CMAirlockRequisitionsLocked }
     .suffix = Requisitions, Locked, Maint
 
-ent-CMAirlockKitchenLocked = 
+ent-CMAirlockKitchenLocked = двері кухні
     .suffix = Kitchen, Locked
 
-ent-CMAirlockGlassKitchenLocked = 
+ent-CMAirlockGlassKitchenLocked = { ent-CMAirlockKitchenLocked }
     .suffix = Kitchen, Locked, Glass
 
-ent-CMAirlockMaintKitchenLocked = 
+ent-CMAirlockMaintKitchenLocked = { ent-CMAirlockKitchenLocked }
     .suffix = Kitchen, Locked, Maint
 
-ent-CMAirlockEngineerLocked = 
+ent-CMAirlockEngineerLocked = двері інженерів
     .suffix = Engineering, Locked
 
-ent-CMAirlockGlassEngineerLocked = 
+ent-CMAirlockGlassEngineerLocked = { ent-CMAirlockEngineerLocked }
     .suffix = Engineering, Locked, Glass
 
-ent-CMAirlockMaintEngineerLocked = 
+ent-CMAirlockMaintEngineerLocked = { ent-CMAirlockEngineerLocked }
     .suffix = Engineering, Locked, Maint
 
-ent-CMAirlockOrdnanceLocked = 
+ent-CMAirlockOrdnanceLocked = двері техників
     .suffix = Ordnance, Locked
 
-ent-CMAirlockMedicalLocked = 
+ent-CMAirlockMedicalLocked = двері лікарів
     .suffix = Medical, Locked
 
-ent-CMAirlockGlassMedicalLocked = 
+ent-CMAirlockGlassMedicalLocked = { ent-CMAirlockMedicalLocked }
     .suffix = Medical, Locked, Glass
 
-ent-CMAirlockMaintMedicalLocked = 
+ent-CMAirlockMaintMedicalLocked = { ent-CMAirlockMedicalLocked }
     .suffix = Medical, Locked, Maint
 
-ent-CMAirlockChemistryLocked = 
+ent-CMAirlockChemistryLocked = двері хімії
     .suffix = Chemistry, Locked
 
-ent-CMAirlockResearchLocked = 
+ent-CMAirlockResearchLocked = двері дослідників
     .suffix = Research, Locked
 
-ent-CMAirlockPressLocked = 
+ent-CMAirlockPressLocked = двері кореспондентів
     .suffix = Press, Locked
 
-ent-CMAirlockGlassPressLocked = 
+ent-CMAirlockGlassPressLocked = { ent-CMAirlockPressLocked }
     .suffix = Press, Locked, Glass
 
-ent-CMAirlockMaintPressLocked = 
+ent-CMAirlockMaintPressLocked = { ent-CMAirlockPressLocked }
     .suffix = Press, Locked, Maint
 

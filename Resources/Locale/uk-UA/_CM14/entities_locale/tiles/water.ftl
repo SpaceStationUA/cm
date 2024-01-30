@@ -1,4 +1,4 @@
-ent-CMFloorShallowWaterEntity = shallow water
+ent-CMFloorShallowWaterEntity = мілководдя
 
-ent-CMFloorDeepWaterEntity = deep water
+ent-CMFloorDeepWaterEntity = вода
 

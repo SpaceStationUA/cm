@@ -6,4 +6,3 @@ ent-CMAttachmentRecoilCompensator = recoil compensator
 
 ent-CMAttachmentSuppressor = suppressor
     .desc = "A small tube with exhaust ports to expel noise and gas.
-

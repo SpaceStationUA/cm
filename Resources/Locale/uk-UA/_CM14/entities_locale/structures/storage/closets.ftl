@@ -19,16 +19,20 @@ ent-CMClosetBomb = EOD closet
 ent-CMClosetBio = level-3 biohazard suit closet
     .desc = It's a storage unit for level-3 biohazard gear.
 
-ent-CMClosetBioVirology = ent-CMClosetBase
+ent-CMClosetBioVirology = { ent-CMClosetBio }
+    .desc = { ent-CMClosetBio.desc }
     .suffix = Virology
 
-ent-CMClosetBioSecurity = ent-CMClosetBase
+ent-CMClosetBioSecurity = { ent-CMClosetBio }
+    .desc = { ent-CMClosetBio.desc }
     .suffix = Security
 
-ent-CMClosetBioJanitor = ent-CMClosetBase
+ent-CMClosetBioJanitor = { ent-CMClosetBio }
+    .desc = { ent-CMClosetBio.desc }
     .suffix = Janitor
 
-ent-CMClosetBioScientist = ent-CMClosetBase
+ent-CMClosetBioScientist = { ent-CMClosetBio }
+    .desc = { ent-CMClosetBio.desc }
     .suffix = Scientist
 
 ent-CMClosetAlien = strange closet

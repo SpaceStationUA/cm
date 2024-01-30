@@ -1,2 +1,2 @@
-ent-CMAirlockAssembly = ent-CMAirlock
+ent-CMAirlockAssembly = { ent-CMBaseDoor }
 

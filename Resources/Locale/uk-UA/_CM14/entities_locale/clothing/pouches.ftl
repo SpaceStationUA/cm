@@ -21,8 +21,7 @@ ent-CMPouchSurvivalSynth = synth survival pouch
 
 ent-CMPouchFirstAid = first-aid pouch
     .desc = It contains, by default, autoinjectors. But it may also hold ointments, bandages, and pill packets.
-
-ent-CMPouchFirstAidERT = 
+ent-CMPouchFirstAidERT = { ent-CMPouchFirstAid }
     .desc = It can contain autoinjectors, ointments, and bandages. This one has some extra stuff.
     .suffix = ERT
 
@@ -115,4 +114,3 @@ ent-CMPouchCassette = cassette pouch
 
 ent-CMPouchMachete = H6B pattern M2132 machete scabbard
     .desc = A large leather scabbard used to carry a M2132 machete. It can be strapped to the pouch slot.
-
