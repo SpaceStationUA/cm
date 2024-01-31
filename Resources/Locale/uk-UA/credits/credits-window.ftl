@@ -1,6 +1,6 @@
 credits-window-title = Титри
 credits-window-patrons-tab = Патрони
-credits-window-ss14contributorslist-tab = Credits
+credits-window-ss14contributorslist-tab = Титри
 credits-window-licenses-tab = Ліцензії з Відкритим Кодом
 credits-window-become-patron-button = Станте Патроном
 credits-window-contributor-encouragement-label = Хочете потрапити у цій список?
