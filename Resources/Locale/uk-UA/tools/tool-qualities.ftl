@@ -1,35 +1,35 @@
-tool-quality-anchoring-name = Закріпляти
-tool-quality-anchoring-tool-name = Гайковий ключ
+tool-quality-anchoring-name = Р—Р°РєСЂС–РїР»СЏС‚Рё
+tool-quality-anchoring-tool-name = Р“Р°Р№РєРѕРІРёР№ РєР»СЋС‡
 
-tool-quality-prying-name = Pryig
-tool-quality-prying-tool-name = Лом
+tool-quality-prying-name = Prying
+tool-quality-prying-tool-name = Р›РѕРј
 
-tool-quality-screwing-name = Викручувати
-tool-quality-screwing-tool-name = Викрутка
+tool-quality-screwing-name = Р’РёРєСЂСѓС‡СѓРІР°С‚Рё
+tool-quality-screwing-tool-name = Р’РёРєСЂСѓС‚РєР°
 
-tool-quality-cutting-name = Різати
-tool-quality-cutting-tool-name = Кусачки
+tool-quality-cutting-name = Р С–Р·Р°С‚Рё
+tool-quality-cutting-tool-name = РљСѓСЃР°С‡РєРё
 
-tool-quality-welding-name = Зварювати
-tool-quality-welding-tool-name = Зварювальник
+tool-quality-welding-name = Р—РІР°СЂСЋРІР°С‚Рё
+tool-quality-welding-tool-name = Р—РІР°СЂСЋРІР°Р»СЊРЅРёРє
 
-tool-quality-pulsing-name = Пульсувати
-tool-quality-pulsing-tool-name = Тюнер доступу
+tool-quality-pulsing-name = РџСѓР»СЊСЃСѓРІР°С‚Рё
+tool-quality-pulsing-tool-name = РўСЋРЅРµСЂ РґРѕСЃС‚СѓРїСѓ
 
-tool-quality-slicing-name = Нарізати
-tool-quality-slicing-tool-name = Ніж
+tool-quality-slicing-name = РќР°СЂС–Р·Р°С‚Рё
+tool-quality-slicing-tool-name = РќС–Р¶
 
-tool-quality-sawing-name = Пиляти
-tool-quality-sawing-tool-name = Пила
+tool-quality-sawing-name = РџРёР»СЏС‚Рё
+tool-quality-sawing-tool-name = РџРёР»Р°
 
-tool-quality-honking-name = Сигналити
-tool-quality-honking-tool-name = Велосипедний гудок
+tool-quality-honking-name = РЎРёРіРЅР°Р»РёС‚Рё
+tool-quality-honking-tool-name = Р’РµР»РѕСЃРёРїРµРґРЅРёР№ РіСѓРґРѕРє
 
-tool-quality-woodcutting-name = Різати дерево
-tool-quality-woodcutting-tool-name = Сокира
+tool-quality-woodcutting-name = Р С–Р·Р°С‚Рё РґРµСЂРµРІРѕ
+tool-quality-woodcutting-tool-name = РЎРѕРєРёСЂР°
 
-tool-quality-rolling-name = Качати
-tool-quality-rolling-tool-name = Качалка
+tool-quality-rolling-name = РљР°С‡Р°С‚Рё
+tool-quality-rolling-tool-name = РљР°С‡Р°Р»РєР°
 
-tool-quality-digging-name = Копати
-tool-quality-digging-tool-name = Лопата
+tool-quality-digging-name = РљРѕРїР°С‚Рё
+tool-quality-digging-tool-name = Р›РѕРїР°С‚Р°

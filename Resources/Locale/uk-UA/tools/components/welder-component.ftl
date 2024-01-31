@@ -1,13 +1,13 @@
-welder-component-welder-not-lit-message = Зварювальний апарат вимкнено!
-welder-component-cannot-weld-message = Зварювальник не має достатньо палива для цього!
-welder-component-no-fuel-message = У зварювальнику не залишолося пального!
-welder-component-no-fuel-in-tank = {$owner} порожній.
-welder-component-on-examine-welder-lit-message = [color=orange]запалений[/color]
-welder-component-on-examine-welder-not-lit-message = Не горить
-welder-component-on-examine-detailed-message = Пальне: [color={$colorName}]{$fuelLeft}/{$fuelCapacity}[/color]. {$status}
-welder-component-suicide-lit-others-message = {$victim}заварює їм усі отвори! Виглядає так, ніби вони намагаються покінчити життя самогубством!
-welder-component-suicide-lit-message = Ви заварюєте всі отвори!
-welder-component-suicide-unlit-others-message = {$victim} б'є себе незапаленим зварювальним пальником!
-welder-component-suicide-unlit-message = Ви б'єте себе незапаленим зварювальним пальником!
-welder-component-after-interact-refueled-message = Заправлено!
-welder-component-already-full = Зварювальний апарат вже заповнений.
+welder-component-welder-not-lit-message = Р—РІР°СЂСЋРІР°Р»СЊРЅРёР№ Р°РїР°СЂР°С‚ РІРёРјРєРЅРµРЅРѕ!
+welder-component-cannot-weld-message = Р—РІР°СЂСЋРІР°Р»СЊРЅРёРє РЅРµ РјР°С” РґРѕСЃС‚Р°С‚РЅСЊРѕ РїР°Р»РёРІР° РґР»СЏ С†СЊРѕРіРѕ!
+welder-component-no-fuel-message = РЈ Р·РІР°СЂСЋРІР°Р»СЊРЅРёРєСѓ РЅРµ Р·Р°Р»РёС€РёР»РѕСЃСЏ РїР°Р»СЊРЅРѕРіРѕ!
+welder-component-no-fuel-in-tank = {$owner} РїРѕСЂРѕР¶РЅС–Р№.
+welder-component-on-examine-welder-lit-message = [color=orange]Р—Р°РїР°Р»РµРЅРёР№[/color]
+welder-component-on-examine-welder-not-lit-message = РќРµ РіРѕСЂРёС‚СЊ
+welder-component-on-examine-detailed-message = РџР°Р»СЊРЅРµ: [color={$colorName}]{$fuelLeft}/{$fuelCapacity}[/color]. {$status}
+welder-component-suicide-lit-others-message = {$victim} Р·Р°РІР°СЂСЋРІР°С” РІСЃС– СЃРІРѕС— РѕС‚РІРѕСЂРё! Р’РёРіР»СЏРґР°С” С‚Р°Рє, РЅС–Р±Рё РІРѕРЅРё РЅР°РјР°РіР°СЋС‚СЊСЃСЏ РїРѕРєС–С‡РЅРёС‚Рё Р· Р¶РёС‚С‚СЏРј!
+welder-component-suicide-lit-message = Р’Рё Р·Р°РІР°СЂСЋС”С‚Рµ РІСЃС– РѕС‚РІРѕСЂРё!
+welder-component-suicide-unlit-others-message = {$victim} Р±'С” СЃРµР±Рµ РЅРµР·Р°РїР°Р»РµРЅРёРј Р·РІР°СЂСЋРІР°Р»СЊРЅРёРј РїР°Р»СЊРЅРёРєРѕРј!
+welder-component-suicide-unlit-message = Р’Рё Р±'С”С‚Рµ СЃРµР±Рµ РЅРµР·Р°РїР°Р»РµРЅРёРј Р·РІР°СЂСЋРІР°Р»СЊРЅРёРј РїР°Р»СЊРЅРёРєРѕРј!
+welder-component-after-interact-refueled-message = Р—Р°РїСЂР°РІР»РµРЅРѕ!
+welder-component-already-full = Р—РІР°СЂСЋРІР°Р»СЊРЅРёР№ Р°РїР°СЂР°С‚ РІР¶Рµ Р·Р°РїРѕРІРЅРµРЅРёР№.
