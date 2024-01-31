@@ -1,141 +1,141 @@
-ent-CMHeadset = marine radio headset
-    .desc = A standard military radio headset. Bulkier than combat models.
+ent-CMHeadset = гарнитура морпіхів
+    .desc = Стандартна військова гарнитура. Тяжче ніж бойові моделі.
 
-ent-CMHeadsetCE = chief engineer's headset
-    .desc = The headset of the guy in charge of spooling engines, managing MTs, and tearing up the floor for scrap metal. Of robust and sturdy construction.
+ent-CMHeadsetCE = гарнитура головного інженера
+    .desc = Гарнитура людини що відповідає за зламані двигуни, техників техтунелів та переробку всеї підлоги станції в метал.
 
-ent-CMHeadsetCMO = chief medical officer's headset
-    .desc = A headset issued to the top brass of medical professionals.
+ent-CMHeadsetCMO = гарнитура головного лікаря
+    .desc = Гарнитура видаваєма найкращим лікарям.
 
-ent-CMHeadsetEngineer = engineering radio headset
-    .desc = Useful for coordinating maintenance bars and orbital bombardments. Of robust and sturdy construction.
+ent-CMHeadsetEngineer = гарнитура інженерів
+    .desc = Зручний для коордінуваня як барів в тех.тунелях так і орбітального бомбардування.
 
-ent-CMHeadsetRequisition = supply radio headset
-    .desc = Used by the lowly Cargo Technicians of the USCM, light weight and portable.
+ent-CMHeadsetRequisition = гарнитура логистів
+    .desc = Використовується вантажниками СШКМ, легкий та зручний.
 
-ent-CMHeadsetChef = kitchen radio headset
-    .desc = Used by the onboard kitchen staff, filled with background noise of sizzling pots.
+ent-CMHeadsetChef = гарнитура кока
+    .desc = Використовується коками, заповнені шумом шипящих сковорідок.
 
-ent-CMHeadsetMedical = medical radio headset
-    .desc = A headset used by the highly trained staff of the medbay.
+ent-CMHeadsetMedical = гарнитура лікарів
+    .desc = Гарнитура якою користуються гарно обучений персонал медічного відділа.
 
-ent-CMHeadsetResearcher = researcher radio headset
-    .desc = A headset used by medbay's skilled researchers.
+ent-CMHeadsetResearcher = гарнитура дослідників
+    .desc = { ent-CMHeadsetMedical.desc }
 
-ent-CMHeadsetQM = quartermaster radio headset
-    .desc = A headset used by the quartermaster for controlling their slave(s).
+ent-CMHeadsetQM = гарнитура квартирмейстера
+    .desc = Гарнитура якою користується квартирмейстер для контролювання своїма рабами.
 
-ent-CMHeadsetMPO = marine military police radio headset
-    .desc = This is used by marine military police members.
+ent-CMHeadsetMPO = гарнитура воєнполу
+    .desc = Цією гарнитурою користуються члени військової поліції.
 
-ent-CMHeadsetCMP = marine chief MP radio headset
-    .desc = For discussing the purchase of donuts and arresting of hooligans.
+ent-CMHeadsetCMP = гарнитура голови воєнпола
+    .desc = Для обговорень покупок пончиків та арестів поганців.
 
-ent-CMHeadsetLeader = marine command radio headset
-    .desc = Used by CIC staff and higher-ups, features a non-standard brace.
+ent-CMHeadsetLeader = гарнитура командування
+    .desc = Використовується персоналом Бойового Інформаційного Центра та іншими членами командування.
 
-ent-CMHeadsetPilot = marine pilot radio headset
-    .desc = Used by Pilot Officers.
+ent-CMHeadsetPilot = гарнитура пілотів
+    .desc = Використовується пілот офіцерами.
 
-ent-CMHeadsetIntel = marine intel radio headset
-    .desc = Used by Intelligence Officers.
+ent-CMHeadsetIntel = гарнитура розвідників
+    .desc = Використовується офіцерами розвідки.
 
-ent-CMHeadsetReporter = reporter radio headset
-    .desc = Used by the combat correspondent to get the scoop.
+ent-CMHeadsetReporter = гарнитура репортера
+    .desc = Використовується бойовими кореспондентами щоб знайти сюжет століття.
 
-ent-CMHeadsetSeniorCommand = marine senior command headset
-    .desc = Issued only to senior command staff.
+ent-CMHeadsetSeniorCommand = гарнитура старшого командування
+    .desc = Видається тільки членам вищого командування.
 
-ent-CMHeadsetAlpha = marine alpha radio headset
-    .desc = This is used by Alpha squad members.
+ent-CMHeadsetAlpha = гарнитура загону Альфа
+    .desc = Використовується членами загону Альфа.
 
-ent-CMHeadsetAlphaLeader = marine alpha leader radio headset
-    .desc = This is used by the marine Alpha squad leader.
+ent-CMHeadsetAlphaLeader = гарнитура лідера загону Альфа
+    .desc = Використовується лідером загону Альфа.
 
-ent-CMHeadsetAlphaTeamLeader = marine alpha team leader radio headset
-    .desc = This is used by the marine Alpha team leader.
+ent-CMHeadsetAlphaTeamLeader = гарнитура лідерів отрядів Альфа
+    .desc = Використовується лідерами отрядів Альфа.
 
-ent-CMHeadsetAlphaEngineer = marine alpha engineer radio headset
-    .desc = This is used by the marine Alpha combat engineers.
+ent-CMHeadsetAlphaEngineer = гарнитура бойтеха загону Альфа
+    .desc = Використовується бойовими техниками загону Альфа.
 
-ent-CMHeadsetAlphaMedic = marine alpha corpsman radio headset
-    .desc = This is used by the marine Alpha combat medics.
+ent-CMHeadsetAlphaMedic = гарнитура боймеда загону Альфа
+    .desc = Використовується бойовими медиками загону Альфа.
 
-ent-CMHeadsetBravo = marine bravo radio headset
-    .desc = This is used by Bravo squad members.
+ent-CMHeadsetBravo = гарнитура загону Браво
+    .desc = Використовується членами загону Браво.
 
-ent-CMHeadsetBravoLeader = marine bravo leader radio headset
-    .desc = This is used by the marine Bravo squad leader.
+ent-CMHeadsetBravoLeader = гарнитура лідера загону Браво
+    .desc = Використовується лідером загону Браво.
 
-ent-CMHeadsetBravoTeamLeader = marine bravo team leader radio headset
-    .desc = This is used by the marine Bravo team leader.
+ent-CMHeadsetBravoTeamLeader = гарнитура лідерів отрядів Браво
+    .desc = Використовується лідерами отрядів Браво.
 
-ent-CMHeadsetBravoEngineer = marine bravo engineer radio headset
-    .desc = This is used by the marine Bravo combat engineers.
+ent-CMHeadsetBravoEngineer = гарнитура бойтеха загону Браво
+    .desc = Використовується бойовим техником загону Браво.
 
-ent-CMHeadsetBravoMedic = marine bravo corpsman radio headset
-    .desc = This is used by the marine Bravo combat medics.
+ent-CMHeadsetBravoMedic = гарнитура боймеда загону Браво
+    .desc = Використовується бойовим медиком загону Браво.
 
-ent-CMHeadsetCharlie = marine charlie radio headset
-    .desc = This is used by Charlie squad members.
+ent-CMHeadsetCharlie = гарнитура загону Чарлі
+    .desc = Використовується членами загону Чарлі.
 
-ent-CMHeadsetCharlieLeader = marine charlie leader radio headset
-    .desc = This is used by the marine Charlie squad leader.
+ent-CMHeadsetCharlieLeader = гарнитура лідера загону Чарлі
+    .desc = Використовується лідером загону Чарлі.
 
-ent-CMHeadsetCharlieTeamLeader = marine charlie team leader radio headset
-    .desc = This is used by the marine Charlie team leader.
+ent-CMHeadsetCharlieTeamLeader = гарнитура лідерів отрядів Чарлі
+    .desc = Використовується лідерами отрядів Чарлі.
 
-ent-CMHeadsetCharlieEngineer = marine charlie engineer radio headset
-    .desc = This is used by the marine Charlie combat engineers.
+ent-CMHeadsetCharlieEngineer = гарнитура бойтеха загону Чарлі
+    .desc = Використовується бойовим техником загону Чарлі.
 
-ent-CMHeadsetCharlieMedic = marine charlie corpsman radio headset
-    .desc = This is used by the marine Charlie combat medics.
+ent-CMHeadsetCharlieMedic = гарнитура боймеда загону Чарлі
+    .desc = Використовується бойовим медиком загону Чарлі.
 
-ent-CMHeadsetDelta = marine delta radio headset
-    .desc = This is used by Delta squad members.
+ent-CMHeadsetDelta = гарнитура загону Дельта
+    .desc = Використовується членами загону Дельта.
 
-ent-CMHeadsetDeltaLeader = marine delta leader radio headset
-    .desc = This is used by the marine Delta squad leader.
+ent-CMHeadsetDeltaLeader = гарнитура лідера загону Дельта
+    .desc = Використовується лідером загону Дельта.
 
-ent-CMHeadsetDeltaTeamLeader = marine delta team leader radio headset
-    .desc = This is used by the marine Delta team leader.
+ent-CMHeadsetDeltaTeamLeader = гарнитура лідерів отрядів Дельта
+    .desc = Використовується лідерами отрядів Дельта.
 
-ent-CMHeadsetDeltaEngineer = marine delta engineer radio headset
-    .desc = This is used by the marine Delta combat engineers.
+ent-CMHeadsetDeltaEngineer = гарнитура бойтеха загону Дельта
+    .desc = Використовується бойовим техником загону Дельта.
 
-ent-CMHeadsetDeltaMedic = marine delta corpsman radio headset
-    .desc = This is used by the marine Delta combat medics.
+ent-CMHeadsetDeltaMedic = гарнитура боймеда загону Дельта
+    .desc = Використовується бойовим медиком загону Дельта.
 
-ent-CMHeadsetEcho = marine echo radio headset
-    .desc = This is used by Echo squad members.
+ent-CMHeadsetEcho = гарнитура загону Еко
+    .desc = Використовується членами загону Еко.
 
-ent-CMHeadsetEchoLeader = marine echo leader radio headset
-    .desc = This is used by the marine Echo squad leader.
+ent-CMHeadsetEchoLeader = гарнитура лідера загону Еко
+    .desc = Використовується лідером загону Еко.
 
-ent-CMHeadsetEchoTeamLeader = marine echo team leader radio headset
-    .desc = This is used by the marine Echo team leader.
+ent-CMHeadsetEchoTeamLeader = гарнитура лідерів отрядів Еко
+    .desc = Використовується лідерами отрядів Еко.
 
-ent-CMHeadsetEchoEngineer = marine echo engineer radio headset
-    .desc = This is used by the marine Echo combat engineers.
+ent-CMHeadsetEchoEngineer = гарнитура бойтеха загону Еко
+    .desc = Використовується бойовим техником загону Еко.
 
-ent-CMHeadsetEchoMedic = marine echo corpsman radio headset
-    .desc = This is used by the marine Echo combat medics.
+ent-CMHeadsetEchoMedic = гарнитура боймеда загону Еко
+    .desc = Використовується бойовим медиком загону Еко.
 
-ent-CMHeadsetFoxtrot = marine foxtrot radio headset
-    .desc = This is used by Foxtrot squad members.
+ent-CMHeadsetFoxtrot = гарнитура загону Фокстрот
+    .desc = Використовується членами загону Фокстрот.
 
-ent-CMHeadsetFoxtrotLeader = marine foxtrot leader radio headset
-    .desc = This is used by the marine Foxtrot squad leader.
+ent-CMHeadsetFoxtrotLeader = гарнитура лідера загону Фокстрот
+    .desc = Використовується лідером загону Фокстрот.
 
-ent-CMHeadsetFoxtrotTeamLeader = marine foxtrot team leader radio headset
-    .desc = This is used by the marine Foxtrot team leader.
+ent-CMHeadsetFoxtrotTeamLeader = гарнитура лідерів отрядів Фокстрот
+    .desc = Використовується лідерами отрядів Фокстрот.
 
-ent-CMHeadsetFoxtrotEngineer = marine foxtrot engineer radio headset
-    .desc = This is used by the marine Foxtrot combat engineers.
+ent-CMHeadsetFoxtrotEngineer = гарнитура бойтеха загону Фокстрот
+    .desc = Використовується бойовими техника загону Фокстрот.
 
-ent-CMHeadsetFoxtrotMedic = marine foxtrot corpsman radio headset
-    .desc = This is used by the marine Foxtrot combat medics.
+ent-CMHeadsetFoxtrotMedic = гарнитура боймеда загону Фокстрот
+    .desc = Використовується бойовим медиком загону Фокстрот.
 
-ent-CMHeadsetColony = colony headset
-    .desc = A standard headset used by colonists.
+ent-CMHeadsetColony = гарнитура колоніста
+    .desc = Стандартна гарнитура колоністів.
 

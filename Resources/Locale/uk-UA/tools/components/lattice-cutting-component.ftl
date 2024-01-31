@@ -1,1 +1,2 @@
-п»їcomp-lattice-cutting-unsafe-warning = You feel air blow past your fingers... Maybe you should reconsider?
+comp-lattice-cutting-unsafe-warning = Ви відчуваєте, як повітря проноситься повз ваші пальці... Може, тобі варто передумати?
+їїї

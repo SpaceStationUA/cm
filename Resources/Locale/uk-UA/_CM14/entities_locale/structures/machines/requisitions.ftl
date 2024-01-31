@@ -1,6 +1,5 @@
 ent-CMASRSConsole = консоль АСОПа
     .desc = Консоль Автоматичної Системи Отримання Пакунків
-A console for the Automated Storage Retrieval System.
 
 ent-CMCargoElevator = вантажний ліфт
     .suffix = Cпущений

@@ -1,23 +1,27 @@
-ent-CMShoesDress = dress shoes
-    .desc = Pre-polished fancy dress shoes. You can see your reflection in them.
+ent-CMShoesDress = туфлі
+    .desc = Настільки добре відполіровані туфлі що ти бачиш в них своє відображення.
 
-ent-CMShoesDressCommander = commanding officer dress shoes
-    .desc = Has special soles for better trampling those underneath.
+ent-CMShoesDressCommander = туфлі командуючого офіцера
+    .desc = Має спеціальну підошву для більш комфортного ношення.
 
-ent-CMBootsBlack = cm-knife
-    .desc = Standard issue combat boots used by the USCM for combat situations.  All combat, all the time.
+ent-CMBootsBlack = чорні чоботи
+    .desc = Стандартні бойові чоботи що використовуються СШКМ під час бойових дій. Завжди готові до бою.
 
 ent-CMBootsBlackFilled = { ent-CMBootsBlack }
-    .suffix = Filled
+    .desc = { ent-CMBootsBlack.desc }
+    .suffix = Заповнені
 
-ent-CMBootsBrown = brown boots
-    .desc = Standard issue combat boots used by the USCM for combat situations. All combat, all the time. These are brown.
+ent-CMBootsBrown = бурі чоботи
+    .desc =  Стандартні бойові чоботи що використовуються СШКМ під час бойових дій. Завжди готові до бою. Ці бурого коліру.
 
 ent-CMBootsBrownFilled = { ent-CMBootsBrown }
-    .suffix = Filled
+    .desc = { ent-CMBootsBrown.desc }
+    .suffix = Заповнені
 
-ent-CMBootsJungle = jungle boots
+ent-CMBootsJungle = чоботи для джунглів
+    .desc = { ent-CMBootsBlack.desc }
 
 ent-CMBootsJungleFilled = { ent-CMBootsJungle }
-    .suffix = Filled
+    .desc = { ent-CMBootsBlack.desc }
+    .suffix = Заповнені
 

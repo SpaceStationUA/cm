@@ -1,5 +1,5 @@
-ent-CMWebbingBase = webbing
+ent-CMWebbingBase = ремінна система
 
 ent-CMWebbing = { ent-CMWebbingBase }
-    .desc = A sturdy mess of synthcotton belts and buckles, ready to share your burden.
+    .desc = Плутанина з ременів та пряжок, готова розділити ваш тягар.
 

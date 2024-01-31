@@ -1,36 +1,36 @@
-ent-CMCoatChiefMP = chief military police service jacket
-    .desc = A marine service jacket adopted for use by Military Police personnel on board USCM ships. Ironically most ships require their MP departments to use full armor, making these barely used by on duty MPs. Very popular among those who want to inexplicably smell like donuts.
+ent-CMCoatChiefMP = пальто голови воєнполу
+    .desc = Пальто морпіхів адаптоване персоналом Військової Поліції для використання на бортах кораблів СШКМ. Але що іронічно, на більшості кораблів військова поліція забов'язана носити броню що робить це пальто доволі не популярним. Це доволі популярно серед тих хто хоче пахнути пончиками 24/7.
 
-ent-CMCoatWarden = military warden service jacket
-    .desc = A marine service jacket adopted for use by Military Wardens on board USCM ships. Ironically most ships require their MP departments to use full armor, making these barely used by on duty Wardens. The jacket of choice for looking all night at a set of monitors, while cigarette butts pile around you.
+ent-CMCoatWarden = пальто наглядача
+    .desc = Пальто морпіхів адаптоване наглядачами для використання на бортах кораблів СШКМ. Але що іронічно, на більшості кораблів військова поліція забов'язана носити броню що робить це пальто доволі не популярним серед наглядачів. Найкраще пальто для тих хто всю ніч дивиться в монітори курячи цигарки.
 
-ent-CMCoatMP = military police service jacket
-    .desc = A marine service jacket adopted for use by Military Police personnel on board USCM ships. Ironically most ships require their MP departments to use full armor, making these barely used by on duty MPs. This variant is also available to regular Marines, if they are willing to bear the shame.
+ent-CMCoatMP = пальто воєнполу
+    .desc = альто морпіхів адаптоване персоналом Військової Поліції для використання на бортах кораблів СШКМ. Але що іронічно, на більшості кораблів військова поліція забов'язана носити броню що робить це пальто доволі не популярним. Цій варіант також доступен для офіцерів, якщо тільки вони готові взяти на себе цій сором.
 
-ent-CMCoatMessTech = mess technician jacket
-    .desc = Smells like vanilla. Signifies prestige and power, if a little flashy.
+ent-CMCoatMessTech = куртка кока
+    .desc = Пахне ваніллю. Показує престиж та силу.
 
-ent-CMCoatASO = aso jacket
-    .desc = Standard-issue officer jacket.
+ent-CMCoatASO = пальто ОДС
+    .desc = Стандартне пальто для офіцерів.
 
-ent-CMCoatCO = commanding officer jacket
-    .desc = Standard-issue commanding officer jacket.
+ent-CMCoatCO = пальто командуючого офіцера
+    .desc = Стандартне пальто для командуючих офіцерів.
 
-ent-CMCoatCOBomber = commanding officer bomber
-    .desc = Standard-issue commanding officer bomber.
+ent-CMCoatCOBomber = куртка командуючого офіцера
+    .desc = Стандартна куртка для командуючих офіцерів.
 
-ent-CMCoatCOFormalBlack = formal commanding officer jacket
-    .desc = Standard-issue commanding officer jacket.
+ent-CMCoatCOFormalBlack = формальне пальто командуючого офіцера
+    .desc = Стандартне пальто для командуючих офіцерів.
 
-ent-CMCoatCOFormalWhite = formal commanding officer jacket
-    .desc = Standard-issue commanding officer jacket.
+ent-CMCoatCOFormalWhite = { ent-CMCoatCOFormalBlack }
+    .desc = { ent-CMCoatCOFormalBlack.desc }
 
-ent-CMCoatOfficer = officer jacket
-    .desc = Standard-issue officer jacket.
+ent-CMCoatOfficer = офіцерське пальто
+    .desc = Стандартне пальто для офіцерів.
 
-ent-CMCoatLong = long coat
-    .desc = Standard-issue coat.
+ent-CMCoatLong = довге пальто
+    .desc = Стандартне пальто.
 
-ent-CMCoatCorrespondent = correspondent coat
-    .desc = Standard-issue correspondent coat.
+ent-CMCoatCorrespondent = пальто кореспондента
+    .desc = Стандартне пальто для кореспондентів.
 

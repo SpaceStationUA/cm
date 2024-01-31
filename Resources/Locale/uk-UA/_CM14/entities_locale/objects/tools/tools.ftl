@@ -1,16 +1,17 @@
-ent-CMScrewdriver = screwdriver
+ent-CMScrewdriver = викрутка
 
-ent-CMWirecutter = wirecutter
+ent-CMWirecutter = кусачки
 
-ent-CMWrench = wrench
+ent-CMWrench = гайковий ключ
 
-ent-CMMultitool = Security Access Tuner
-    .desc = A small handheld tool used to override various machine functions.
-    .suffix = Multitool
+ent-CMMultitool = тюнер доступу
+    .desc = Невеликий ручний інструмент, який використовується для заміни різних функцій машини.
+    .suffix = мультитул
 
-ent-CMCrowbar = crowbar
+ent-CMCrowbar = лом
 
-ent-CMCrowbarRed = emergency crowbar
+ent-CMCrowbarRed = аварійний лом
 
-ent-CMHandLabeler = hand labeler
+ent-CMHandLabeler = ручний етикетчик
 
+	

@@ -1,113 +1,120 @@
-ent-JumpsuitMarine = marine uniform
-    .desc = A standard-issue Marine uniform.
+ent-JumpsuitMarine = уніформа морпіха
+    .desc = Стандартна уніформа морпіхів.
 
-ent-CMJumpsuitMarineEngineer = engineer marine uniform
+ent-CMJumpsuitMarineEngineer = уніформа морпіха
+    .desc = { ent-JumpsuitMarine.desc }
 
-ent-CMJumpsuitMarineFormal = formal marine uniform
+ent-CMJumpsuitMarineFormal = формальна уніформа морпіха
+    .desc = { ent-JumpsuitMarine.desc }
 
-ent-CMJumpsuitMarineMedic = medic marine uniform
+ent-CMJumpsuitMarineMedic = уніформа медика
+    .desc = { ent-JumpsuitMarine.desc }
 
-ent-CMJumpsuitMarineRTO = rto marine uniform
+ent-CMJumpsuitMarineRTO = уніформа радиста
+    .desc = { ent-JumpsuitMarine.desc }
 
-ent-CMJumpsuitMarineTanker = tanker marine uniform
+ent-CMJumpsuitMarineTanker = уніформа танкиста
+    .desc = { ent-JumpsuitMarine.desc }
 
-ent-CMJumpsuitMP = MP uniform
-    .desc = A standard-issue MP uniform.
+ent-CMJumpsuitMP = уніформа воєнполу
+    .desc = Стандартна уніформа військової поліції.
 
-ent-CMJumpsuitMPBlack = black mp uniform
-    .desc = A standard-issue MP uniform.
+ent-CMJumpsuitMPBlack = чорна уніформа воєнполу
+    .desc = { ent-CMJumpsuitMP.desc }
 
-ent-CMJumpsuitWarden = warden uniform
-    .desc = A standard-issue warden uniform.
+ent-CMJumpsuitWarden = уніформа наглядача
+    .desc = Стандартна уніформа наглядача.
 
-ent-CMJumpsuitWardenBlue = blue warden uniform
-    .desc = The insignia on this uniform tells you that this uniform belongs to the Warden..
+ent-CMJumpsuitWardenBlue = синя уніформа наглядача
+    .desc = Значок на цьому одягі підказує вам що це уніформа наглядача..
 
-ent-CMJumpsuitWardenRed = red warden uniform
-    .desc = A standard-issue warden uniform.
+ent-CMJumpsuitWardenRed = червона уніформа наглядача
+    .desc = { ent-CMJumsuitWarden.desc }
 
-ent-CMJumpsuitWardenCorporate = corporate warden uniform
-    .desc = A standard-issue warden uniform.
+ent-CMJumpsuitWardenCorporate = корпоративна уніформа наглядача
+    .desc = { ent-CMJumpsuitWarden.desc }
 
-ent-CMJumpsuitWardenNavy = navy warden uniform
-    .desc = A navy variant of warden uniform.
+ent-CMJumpsuitWardenNavy = морська уніформа наглядача
+    .desc = Морський варіант уніформи наглядача.
 
-ent-CMJumpsuitWardenTan = tan warden uniform
-    .desc = A standard-issue warden uniform.
+ent-CMJumpsuitWardenTan = уніформа наглядача коліру засмаги
+    .desc = { ent-CMJumpsuitWarden.desc }
 
-ent-CMJumpsuitWO = chief mp uniform
-    .desc = A standard-issue chief mp uniform.
+ent-CMJumpsuitWO = уніформа голови воєнполу
+    .desc = Стандартна уніформа голови військової поліції.
 
-ent-CMJumpsuitQM = quartermaster uniform
-    .desc = Standard-issue quartermaster uniform.
+ent-CMJumpsuitQM = уніформа квартирмейстера
+    .desc = Стандартна уніформа квартирмейстера.
 
-ent-CMJumpsuitCargoTech = cargo technician uniform
-    .desc = A standard-issue cargo tech uniform.
+ent-CMJumpsuitCargoTech = уніформа вантажника
+    .desc = Стандартна уніформа вантажника.
 
-ent-CMJumpsuitMessTech = mess technician uniform
-    .desc = Standard-issue Mess Technician uniform.
+ent-CMJumpsuitMessTech = уніформа кока
+    .desc = Стандартна уніформа кока.
 
-ent-CMJumpsuitChiefEngineer = chief engineer uniform
-    .desc = Standard-issue Chief Engineer uniform.
+ent-CMJumpsuitChiefEngineer = уніформа головного інженера
+    .desc = Стандартна уніформа головного інженера.
 
-ent-CMJumpsuitOrdnanceTech = ordnance technician uniform
-    .desc = Standard-issue Ordnance Technician uniform.
+ent-CMJumpsuitOrdnanceTech = уніформа техника озброєння
+    .desc = Стандартна уніформа техника озброєння.
 
-ent-CMJumpsuitMaintTech = maintenance technician uniform
-    .desc = Standard-issue Maintenance Technician uniform.
+ent-CMJumpsuitMaintTech = уніформа техника обслуговування
+    .desc = Стандартна уніформа техника обслуговування.
 
-ent-CMJumpsuitCO = commanding officer uniform
-    .desc = Standard-issue Commanding Officer uniform.
+ent-CMJumpsuitCO = уніформа командуючого офіцера
+    .desc = Стандартна уніформа командуючого офіцера.
 
-ent-CMJumpsuitCOFormalBlack = formal commanding officer uniform
-    .desc = Standard-issue commanding officer uniform.
+ent-CMJumpsuitCOFormalBlack = формальна уніформа командуючого офіцера
+    .desc = { ent-CMJumpsuitCO.desc }
 
-ent-CMJumpsuitCOFormalWhite = formal commanding officer uniform
-    .desc = Standard-issue commanding officer uniform.
+ent-CMJumpsuitCOFormalWhite = { ent-CMJumpsuitCOFormalBlack }
+    .desc = { ent-CMJumpsuitCO.desc }
 
-ent-CMJumpsuitCOService = commanding officer uniform
-    .desc = Standard-issue commanding officer uniform.
+ent-CMJumpsuitCOService = { ent-CMJumpsuitCO }
+    .desc = { ent-CMJumpsuitCO.desc }
 
-ent-CMJumpsuitBO = officer uniform
-    .desc = Standard-issue officer uniform.
+ent-CMJumpsuitBO = уніформа офіцера
+    .desc = Стандартна уніформа офіцера.
 
-ent-CMJumpsuitCMO = cmo uniform
-    .desc = Standard-issue cmo uniform.
+ent-CMJumpsuitCMO = уніформа головного лікаря
+    .desc = Стандартна уніформа головного лікаря.
 
-ent-CMScrubsBlue = blue scrubs
-    .desc = Standard blue-colored scrubs.
+ent-CMScrubsBlue = синій одяг хірурга
+    .desc = Стандартний синій одяг хірурга.
 
-ent-CMScrubsGreen = green scrubs
-    .desc = Standard green-colored scrubs.
+ent-CMScrubsGreen = зелений одяг хірурга
+    .desc = Стандартний зелений одяг хірурга.
 
-ent-CMScrubsPurple = purple scrubs
-    .desc = Standard purple-colored scrubs.
+ent-CMScrubsPurple = фіолетовий одяг хірурга
+    .desc = Стандартний фіолетовий одяг хірурга.
 
-ent-CMScrubsNurse = nurse scrubs
-    .desc = Standard-issue nurse scrubs.
+ent-CMScrubsNurse = одяг медбрата
+    .desc = Стандартний одяг медбрата чи медсестри.
 
-ent-CMJumpsuitResearch = reseacher uniform
-    .desc = Standard-issue researcher uniform.
+ent-CMJumpsuitResearch = уніформа дослідника
+    .desc = Стандартна уніформа дослідника.
 
-ent-CMJumpsuitPilot = pilot uniform
-    .desc = Standard-issue pilot uniform.
+ent-CMJumpsuitPilot = уніформа пілота
+    .desc = Стандартна уніформа пілот-офіцера.
 
-ent-CMJumpsuitIO = intelligence officer uniform
-    .desc = Standard-issue intelligence officer's uniform.
+ent-CMJumpsuitIO = уніформа розвідника
+    .desc = Стандартна уніформа офіцера розвідки.
 
-ent-CMJumpsuitDCC = dropship crew chief uniform
-    .desc = Standard-issue dropship crew chief uniform.
+ent-CMJumpsuitDCC = уніформа другого пілота
+    .desc = уніформа другого пілота.
 
-ent-CMJumpsuitTShirtWhite = white tshirt
-    .desc = Simple pair of tshirt and pants.
+ent-CMJumpsuitTShirtWhite = біла футболка
+    .desc = Стандартні футболка та штани.
 
-ent-CMJumpsuitTShirtRed = red tshirt
+ent-CMJumpsuitTShirtRed = червона футболка
+    .desc = { ent-CMJumpsuitTShirtWhite.desc }
 
-ent-CMJumpsuitTShirtGray = gray tshirt
+ent-CMJumpsuitTShirtGray = сіра футболка
+    .desc = { ent-CMJumpsuitTShirtWhite.desc }
 
-ent-CMJumpsuitColonist = colonist uniform
-    .desc = Uniform typically distibuted to the colonists.
+ent-CMJumpsuitColonist = уніформа колоніста
+    .desc = Уніформа яку зазвичай видають колоністам.
 
-ent-CMJumpsuitCorrespondent = correspodent uniform
-    .desc = Standard-issue correspodents's uniform.
+ent-CMJumpsuitCorrespondent = одяг кореспондента
+    .desc = Стандартний одяг кореспондента.
 

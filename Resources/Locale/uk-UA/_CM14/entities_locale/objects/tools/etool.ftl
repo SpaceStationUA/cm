@@ -1,3 +1,3 @@
-ent-CMEntrenchingTool = entrenching tool
-    .desc = A foldable shovel for quickly constructing entrenchments.
+ent-CMEntrenchingTool = саперна лопатка
+    .desc = Складна лопата для швидкого будівництва окопів.
 
