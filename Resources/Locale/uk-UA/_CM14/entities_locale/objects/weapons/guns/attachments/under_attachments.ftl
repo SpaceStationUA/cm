@@ -1,3 +1,6 @@
+ent-CMUnderAttachmentBase = { ent-CMAttachmentBase }
+    .desc = { ent-CMAttachmentBase.desc }
+
 ent-CMAttachmentAngledGrip = angled grip
     .desc = "An angled foregrip that improves weapon ergonomics resulting in faster wielding time.
 

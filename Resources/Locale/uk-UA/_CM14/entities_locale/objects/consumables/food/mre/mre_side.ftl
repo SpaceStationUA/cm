@@ -13,6 +13,9 @@ ent-CMMREComponentMashedPotatoes = MRE component (mashed potatoes)
 ent-CMMREComponentRisotto = MRE component (risotto)
     .desc = An MRE side component. Contains a side, to be eaten alongside the main. This one is risotto.
 
+ent-CMMREFoodSide = { ent-CMMREFoodBase }
+    .desc = { ent-CMMREFoodBase.desc }
+
 ent-CMMREFoodCracker = cracker
     .desc = The contents of a USCM Standard issue MRE. This one is cracker.
 
@@ -22,6 +25,5 @@ ent-CMMREFoodRiceOnigiri = rice onigiri
 ent-CMMREFoodMashedPotatoes = mashed potatoes
     .desc = The contents of a USCM Standard issue MRE. This one is mashed potatoes.
 
-ent-Risotto = risotto
-    .desc = like risotto
-
+ent-CMMREFoodRisotto = risotto
+    .desc = The contents of a USCM Standard issue MRE. This one is risotto.

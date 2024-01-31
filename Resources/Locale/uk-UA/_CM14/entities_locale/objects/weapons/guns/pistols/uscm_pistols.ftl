@@ -1,3 +1,6 @@
+ent-CMWeaponPistolBase = { ent-BaseWeaponPistol }
+    .desc = { ent-BaseWeaponPistol.desc }
+
 ent-CMWeaponPistolM4A3 = Chamber
     .desc = An M4A3 Service Pistol, once the standard issue sidearm of the Colonial Marines but has recently been replaced with the 88 Mod 4 combat pistol.
 

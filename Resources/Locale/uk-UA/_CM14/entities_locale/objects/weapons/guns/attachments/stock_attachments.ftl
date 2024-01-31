@@ -1,3 +1,6 @@
+ent-CMStockAttachmentBase = { ent-CMAttachmentBase }
+    .desc = { ent-CMAttachmentBase.desc }
+
 ent-CMAttachmentM37WoodenStock = M37 wooden stock
     .desc = A non-standard heavy wooden stock for the M37 Shotgun. More cumbersome than the standard issue stakeout, but reduces recoil and improves accuracy. Allegedly makes a pretty good club in a fight too.
 

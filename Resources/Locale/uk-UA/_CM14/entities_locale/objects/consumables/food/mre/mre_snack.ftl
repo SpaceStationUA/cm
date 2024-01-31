@@ -16,6 +16,9 @@ ent-CMMREComponentPeanuts = MRE component (peanuts)
 ent-CMMREComponentSushi = MRE component (sushi)
     .desc = An MRE snack component. Contains a light snack in case you weren't feeling terribly hungry. This one is sushi.
 
+ent-CMMREFoodSnack = { ent-CMMREFoodBase }
+    .desc = { ent-CMMREFoodBase.desc }
+
 ent-CMMREFoodBiscuit = biscuit
     .desc = The contents of a USCM Standard issue MRE. This one is biscuit.
 
@@ -28,6 +31,6 @@ ent-CMMREFoodPretzels = pretzels
 ent-CMMREFoodPeanuts = peanuts
     .desc = The contents of a USCM Standard issue MRE. This one is peanuts.
 
-ent-Sushi = sushi
-    .desc = like sushi
+ent-CMMREFoodSushi = sushi
+    .desc = The contents of a USCM Standard issue MRE. This one is sushi.
 

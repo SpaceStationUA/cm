@@ -1,3 +1,6 @@
+ent-CMUSCMPreparedMealBase = { ent-CMFoodBase }
+    .desc = { ent-CMFoodBase.desc }
+
 ent-CMUSCMPreparedMealCornbread = USCM prepared meal (cornbread)
     .desc = A tray of standard USCM food. Stale cornbread, tomato paste and some green goop fill this tray.
 

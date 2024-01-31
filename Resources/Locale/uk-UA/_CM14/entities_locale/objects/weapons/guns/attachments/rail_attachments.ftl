@@ -1,3 +1,6 @@
+ent-CMRailAttachmentBase = { ent-CMAttachmentBase }
+    .desc = { ent-CMAttachmentBase.desc }
+
 ent-CMAttachmentS42xTelescopicMiniScope = S4 2x telescopic mini-scope
     .desc = An ARMAT S4 telescoping eye piece. Fixed at a modest 2x zoom. Press the 'use rail attachment' HUD icon or use the verb of the same name to zoom.
 
