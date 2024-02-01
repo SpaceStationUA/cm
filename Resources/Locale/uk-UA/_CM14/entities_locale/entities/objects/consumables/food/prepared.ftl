@@ -5,17 +5,17 @@ ent-CMUSCMPreparedMealCornbread = готова їжа СШКМ (кукурудз
     .desc = Піднос готової їжи СШКМ. Черствий хліб з кукурудзи, томатна паста та трошечки зеленої слизі наповнюють цій підніс.
 
 ent-CMUSCMPreparedMealChicken = готова їжа СШКМ (куриця)
-    .desc = Піднос готової їжи СШКМ. Partially raw pork, goopy corn and some watery mashed potatoes fill this tray.
+    .desc = Піднос готової їжи СШКМ. Вологе куряче м'ясо, сирий ріс та трошечки депресивне броколі наповнюють цій підпіс.
 
 ent-CMUSCMPreparedMealPasta = готова їжа СШКМ (паста)
-    .desc = Піднос готової їжи СШКМ. Overcooked spaghetti, waterlogged carrots and two french fries fill this tray.
+    .desc = Піднос готової їжи СШКМ. Пересмажене спагеті, перезволожені морковки та дві картошки-фрі наповнюють цій підніс.
 
 ent-CMUSCMPreparedMealPizza = готова їжа СШКМ (піца)
-    .desc = Піднос готової їжи СШКМ. Cold піца, wet green beans and a shitty egg fill this tray. Get something other than pizza, lardass.
+    .desc = Піднос готової їжи СШКМ. Холодна піца, вологі зелені боби та лайняне яйце наповнюють цій підніс. Візьми собі щось окрім піци, жирдяй.
 
 ent-CMUSCMPreparedMealPork = готова їжа СШКМ (свиніна)
-    .desc = Піднос готової їжи СШКМ. Partially raw pork, goopy corn and some watery mashed potatoes fill this tray.
+    .desc = Піднос готової їжи СШКМ. Практично сира свиніна, липка кукурудза та трошечки вологого картопляного пюре наповнюють цій підніс.
 
 ent-CMUSCMPreparedMealTofu = готова їжа СШКМ (тофу)
-    .desc = The USCM doesn't serve tofu you grass sucking hippie. The flag signifies your defeat.
+    .desc = У СШКМ не подають тофу, травожерний ти хіппі. Цій прапор означає твою поразку!
 

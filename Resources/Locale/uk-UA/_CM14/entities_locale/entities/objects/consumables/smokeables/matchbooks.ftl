@@ -1,15 +1,15 @@
-ent-CMMatchBook = Lucky Strikes matchbook
-    .desc = A small book of cheap paper matches. Good luck getting them to light. Made by Lucky Strikes, but you'll be anything but lucky when you burn your hand trying to light a match on this.
+ent-CMMatchBook = коробка сірників щасливий удар
+    .desc = Маленька коробка дешевих паперових сірників. Удачі підпалити їх. Зроблено Щасливим Ударом, але ти не будеш щасливим коли підпалиш свою руку пробуючи підпалити ці сірники.
 
-ent-CMBrownMatchBook = brown matchbook
-    .desc = A small book of cheap paper matches. Good luck getting them to light. Made with generic brown paper.
+ent-CMBrownMatchBook = бура коробка сірників
+    .desc = Маленька коробка дешевих паперових сірників. Удачі підпалити їх. Зроблено з звичаного бурого папіру.
 
-ent-CMExecutiveSelectMatchbook = executive select matchbook
-    .desc = A small book of expensive paper matches. These ones light almost every time!
+ent-CMExecutiveSelectMatchbook = коробка сірників вибір директора
+    .desc = Маленька коробка дорогих паперових сірників. Ці підпалюютьяся почти що кожного разу.
 
-ent-CMKoorlanderMatchbook = Koorlander matchbook
-    .desc = A small book of cheap paper matches. Good luck getting them to light.
+ent-CMKoorlanderMatchbook = коробка сірників Курландер
+    .desc = Маленька коробка дешевих паперових сірників. Удачі підпалити їх.
 
-ent-CMExecutiveWYMatchbookCMExecutiveWYMatchbook = Weyland-Yutani gold matchbook
-    .desc = A small book of expensive paper matches. These ones light almost every time, or so the packaging claims.
+ent-CMExecutiveWYMatchbook = золота коробка сірників Вейланд-Ютані
+    .desc = Маленька коробка дорогих паперових сірників. Ці підпалюються почти шо кожного разу, ну як каже коробка.
 
