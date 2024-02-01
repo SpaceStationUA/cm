@@ -1,15 +1,15 @@
-ent-CMIDCardStandardDogtag = dogtags
-    .desc = contains information related to it's carrier, and grants access to the ship.
+ent-CMIDCardStandardDogtag = жетони
+    .desc = Містять інформацію о носящем, та дають доступ до корабля.
 
-ent-CMIDCardBase = identification holo-badge
-    .desc = A slice of encoded compressed fiber glass. Used for identification and access control.
+ent-CMIDCardBase = індентифіційний голо-значок
+    .desc = Зріз кодованого та пресованого скловолокна. Використовується для ідентифікації та контролю доступу.
 
-ent-CMIDCardGold = gold identification holo-badge
-    .desc = A gold plated holo-badge which shows power and might.
+ent-CMIDCardGold = gold ідентифіційний голо-значок
+    .desc = Позолочений голо-значок показуючий силю та миць.
 
-ent-CMIDCardSilver = silver identification holo-badge
-    .desc = A silver plated holo-badge which shows honour and dedication.
+ent-CMIDCardSilver = silver ідентифіційний голо-значок
+    .desc = Посріблений голо-значок показуючий честь та відданість.
 
-ent-CMIDCardLanyard = identification holo-lanyard
-    .desc = A crude holo-lanyard. As cheap as they come.
+ent-CMIDCardLanyard = ідентифіційний голо-шнурок
+    .desc = Грубий голо-шнурок. Дешевий настільки, наскільки це тільки можливо.
 

@@ -1,8 +1,12 @@
-ent-MarineCMOIDCard = chief medical officer ID card
+ent-MarineCMOIDCard = ID картка головного лікаря
+    .desc = { ent-CMIDCardSilver.desc }
 
-ent-MarineDoctorIDCard = doctor's ID card
+ent-MarineDoctorIDCard = ID картка лікаря
+    .desc = { ent-CMIDCardBase.desc }
 
-ent-NurseIDCard = nurse's ID card
+ent-NurseIDCard = ID картка медбрата
+    .desc = { ent-CMIDCardBase.desc }
 
-ent-ResearcherIDCard = researcher's ID card
+ent-ResearcherIDCard = ID картка дослідника
+    .desc = { ent-CMIDCardBase.desc }
 

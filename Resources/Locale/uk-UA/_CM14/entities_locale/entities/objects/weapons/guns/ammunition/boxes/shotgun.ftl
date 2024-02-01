@@ -1,4 +1,5 @@
 ent-CMBoxShotgunBase = box of shotgun shells
+    .desc = { ent-AmmoProviderShotgunShell.desc }
 
 ent-CMBoxShotgunBuckshot = box of buckshot shells
     .desc = A box filled with buckshot spread shotgun shells. 12 Gauge.

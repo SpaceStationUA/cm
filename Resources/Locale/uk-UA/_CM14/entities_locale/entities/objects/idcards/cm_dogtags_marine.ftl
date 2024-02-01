@@ -1,14 +1,21 @@
-ent-DogtagRifleman = Rifleman's dogtags
+ent-DogtagRifleman = жетони рядового
+    .desc = { ent-CMIDCardStandardDogtag.desc }
 
-ent-DogtagCombatTech = Combat Tech's dogtags
+ent-DogtagCombatTech = жетони бойового техника
+    .desc = { ent-CMIDCardStandardDogtag.desc }
 
-ent-DogtagFireteamLeader = Fireteam Leader's dogtags
+ent-DogtagFireteamLeader = жетони лідера отряду
+    .desc = { ent-CMIDCardStandardDogtag.desc }
 
-ent-DogtagHospitalCorpsman = Hospital Corpsman's dogtags
+ent-DogtagHospitalCorpsman = жетони бойвого медика
+    .desc = { ent-CMIDCardStandardDogtag.desc }
 
-ent-DogtagSmartgunner = Smartgunner's dogtags
+ent-DogtagSmartgunner = жетони смартґанера
+    .desc = { ent-CMIDCardStandardDogtag.desc }
 
-ent-DogtagSquadLeader = Squad Leader's dogtags
+ent-DogtagSquadLeader = жетони лідера загону
+    .desc = { ent-CMIDCardStandardDogtag.desc }
 
-ent-DogtagWeaponsSpecialist = Weapons Specialist's dogtags
+ent-DogtagWeaponsSpecialist = жетони спеціаліста по озброєнню
+    .desc = { ent-CMIDCardStandardDogtag.desc }
 

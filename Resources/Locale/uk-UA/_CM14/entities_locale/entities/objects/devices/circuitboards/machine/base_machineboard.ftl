@@ -1,3 +1,3 @@
-ent-CMBaseMachineCircuitboard = machine board
-    .suffix = Machine Board
+ent-CMBaseMachineCircuitboard = плата апарату
+    .suffix = Плата Апарату
 

@@ -1,22 +1,26 @@
-ent-CMSheetMetalBase = metal
-    .desc = A sheet of metal, used often in various applications.
+ent-CMSheetMetalBase = метал
+    .desc = Листи металу, використовуються у різних сферах застосування.
 
 ent-CMSheetSteel = { ent-CMSheetMetalBase }
-    .desc = Sheets made out of metal. They have been dubbed Metal Sheets.
+    .desc = { ent-CMSheetMetalBase.desc }
     .suffix = Full
 
 ent-CMSheetSteel10 = { ent-CMSheetMetalBase }
+    .desc = { ent-CMSheetMetalBase.desc }
     .suffix = 10
 
 ent-CMSheetSteel1 = { ent-CMSheetMetalBase }
+    .desc = { ent-CMSheetMetalBase.desc }
     .suffix = Single
 
 ent-CMSheetPlasteel = plasteel
     .suffix = Full
 
 ent-CMSheetPlasteel10 = { ent-CMSheetPlasteel }
+    .desc = { ent-CMSheetPlasteel.desc }
     .suffix = 10
 
 ent-CMSheetPlasteel1 = { ent-CMSheetPlasteel }
+    .desc = { ent-CMSheetPlasteel.desc }
     .suffix = Single
 

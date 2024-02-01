@@ -1,3 +1,4 @@
-ent-CMSyringe = шприц
-    .suffix = КМ14
+ent-CMSyringe = { ent-Syringe }
+    .desc = { ent-Syringe.desc }
+    .suffix = CM14
 

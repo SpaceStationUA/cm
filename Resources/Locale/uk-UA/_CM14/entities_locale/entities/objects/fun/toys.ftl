@@ -1,24 +1,24 @@
-ent-CMPlushieBase = generic plushie
-    .desc = perfectly generic
+ent-CMPlushieBase = звичайна м'яка іграшка
+    .desc = Суперські звичайна.
 
-ent-CMPlushieFarwa = Farwa plush
-    .desc = A Farwa plush doll. It's soft and comforting!
+ent-CMPlushieFarwa = плюшева Фарва
+    .desc = М'яка іграшка Фарва. Вона така м'яка та комфортна.
 
-ent-CMPlushieBarricade = plushie barricade
-    .desc = Great for squeezing whenever you're scared. Or lightly hurt. Or in any other situation.
+ent-CMPlushieBarricade = м'яка барикада
+    .desc = Чудово підходе для обіймів коли ти налякан. Або коли щось болить. Або в будь якої іншої ситуації.
 
-ent-CMPlushieBee = bee plush
-    .desc = A cute toy that awakens the warrior spirit in the most reserved marine.
+ent-CMPlushieBee = м'яка бджола
+    .desc = Мила іграшка що пробуджує дух воїна в найбільш стриманих піхотінців.
 
-ent-CMPlushieRock = rock plush
-    .desc = It says it is a plush on the tag, at least.
+ent-CMPlushieRock = м'який камінь
+    .desc = Але ж на етикетці сказано що він м'який!
 
-ent-CMPlushieTherapy = therapy plush
-    .desc = A therapeutic toy to assist marines in recovering from mental and behavioral disorders after experiencing the trauma of battles.
+ent-CMPlushieTherapy = терапевтична іграшка
+    .desc = Терапевтична іграшка що допомогає морпіхам у відновленні від психічних та поведінкових розладів.
 
-ent-CMPlushieYautja = strange plush
-    .desc = A plush doll depicting some sort of tall humanoid biped..?
+ent-CMPlushieYautja = дивна іграшка
+    .desc = Плюшева іграшка що зображує... якусь високу двуногу людиноподібну істоту?
 
-ent-CMPlushieRunnerBeret = XX-121 therapy plush
-    .desc = Don't be sad! Be glad (that you're alive)!
+ent-CMPlushieRunnerBeret = терапевтична іграшка XX-121
+    .desc = Не сумуй! Радій (що ти живий)!
 

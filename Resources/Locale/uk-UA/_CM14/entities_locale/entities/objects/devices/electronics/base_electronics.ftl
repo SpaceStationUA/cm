@@ -1,3 +1,3 @@
-ent-CMBaseElectronics = base electronics
-    .suffix = Electronics
+ent-CMBaseElectronics = електроника
+    .suffix = Електроника
 

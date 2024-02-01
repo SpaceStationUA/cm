@@ -1,3 +1,3 @@
-ent-CMAPCElectronics = power control module
-    .desc = Circuit used in APC construction.
+ent-CMAPCElectronics = модуль контроля живлення
+    .desc = Плата що використовується для будивництва ЗКЖ.
 

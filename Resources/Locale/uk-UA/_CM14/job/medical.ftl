@@ -7,9 +7,9 @@ job-name-cm-doctor = Лікар
 job-description-cm-doctor = Лікуйте усіх паціентів що приходять до вашого відділу. Використовуйте хірургію при необхідності.
 JobMarineDoctor = Лікар
 
-job-name-nurse = МедСестра
+job-name-nurse = МедБрат
 job-description-nurse = Допомогайте лікарям та бойовим медикам штопати поранених.
-JobNurse = МедСестра
+JobNurse = МедБрат
 
 job-name-researcher = Дослідник
 job-description-researcher = Проводьте дослідження над всім що вам прислали. Відкривайте та аналізуйте нові хімікати, речі та предмети.

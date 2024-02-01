@@ -1,8 +1,12 @@
-ent-ASOIDCard = auxiliary support officer ID card
+ent-ASOIDCard = ID картка офіцера допоміжних сил
+    .desc = { ent-CMIDCardSilver.desc }
 
-ent-PilotOfficerIDCard = pilot officer's ID card
+ent-PilotOfficerIDCard = ID картка пілот офіцера
+    .desc = { ent-CMIDCardBase.desc }
 
-ent-DCCIDCard = dropship crew chief's ID card
+ent-DCCIDCard = ID картка другого пілота
+    .desc = { ent-CMIDCardBase.desc }
 
-ent-IntelOfficerIDCard = intel officer's ID card
+ent-IntelOfficerIDCard = ID картка офіцера розвідки
+    .desc = { ent-CMIDCardBase.desc }
 

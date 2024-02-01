@@ -2,19 +2,20 @@ ent-CMPelletShotgunBase = { ent-BaseBullet }
     .desc = { ent-BaseBullet.desc }
 
 ent-CMPelletShotgunBuckshot = buckshot
-    .desc = { ent-BaseBullet.desc }
+    .desc = { ent-CMPelletShotgunBase.desc }
 
 ent-CMPelletShotgunSlug = slug
-    .desc = { ent-BaseBullet.desc }
+    .desc = { ent-CMPelletShotgunBase.desc }
 
 ent-CMPelletShotgunIncendiary = incendiary slug
-    .desc = { ent-BaseBullet.desc }
+    .desc = { ent-CMPelletShotgunBase.desc }
 
 ent-CMPelletShotgunBeanbag = beanbag slug
-    .desc = { ent-BaseBullet.desc }
+    .desc = { ent-CMPelletShotgunBase.desc }
 
 ent-CMPelletShotgunFlechette = flechette shell
-    .desc = { ent-BaseBullet.desc }
+    .desc = { ent-CMPelletShotgunBase.desc }
 
 ent-CMPelletShotgunIncendiaryBuckshot = incendiary buckshot shell
-    .desc = { ent-BaseBullet.desc }
+    .desc = { ent-CMPelletShotgunBuckshot.desc }
+

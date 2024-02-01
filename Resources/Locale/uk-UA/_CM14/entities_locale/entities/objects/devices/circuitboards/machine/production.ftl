@@ -1,2 +1,2 @@
-ent-CMSMESMachineCircuitboard = SMES machine board
-    .desc = A machine printed circuit board for a SMES.
+ent-CMSMESMachineCircuitboard = плата НпМА
+    .desc = Надрукована плата для НпМА.
