@@ -1,9 +1,9 @@
-ent-CMMRE = USCM MRE
-    .desc = A Meal, Ready-to-Eat. A single-meal combat ration designed to provide a soldier with enough nutrients for a day of strenuous work. Its expiration date is at least 20 years ahead of your combat life expectancy.
+ent-CMMRE = сухпай СШКМ
+    .desc = Сухий пайок. Одноразовий бойовий раціон зроблений щоб солдат був ситий на цілий день напруженої роботи. Строк придатності щонайменше більше на 20 років ніж середня тривалість життя в бою.
 
-ent-CMMREComponentBase = MRE component
-    .desc = A package from a Meal Ready-to-Eat, property of the US Colonial Marines. Contains a part of a meal, prepared for field consumption.
+ent-CMMREComponentBase = компонент сухпая
+    .desc = Пакет сухого пайка, власність Колоніальних Морпіхів СШ. Містить частину раціона готову для споживання.
 
-ent-CMMREFoodBase = ent-CMMRE
-    .desc = The contents of a USCM Standard issue MRE.
+ent-CMMREFoodBase = { ent-CMMRE }
+    .desc = Зміст стандартного сухпайка СШКМ.
 

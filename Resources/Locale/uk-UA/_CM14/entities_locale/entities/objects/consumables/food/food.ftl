@@ -1,2 +1,3 @@
-ent-CMFoodBase = { ent-BaseItem }
+ent-CMFoodBase = їжа
+    .desc = Стандартна їжа.
 

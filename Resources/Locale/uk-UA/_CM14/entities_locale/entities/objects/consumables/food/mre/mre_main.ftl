@@ -1,35 +1,35 @@
-ent-CMMREMainComponentBase = MRE
-    .desc = An MRE entree component. Contains the main course for nutrients.
+ent-CMMREMainComponentBase = компонент сухпайка
+    .desc = Компонент основного блюда сухпайка. Містить головне джерело поживних речовин.
 
-ent-CMMREComponentBonelessPorkRibs = MRE component (boneless pork ribs)
-    .desc = An MRE entree component. Contains the main course for nutrients. This one is boneless pork ribs.
+ent-CMMREComponentBonelessPorkRibs = компонент сухпайка (свинячі ребра без костей)
+    .desc = Компонент основного блюда сухпайка. Містить головне джерело поживних речовин. Цей - свинячі ребра без костей.
 
-ent-CMMREComponentGrilledChicken = MRE component (grilled chicken)
-    .desc = An MRE entree component. Contains the main course for nutrients. This one is grilled chicken.
+ent-CMMREComponentGrilledChicken = компонент сухпайка (курка-гриль)
+    .desc = Компонент основного блюда сухпайка. Містить головне джерело поживних речовин. Цей - курка-гриль.
 
-ent-CMMREComponentPizzaSquare = MRE component (pizza square)
-    .desc = An MRE entree component. Contains the main course for nutrients. This one is pizza square.
+ent-CMMREComponentPizzaSquare = компонент сухпайка (квадратик піци)
+    .desc = Компонент основного блюда сухпайка. Містить головне джерело поживних речовин. Цей - квадратик піци.
 
-ent-CMMREComponentSpaghettiChunks = MRE component (spaghetti chunks)
-    .desc = An MRE entree component. Contains the main course for nutrients. This one is spaghetti chunks.
+ent-CMMREComponentSpaghettiChunks = компонент сухпайка (шматок спагеті)
+    .desc = Компонент основного блюда сухпайка. Містить головне джерело поживних речовин. Цей - шматок спагеті.
 
-ent-CMMREComponentChickenTender = MRE component (chicken tender)
-    .desc = An MRE entree component. Contains the main course for nutrients. This one is chicken tender.
+ent-CMMREComponentChickenTender = компонент сухпайка (куряче філе)
+    .desc = Компонент основного блюда сухпайка. Містить головне джерело поживних речовин. Цей - куряче філе.
 
 ent-CMMREFoodMain = { ent-CMMREFoodBase }
     .desc = { ent-CMMREFoodBase.desc }
 
-ent-CMMREFoodBonelessPorkRibs = boneless pork ribs
-    .desc = The contents of a USCM Standard issue MRE. This one is boneless pork ribs.
+ent-CMMREFoodBonelessPorkRibs = свинячі ребра без костей
+    .desc = Вміст стандартного сухпайка СШКМ. Цій - свинячі ребра без костей.
 
-ent-CMMREFoodGrilledChicken = grilled chicken
-    .desc = The contents of a USCM Standard issue MRE. This one is grilled chicken.
+ent-CMMREFoodGrilledChicken = курка-гриль
+    .desc = Вміст стандартного сухпайка СШКМ. Цій - курка-гриль.
 
-ent-CMMREFoodPizzaSquare = pizza square
-    .desc = The contents of a USCM Standard issue MRE. This one is pizza square.
+ent-CMMREFoodPizzaSquare = квадратик піци
+    .desc = Вміст стандартного сухпайка СШКМ. Цій - квадратик піци.
 
-ent-CMMREFoodSpaghettiChunks = spaghetti chunks
-    .desc = The contents of a USCM Standard issue MRE. This one is spaghetti chunks.
+ent-CMMREFoodSpaghettiChunks = шматок спагеті
+    .desc = Вміст стандартного сухпайка СШКМ. Цій - шматок спагеті.
 
-ent-CMMREFoodChickenTender = chicken tender
-    .desc = The contents of a USCM Standard issue MRE. This one is chicken tender.
+ent-CMMREFoodChickenTender = куряче філе
+    .desc = Вміст стандартного сухпайка СШКМ. Цій - куряче філе.

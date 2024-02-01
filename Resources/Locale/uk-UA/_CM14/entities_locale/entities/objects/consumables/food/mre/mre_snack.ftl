@@ -1,36 +1,36 @@
-ent-CMMRESnackComponentBase = MRE
-    .desc = An MRE snack component. Contains a light snack in case you weren't feeling terribly hungry.
+ent-CMMRESnackComponentBase = компонент сухпайка
+    .desc = Закуска сухпайка. Містить легку закуску, для швидкого перекусу.
 
-ent-CMMREComponentBiscuit = MRE component (biscuit)
-    .desc = An MRE snack component. Contains a light snack in case you weren't feeling terribly hungry. This one is biscuit.
+ent-CMMREComponentBiscuit = компонент сухпайка (бісквіт)
+    .desc = Закуска сухпайка. Містить легку закуску, для швидкого перекусу. Цій - бісквіт.
 
-ent-CMMREComponentMeatballs = MRE component (meatballs)
-    .desc = An MRE snack component. Contains a light snack in case you weren't feeling terribly hungry. This one is meatballs.
+ent-CMMREComponentMeatballs = компонент сухпайка (фрикадельки)
+    .desc = Закуска сухпайка. Містить легку закуску, для швидкого перекусу. Цій - фрикадельки.
 
-ent-CMMREComponentPretzels = MRE component (pretzels)
-    .desc = An MRE snack component. Contains a light snack in case you weren't feeling terribly hungry. This one is pretzels.
+ent-CMMREComponentPretzels = компонент сухпайка (крендельки)
+    .desc = Закуска сухпайка. Містить легку закуску, для швидкого перекусу. Цій - крендельки.
 
-ent-CMMREComponentPeanuts = MRE component (peanuts)
-    .desc = An MRE snack component. Contains a light snack in case you weren't feeling terribly hungry. This one is peanuts.
+ent-CMMREComponentPeanuts = компонент сухпайка (боби)
+    .desc = Закуска сухпайка. Містить легку закуску, для швидкого перекусу. Цій - боби.
 
-ent-CMMREComponentSushi = MRE component (sushi)
-    .desc = An MRE snack component. Contains a light snack in case you weren't feeling terribly hungry. This one is sushi.
+ent-CMMREComponentSushi = компонент сухпайка (суші)
+    .desc = Закуска сухпайка. Містить легку закуску, для швидкого перекусу. Цій - суші.
 
 ent-CMMREFoodSnack = { ent-CMMREFoodBase }
     .desc = { ent-CMMREFoodBase.desc }
 
-ent-CMMREFoodBiscuit = biscuit
-    .desc = The contents of a USCM Standard issue MRE. This one is biscuit.
+ent-CMMREFoodBiscuit = бісквіт
+    .desc = Вміст стандартного сухпайка СШКМ. Цій - бісквіт.
 
-ent-CMMREFoodMeatballs = meatballs
-    .desc = The contents of a USCM Standard issue MRE. This one is meatballs.
+ent-CMMREFoodMeatballs = фрикадельки
+    .desc = Вміст стандартного сухпайка СШКМ. Цій - фрикадельки.
 
-ent-CMMREFoodPretzels = pretzels
-    .desc = The contents of a USCM Standard issue MRE. This one is pretzels.
+ent-CMMREFoodPretzels = крендельки
+    .desc = Вміст стандартного сухпайка СШКМ. Цій - крендельки.
 
-ent-CMMREFoodPeanuts = peanuts
-    .desc = The contents of a USCM Standard issue MRE. This one is peanuts.
+ent-CMMREFoodPeanuts = боби
+    .desc = Вміст стандартного сухпайка СШКМ. Цій - боби.
 
-ent-CMMREFoodSushi = sushi
-    .desc = The contents of a USCM Standard issue MRE. This one is sushi.
+ent-CMMREFoodSushi = суші
+    .desc = Вміст стандартного сухпайка СШКМ. Цій - суші.
 

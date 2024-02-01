@@ -1,29 +1,29 @@
-ent-CMMRESideComponentBase = MRE
-    .desc = An MRE side component. Contains a side, to be eaten alongside the main.
+ent-CMMRESideComponentBase = компонент сухпайка
+    .desc = Побічний компонент сухпайка.
 
-ent-CMMREComponentCracker = MRE component (cracker)
-    .desc = An MRE side component. Contains a side, to be eaten alongside the main. This one is cracker.
+ent-CMMREComponentCracker = компонент сухпайка (крекер)
+    .desc = Побічний компонент сухпайка. Цій -  крекер.
 
-ent-CMMREComponentRiceOnigiri = MRE component (rice onigiri)
-    .desc = An MRE side component. Contains a side, to be eaten alongside the main. This one is rice onigiri.
+ent-CMMREComponentRiceOnigiri = компонент сухпайка (рисове онігірі)
+    .desc = Побічний компонент сухпайка. Цій -  рисове онігірі.
 
-ent-CMMREComponentMashedPotatoes = MRE component (mashed potatoes)
-    .desc = An MRE side component. Contains a side, to be eaten alongside the main. This one is mashed potatoes.
+ent-CMMREComponentMashedPotatoes = компонент сухпайка (картопляне пюре)
+    .desc = Побічний компонент сухпайка. Цій -  картопляне пюре.
 
-ent-CMMREComponentRisotto = MRE component (risotto)
-    .desc = An MRE side component. Contains a side, to be eaten alongside the main. This one is risotto.
+ent-CMMREComponentRisotto = компонент сухпайка (ризото)
+    .desc = Побічний компонент сухпайка. Цій -  ризото.
 
 ent-CMMREFoodSide = { ent-CMMREFoodBase }
     .desc = { ent-CMMREFoodBase.desc }
 
-ent-CMMREFoodCracker = cracker
-    .desc = The contents of a USCM Standard issue MRE. This one is cracker.
+ent-CMMREFoodCracker = крекер
+    .desc = Вміст стандартного сухпайка СШКМ. Цій -  крекер.
 
-ent-CMMREFoodRiceOnigiri = rice onigiri
-    .desc = The contents of a USCM Standard issue MRE. This one is rice onigiri.
+ent-CMMREFoodRiceOnigiri = рисове онігірі
+    .desc = Вміст стандартного сухпайка СШКМ. Цій -  рисове онігірі.
 
-ent-CMMREFoodMashedPotatoes = mashed potatoes
-    .desc = The contents of a USCM Standard issue MRE. This one is mashed potatoes.
+ent-CMMREFoodMashedPotatoes = картопляне пюре
+    .desc = Вміст стандартного сухпайка СШКМ. Цій -  картопляне пюре.
 
-ent-CMMREFoodRisotto = risotto
-    .desc = The contents of a USCM Standard issue MRE. This one is risotto.
+ent-CMMREFoodRisotto = ризото
+    .desc = Вміст стандартного сухпайка СШКМ. Цій -  ризото.

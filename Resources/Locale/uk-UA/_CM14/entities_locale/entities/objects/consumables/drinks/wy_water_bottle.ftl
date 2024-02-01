@@ -1,3 +1,3 @@
-ent-CMDrinkWYWaterBottle30 = Weyland-Yutani bottled spring water
-    .desc = Overpriced 'Spring' water. Bottled by the Weyland-Yutani Corporation.
+ent-CMDrinkWYWaterBottle30 = джерельна бутильована вода Вей-Ю
+    .desc = Вода з "джерела" із занадто завищеною ціною. Бутильована корпорацією Вейланд-Ютані.
 
