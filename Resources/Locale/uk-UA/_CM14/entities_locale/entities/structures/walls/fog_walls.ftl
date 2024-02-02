@@ -3,5 +3,6 @@ ent-CMFogWall = густий туман
     .suffix = 25 хвилин
 
 ent-CMFogWallShort = { ent-CMFogWall }
+    .desc = { ent-CMFogWall.desc }
     .suffix = 15 хвилин
 

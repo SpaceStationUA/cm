@@ -1,3 +1,3 @@
-ent-CMXeno = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
+ent-CMXeno = Чужі
+    .desc = Стандартний режим Колоніальних Морпіхів.
 

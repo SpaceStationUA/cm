@@ -3,5 +3,6 @@ ent-CMIV = pack
     .suffix = IV, empty
 
 ent-CMBloodPack = blood pack
+    .desc = blood pack
     .suffix = Full
 
