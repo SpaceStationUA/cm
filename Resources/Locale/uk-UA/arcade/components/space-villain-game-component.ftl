@@ -1,15 +1,15 @@
 ## SpaceVillainGame
 
-space-villain-game-player-attack-message = You attack {$enemyName} for {$attackAmount}!
-space-villain-game-player-heal-message = You use {$magicPointAmount} magic to heal for {$healAmount} damage!
-space-villain-game-player-recharge-message = You regain {$regainedPoints} points
-space-villain-game-player-wins-message = You won!
-space-villain-game-enemy-dies-message = {$enemyName} dies.
-space-villain-game-player-loses-message = You lost!
+space-villain-game-player-attack-message = Ви наносите {$enemyName} шкоду {$attackAmount}!
+space-villain-game-player-heal-message = Ви вживаєте {$magicPointAmount} магії та лікуєте {$healAmount} шкоди!
+space-villain-game-player-recharge-message = Ви відновлюєте {$regainedPoints} очок
+space-villain-game-player-wins-message = Ви перемогли!
+space-villain-game-enemy-dies-message = {$enemyName} гине.
+space-villain-game-player-loses-message = Ви програли!
 space-villain-game-enemy-cheers-message = {$enemyName} cheers.
-space-villain-game-enemy-dies-with-player-message = {$enemyName} dies, but takes you with him.
-space-villain-game-enemy-throws-bomb-message = {$enemyName} throws a bomb, exploding you for {$damageReceived} damage!
-space-villain-game-enemy-steals-player-power-message = {$enemyName} steals {$stolenAmount} of your power!
-space-villain-game-enemy-heals-message = {$enemyName} heals for {$healedAmount} health!
-space-villain-game-enemy-steals-player-power-message = {$enemyName} steals {$stolenAmount} of your power!
-space-villain-game-enemy-attacks-message = {$enemyName} attacks you for {$damageDealt} damage!
+space-villain-game-enemy-dies-with-player-message = {$enemyName} гине та забирає вас із обою.
+space-villain-game-enemy-throws-bomb-message = {$enemyName} жбурляє бомбу, її вибух чинить вам {$damageReceived} шкоди!
+space-villain-game-enemy-steals-player-power-message = {$enemyName} краде {$stolenAmount} вашої сили!
+space-villain-game-enemy-heals-message = {$enemyName} лікує {$healedAmount} здоровʼя!
+space-villain-game-enemy-steals-player-power-message = {$enemyName} краде {$stolenAmount} вашої сили!
+space-villain-game-enemy-attacks-message = {$enemyName} атакує та наносить вам {$damageDealt} шкоди!
