@@ -18,3 +18,4 @@ ent-CMAttachmentS6ReflexSight = S6 reflex sight
 
 ent-CMAttachments84xTelescopicScope = S8 4x telescopic scope
     .desc = An ARMAT S8 telescopic eye piece. Fixed at 4x zoom. Press the 'use rail attachment' HUD icon or use the verb of the same name to zoom.
+

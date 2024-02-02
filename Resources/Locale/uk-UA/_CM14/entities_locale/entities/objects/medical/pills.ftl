@@ -6,7 +6,6 @@ ent-CMPillBicaridine = пігулка бікаридину (15u)
 
 ent-CMPillDexalin = пігулка дексаліну (15u)
     .desc = { ent-CMPill.desc }
-    .desc = 
 
 ent-CMPillDylovene = пігулка диловену (15u)
     .desc = { ent-CMPill.desc }

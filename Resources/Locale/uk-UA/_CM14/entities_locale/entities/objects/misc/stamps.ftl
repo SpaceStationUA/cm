@@ -1,25 +1,36 @@
 ent-CMStampBase = штамп
     .desc = A rubber stamp for stamping important documents.
 
-ent-CMStampCO = CO`s rubber stamp
+ent-CMStampCO = штамп КО
+    .desc = { ent-CMStampBase.desc }
 
-ent-CMStampASO = ASO`s rubber stamp
+ent-CMStampASO = штамп ОСД
+    .desc = { ent-CMStampBase.desc }
 
-ent-CMStampCMP = CMP`s rubber stamp
+ent-CMStampCMP = штамп ГВП
+    .desc = { ent-CMStampBase.desc }
 
-ent-CMStampCMO = CMO`s rubber stamp
+ent-CMStampCMO = штамп ГЛа
+    .desc = { ent-CMStampBase.desc }
 
-ent-CMStampQM = QM`s rubber stamp
+ent-CMStampQM = штамп КМа
+    .desc = { ent-CMStampBase.desc }
 
-ent-CMStampCE = CE`s rubber stamp
+ent-CMStampCE = штамп ГІ
+    .desc = { ent-CMStampBase.desc }
 
-ent-CMStampApproved = APPOVED rubber stamp
+ent-CMStampApproved = штамп СХВАЛЕНО
+    .desc = { ent-CMStampBase.desc }
 
-ent-CMStampDenied = DENIED rubber stamp
+ent-CMStampDenied = штамп ВІДМОВЛЕНО
+    .desc = { ent-CMStampBase.desc }
 
-ent-CMStampWeyYu = WY rubber stamp
+ent-CMStampWeyYu = штамп Вею-Ю
+    .desc = { ent-CMStampBase.desc }
 
-ent-CMStampUSCM = USCM rubber stamp
+ent-CMStampUSCM = штамп СШКМ
+    .desc = { ent-CMStampBase.desc }
 
-ent-CMStampCMB = CMB rubber stamp
+ent-CMStampCMB = штамп БКМ
+    .desc = { ent-CMStampBase.desc }
 

@@ -30,3 +30,4 @@ ent-CMAttachmentUnderbarrelExtinguisher = HME-12 underbarrel extinguisher
 
 ent-CMAttachmentVerticalGrip = vertical grip
     .desc = A vertical foregrip that offers better accuracy, less recoil, and less scatter, especially during burst fire. \nHowever, it also increases weapon size.
+

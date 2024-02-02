@@ -14,6 +14,7 @@ ent-CMSheetSteel1 = { ent-CMSheetMetalBase }
     .suffix = Single
 
 ent-CMSheetPlasteel = plasteel
+    .desc = plasteel
     .suffix = Full
 
 ent-CMSheetPlasteel10 = { ent-CMSheetPlasteel }

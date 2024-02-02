@@ -15,3 +15,4 @@ ent-CMAttachmentM41ASolidStock = M41A solid stock
 
 ent-CMAttachmentM44MagnumSharpshooterStock = M44 magnum sharpshooter stock
     .desc = A wooden stock modified for use on a 44-magnum. Increases accuracy and reduces recoil at the expense of handling and agility. Less effective in melee as well.
+

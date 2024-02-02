@@ -1,6 +1,6 @@
-ent-CMWindoorAssembly = windoor assembly
-    .desc = It opens, it closes, and you can see through it!
+ent-CMWindoorAssembly = макет вікно-двері
+    .desc = Вони відкриваються, вони закриваються та що саме головне вони прозорі!
 
-ent-CMWindoorAssemblySecure = secure windoor assembly
-    .desc = It opens, it closes, and you can see through it! This one looks tough.
+ent-CMWindoorAssemblySecure = макет усиленої вікно-двері
+    .desc = Вони відкриваються, вони закриваються та що саме головне вони прозорі! Ці виглядяють прочними.
 

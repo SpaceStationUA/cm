@@ -1,2 +1,3 @@
-ent-CMAirlockAssembly = { ent-CMBaseDoor }
+ent-CMAirlockAssembly = макет дверей
+    .desc = { ent-CMBaseDoor.desc }
 
