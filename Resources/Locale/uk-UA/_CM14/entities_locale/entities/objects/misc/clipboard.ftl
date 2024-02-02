@@ -1,2 +1,2 @@
-ent-CMClipboard = clipboard
+ent-CMClipboard = планшет
 

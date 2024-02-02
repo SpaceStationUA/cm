@@ -1,17 +1,22 @@
-ent-CMFolderBase = folder
-    .desc = A folder.
+ent-CMFolderBase = тека
+    .desc = Вгадайте що це? Тека.
 
 ent-CMFolderBlue = { ent-CMFolderBase }
-    .desc = A blue folder.
+    .desc = Вгадайте що це? Тека. Ця синя.
+    .suffix = Синя
 
 ent-CMFolderRed = { ent-CMFolderBase }
-    .desc = A red folder.
+    .desc = Вгадайте що це? Тека. Ця червона.
+    .suffix = Червона
 
 ent-CMFolderYellow = { ent-CMFolderBase }
-    .desc = A yellow folder.
+    .desc = Вгадайте що це? Тека. Ця жовта.
+    .suffix = Жовта
 
 ent-CMFolderWhite = { ent-CMFolderBase }
-    .desc = A white folder.
+    .desc = Вгадайте що це? Тека. Ця біла.
+    .suffix = Біла
 
 ent-CMFolderBlack = { ent-CMFolderBase }
-    .desc = A black folder.
+    .desc = Вгадайте що це? Тека. Ця чорна.
+    .suffix = Чорна

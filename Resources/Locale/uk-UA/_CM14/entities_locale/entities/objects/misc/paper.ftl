@@ -1,11 +1,11 @@
-ent-CMPaper = paper
+ent-CMPaper = папір
 
 ent-CMPaperWritten = { ent-CMPaper }
     .desc = { ent-CMPaper.desc }
 
-ent-CMPaperJudgement = judgement
+ent-CMPaperJudgement = вирок
     .desc = { ent-CMPaper.desc }
 
-ent-CMPaperAlmayerStorage = almayer emergency storage note
+ent-CMPaperAlmayerStorage = нотатка аварійного сховища Алмаєра
     .desc = { ent-CMPaper.desc }
 

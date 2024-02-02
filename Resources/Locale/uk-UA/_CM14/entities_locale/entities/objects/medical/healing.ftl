@@ -28,11 +28,11 @@ ent-CMGauze10 = { ent-CMGauze }
 ent-CMSurgicalLine = surgical line
     .desc = A roll of military-grade surgical line, able to seamlessly sew up any wound. Also works as a robust fishing line for maritime deployments.
 
-ent-CMSynthGraft = synth graft
-    .desc = An applicator for synthetic skin field grafts. The stuff reeks, itches like the dickens, hurts going on, and the color is a perfectly averaged multiethnic tone that doesn't blend with anyone's complexion. But at least you don't have to stay in sickbay.
+ent-CMSynthGraft = синтетична шкіра
+    .desc = Аплікатор синтетичної шкіри. Ця штука смердить, свербить, не прибирає боль та колір не підходить не під який колір шкіри! ..Ну зато не прийдеться торчати в лазареті.
 
-ent-CMBurnKit = burn kit
-    .desc = A treatment kit for severe burns.
+ent-CMBurnKit = набір від опиків
+    .desc = Лікувальний набір для... лікування опиків.
     .suffix = 10
 
 ent-CMBurnKit1 = { ent-CMBurnKit }
@@ -43,8 +43,8 @@ ent-CMBurnKit10 = { ent-CMBurnKit }
     .desc = { ent-CMBurnKit.desc }
     .suffix = 10
 
-ent-CMTraumaKit = trauma kit
-    .desc = A trauma kit for severe injuries.
+ent-CMTraumaKit = набір від травм
+    .desc = Набір для лікування травм.
     .suffix = 10
 
 ent-CMTraumaKit1 = { ent-CMTraumaKit }

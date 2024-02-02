@@ -1,23 +1,23 @@
-ent-CMPillCanister = pill bottle
-    .desc = It's an airtight container for storing medication.
+ent-CMPillCanister = баночка пігулок
+    .desc = Герметичний контейнер для зберігання пігулок.
 
-ent-CMPillCanisterBicaridine = Bicaridine pill bottle
+ent-CMPillCanisterBicaridine = баночка пігулок бікаридину
     .desc = { ent-CMPillCanister.desc }
-    .suffix = Bicaridine, 16
+    .suffix = Бікаридин, 16
 
-ent-CMPillCanisterDexalin = Dexalin pill bottle
+ent-CMPillCanisterDexalin = баночка пігулок дексалину
     .desc = { ent-CMPillCanister.desc }
-    .suffix = Dexalin, 16
+    .suffix = Дексалин, 16
 
-ent-CMPillCanisterDylovene = Dylovene pill bottle
+ent-CMPillCanisterDylovene = баночка пігулок диловену
     .desc = { ent-CMPillCanister.desc }
-    .suffix = Dylovene, 16
+    .suffix = Диловен, 16
 
-ent-CMPillCanisterInaprovaline = Inaprovaline pill bottle
+ent-CMPillCanisterInaprovaline = баночка пігулок інапровалину
     .desc = { ent-CMPillCanister.desc }
-    .suffix = Inaprovaline, 16
+    .suffix = Інапровалин, 16
 
-ent-CMPillCanisterKelotane = Kelotane pill bottle
+ent-CMPillCanisterKelotane = баночка пігулок келотану
     .desc = { ent-CMPillCanister.desc }
-    .suffix = Kelotane, 16
+    .suffix = Келотан, 16
 

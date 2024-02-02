@@ -1,21 +1,21 @@
 ent-CMRailAttachmentBase = { ent-CMAttachmentBase }
     .desc = { ent-CMAttachmentBase.desc }
 
-ent-CMAttachmentS42xTelescopicMiniScope = S4 2x telescopic mini-scope
-    .desc = An ARMAT S4 telescoping eye piece. Fixed at a modest 2x zoom. Press the 'use rail attachment' HUD icon or use the verb of the same name to zoom.
+ent-CMAttachmentS42xTelescopicMiniScope = телескопічний міні-приціл S4 2x
+    .desc = Телескопічний приціл S4 від АРМАТ. Зафіксований на скромному 2-кратному збільшенні.
 
-ent-CMAttachmentMagneticHarness = magnetic harness
-    .desc = A magnetically attached harness kit that attaches to the rail mount of a weapon. When dropped, the weapon will sling to any set of USCM armor.
+ent-CMAttachmentMagneticHarness = магнітний каркас
+    .desc = Магнітний каркас що кріпиться до зброї. Якщо відпустити зброю з рук, вона притягнеться до найближчої броні СШКМ.
 
-ent-CMAttachmentB8SmartScope = B8 smart-scope
-    .desc = An experimental B8 Smart-Scope. Based on the technologies used in the Smart Gun by ARMAT, this sight has integrated IFF systems. It can only attach to the M4RA Battle Rifle and M44 Combat Revolver.
+ent-CMAttachmentB8SmartScope = розумний приціл B8
+    .desc = Експериментальний розумний приціл B8. Заснований на технологіях використованих АРМАТом у розумної зброї, цій приціл має інтегровану систему свій-чужий. Нажаль, його можна під'єднати тільки до бойової гвинтивки M4RA та бойового револьвера M44.
 
-ent-CMAttachmentS5RedDotSight = S5 red-dot sight
-    .desc = An all-weather collimator sight, designated as the AN/PVQ-64 Dot Sight. Equipped with a sunshade to increase clarity in bright conditions and resist weathering. Compact and efficient, a marvel of military design, until you realize that this is actually just an off-the-shelf design that got a military designation slapped on.
+ent-CMAttachmentS5RedDotSight = приціл з червоної точкою S5
+    .desc = Всепогодний коліматорний приціл, призначений як приціл з точкою AN/PVQ-64. Обладнаний навісом від сонця для підвищення чіткості та стійкості до погодних умов. Компактний та ефективний, диво військового дизайну! До того як ти зрозумієш що це звичайний приціл з полки магазину на який наклеєли військову назву.
 
-ent-CMAttachmentS6ReflexSight = S6 reflex sight
-    .desc = An ARMAT S6 reflex sight. A zero-magnification alternative to iron sights with a more open optic window when compared to the S5 red-dot. Helps to reduce scatter during automated fire.
+ent-CMAttachmentS6ReflexSight = рефлекторний приціл S6
+    .desc = Рефлекторний приціл S6 від АРМАТа. Альтернатива механичним прицілам з нульовим збільшенням та більшею кількістю оптичних вікон порівняно з прицілом S5. Допомогає зменшити розкид під час автоматного вогню.
 
-ent-CMAttachments84xTelescopicScope = S8 4x telescopic scope
-    .desc = An ARMAT S8 telescopic eye piece. Fixed at 4x zoom. Press the 'use rail attachment' HUD icon or use the verb of the same name to zoom.
+ent-CMAttachments84xTelescopicScope = телескопічний приціл S8 4x
+    .desc = Телескопічний приціл S8 від АРМАТ. Зафіксований на 4-кратному збільшенні.
 

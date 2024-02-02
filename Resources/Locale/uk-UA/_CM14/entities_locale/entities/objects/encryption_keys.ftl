@@ -1,81 +1,81 @@
-ent-CMEncryptionKey = Standard Encryption Key
-    .desc = An encryption key for a radio headset.
+ent-CMEncryptionKey = стандартний ключ шифрування
+    .desc = Ключ шифрування радіо-каналів для гарнитури.
 
-ent-CMEncryptionKeyCommon = common encryption Key
+ent-CMEncryptionKeyCommon = ключ шифрування загального каналу
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyColony = colony encryption Key
+ent-CMEncryptionKeyColony = ключ шифрування каналу колоністів
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyCommand = command encryption Key
+ent-CMEncryptionKeyCommand = ключ шифрування каналу командування
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyIntel = intel encryption Key
+ent-CMEncryptionKeyIntel = ключ шифрування каналу розвідки
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyEngineer = engineering encryption Key
+ent-CMEncryptionKeyEngineer = ключ шифрування інженерного каналу
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyMedical = medical encryption Key
+ent-CMEncryptionKeyMedical = ключ шифрування медічного каналу
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyMilitaryPolice = military police encryption Key
+ent-CMEncryptionKeyMilitaryPolice = ключ шифрування каналу воєнполу
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyRequisition = requisition encryption Key
+ent-CMEncryptionKeyRequisition = ключ шифрування каналу логістів
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyAlpha = alpha encryption Key
+ent-CMEncryptionKeyAlpha = ключ шифрування каналу Альфа
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyBravo = bravo encryption Key
+ent-CMEncryptionKeyBravo = ключ шифрування каналу Браво
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyCharlie = charlie encryption Key
+ent-CMEncryptionKeyCharlie = ключ шифрування каналу Чарлі
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyDelta = delta encryption Key
+ent-CMEncryptionKeyDelta = ключ шифрування каналу Дельта
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyEcho = echo encryption Key
+ent-CMEncryptionKeyEcho = ключ шифрування каналу Еко
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyFoxtrot = foxtrot encryption Key
+ent-CMEncryptionKeyFoxtrot = ключ шифрування каналу Фокстрот
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyMasterSquad = master squad encryption key
+ent-CMEncryptionKeyMasterSquad = ключ шифрування усіх загонів
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyMasterShip = master ship encryption Key
+ent-CMEncryptionKeyMasterShip = ключ шифрування усього корабля
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyLeader = leader's encryption Key
+ent-CMEncryptionKeyLeader = ключ шифрування лідера
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyCE = chief engineer's encryption Key
+ent-CMEncryptionKeyCE = ключ шифрування головного інженера
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyCMO = chief medical officer's encryption Key
+ent-CMEncryptionKeyCMO = ключ шифрування головного лікаря
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyResearcher = researcher's encryption Key
+ent-CMEncryptionKeyResearcher = ключ шифрування дослідника
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyCMP = chief military police encryption Key
+ent-CMEncryptionKeyCMP = ключ шифрування голови воєнполу
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyMPO = military police officer's encryption Key
+ent-CMEncryptionKeyMPO = ключ шифрування офіцера воєнполу
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyPilot = pilot officer's encryption Key
+ent-CMEncryptionKeyPilot = ключ шифрування пілот-офіцера
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyIntelOfficer = intel officer's encryption Key
+ent-CMEncryptionKeyIntelOfficer = ключ шифрування офіцера розвідки
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeyCrewman = vehicle crewman's encryption Key
+ent-CMEncryptionKeyCrewman = ключ шифрування механик-водія
     .desc = { ent-CMEncryptionKey.desc }
 
-ent-CMEncryptionKeySOF = sof's encryption Key
+ent-CMEncryptionKeySOF = ключ шифрування ОСС
     .desc = { ent-CMEncryptionKey.desc }
 

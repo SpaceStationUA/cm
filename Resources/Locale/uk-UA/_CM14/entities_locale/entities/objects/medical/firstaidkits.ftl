@@ -1,28 +1,28 @@
-ent-CMFirstAidKit = first-aid kit
-    .desc = It's an emergency medical kit for those serious boo-boos. With medical training you can fit this in a backpack.
+ent-CMFirstAidKit = аптечка
+    .desc = Екстрена аптечка для лікування бобо морпіхів.
 
 ent-CMFirstAidKitFilled = { ent-CMFirstAidKit }
     .desc = { ent-CMFirstAidKit.desc }
-    .suffix = Filled
+    .suffix = Заповнена
 
-ent-CMBurnAidKit = fire first-aid kit
-    .desc = It's an emergency medical kit for when the dropship ammo storage spontaneously burns down. With medical training you can fit this in a backpack.
+ent-CMBurnAidKit = аптечка від опиків
+    .desc = Екстрена аптечка для тих випадків коли хтось покурив там куди тільки що попало.
 
 ent-CMBurnAidKitFilled = { ent-CMBurnAidKit }
     .desc = { ent-CMBurnAidKit.desc }
-    .suffix = Filled
+    .suffix = Заповнена
 
-ent-CMFirstAidO2Kit = oxygen deprivation first-aid kit
-    .desc = A box full of reoxygenating goodies. With medical training you can fit this in a backpack.
+ent-CMFirstAidO2Kit = аптечка від втрати кисню
+    .desc = Коробка повна ліків від удушення. Не вилікує вашу залежність від цигарок.
 
 ent-CMFirstAidO2KitFilled = { ent-CMFirstAidO2Kit }
     .desc = { ent-CMFirstAidO2Kit.desc }
-    .suffix = Filled
+    .suffix = Заповнена
 
-ent-CMAdvFirstAidKit = advanced first-aid kit
-    .desc = Contains more effective methods of medical treatment than a basic first-aid kit, such as burn and trauma kits. With medical training you can fit this in a backpack.
+ent-CMAdvFirstAidKit = просунута аптечка
+    .desc = Містить більш ефективні методи лікування ніж звичайна аптечка.
 
 ent-CMAdvFirstAidKitFilled = { ent-CMAdvFirstAidKit }
     .desc = { ent-CMAdvFirstAidKit.desc }
-    .suffix = Filled
+    .suffix = Заповнена
 

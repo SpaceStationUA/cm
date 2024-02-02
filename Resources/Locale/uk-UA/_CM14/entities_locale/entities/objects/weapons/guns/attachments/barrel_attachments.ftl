@@ -1,12 +1,12 @@
 ent-CMBarrelAttachmentBase = { ent-CMAttachmentBase }
     .desc = { ent-CMAttachmentBase.desc }
 
-ent-CMAttachmentExtendedBarrel = extended barrel
-    .desc = The lengthened barrel speeds up and stabilizes the bullet, increasing velocity and accuracy.
+ent-CMAttachmentExtendedBarrel = подовжений ствол
+    .desc = Подовжений ствол прискорює та стабилизує кулю, підвищує швидкість та точність.
 
-ent-CMAttachmentRecoilCompensator = recoil compensator
-    .desc = "A muzzle attachment that reduces recoil by diverting expelled gasses upwards.
+ent-CMAttachmentRecoilCompensator = компенсатор віддачи
+    .desc = Дульна насадка яка знижує віддачу виводячи гази наверх.
 
-ent-CMAttachmentSuppressor = suppressor
-    .desc = "A small tube with exhaust ports to expel noise and gas.
+ent-CMAttachmentSuppressor = глушитель
+    .desc = Маленька трубка з вихлопними отворами для зменшення шуму та газів.
 

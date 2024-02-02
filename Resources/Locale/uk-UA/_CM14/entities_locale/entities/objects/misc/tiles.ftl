@@ -1,6 +1,6 @@
-ent-CMTileItemBase = floor
+ent-CMTileItemBase = підлога
 
-ent-CMTileItemSteel = steel floor
+ent-CMTileItemSteel = стальна підлога
 
-ent-CMTileItemWood = wood floor
+ent-CMTileItemWood = дерев'яна підлога
 

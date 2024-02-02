@@ -1,3 +1,3 @@
-ent-CMSniperEquipmentCase = sniper equipment case
-    .desc = "A large case containing your very own long-range M42A sniper rifle, M45 ghillie armor and helmet, M42 scout sight, ammunition, spotter equipment, and additional pieces of equipment."
+ent-CMSniperEquipmentCase = кейс обладнання снайпера
+    .desc = Великий кейс що містить твою власну далекобійну снайперську гвинтивку M42A, набір маскувальної броні M45, приціл M42, набої, обладнання навідника та запасні речі.
 

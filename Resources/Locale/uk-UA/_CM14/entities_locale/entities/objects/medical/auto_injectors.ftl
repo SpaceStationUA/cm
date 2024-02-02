@@ -1,23 +1,23 @@
-ent-CMAutoInjector = auto-injector
-    .desc = An auto-injector. Each use is 10 units.
+ent-CMAutoInjector = авто-шприц
+    .desc = Авто-шприц. Кожне використання вколює 10 юнитів.
 
-ent-CMEmergencyInjector = emergency auto-injector
-    .desc = An auto-injector loaded with a special cocktail of chemicals, to be used in a life-threatening situations. Contains 30 units of bicaridine, 30 units of kelotane and 20 units of epinephrine.
+ent-CMEmergencyInjector = екстренний авто-шприц
+    .desc = Авто-шприц наповнений спеціальним коктейлем хімікатів для використання в ситуаціях загрожуючих життю. Містить 30 юнитів бікаридину, 30 юнитіів келотана та 20 юнитів епінефріна.
 
-ent-CMTricordrazineInjector = tricordrazine auto-injector
-    .desc = An auto-injector loaded with 3 uses of tricordrazine, a weak general use medicine for treating damage. Each use is 10 units.
+ent-CMTricordrazineInjector = авто-шприц трикордразина
+    .desc = Авто-шприц наповнений трикордразином на 3 використання, слабим хімікатом загального використання для лікування шкоди. Кожне використання вколює 10 юнитів.
 
-ent-CMKelotaneAutoInjector = kelotane auto-injector
-    .desc = An auto-injector loaded with 3 uses of kelotane, a common burn medicine. Each use is 10 units.
+ent-CMKelotaneAutoInjector = авто-шприц келотана
+    .desc = Авто-шприц наповнений келотаном на 3 використання, звичайним хімікатом проти опиків. Кожне використання вколює 10 юнитів.
 
-ent-CMDexalinPlusAutoInjector = dexalin plus auto-injector
-    .desc = An auto-injector loaded with 3 uses of dexalin plus, a common airloss medicine. Each use is 10 units.
+ent-CMDexalinPlusAutoInjector = авто-шприц дексалина плюс
+    .desc = Авто-шприц наповнений дексалином плюс на 3 використання, звичайним хімікатом проти удушення. Кожне використання вколює 10 юнитів.
 
-ent-CMDyloveneAutoInjector = dylovene auto-injector
-    .desc = An auto-injector loaded with 3 uses of dylovene, a common anti-toxin medicine. Each use is 10 units.
+ent-CMDyloveneAutoInjector = авто-шприц диловена
+    .desc = Авто-шприц наповнений диловеном на 3 використання, звичайним хімікатом проти отрути. Кожне використання вколює 10 юнитів.
 
-ent-CMBicaridineAutoInjector = Bicaridine auto-injector
-    .desc = An auto-injector loaded with 3 uses of bicaridine, a medicine for brute damage. Each use is 10 units.
+ent-CMBicaridineAutoInjector = авто-шприц бікаридину
+    .desc = Авто-шприц наповнений бікаридином на 3 використання, хімікатом для лікування тупої шкоди. Кожне використання вколює 10 юнитів.
 
-ent-CMInaprovalineAutoInjector = inaprovaline auto-injector
-    .desc = An auto-injector loaded with 3 uses of inaprovaline, a medicine for people in critical condition. Each use is 10 units.
+ent-CMInaprovalineAutoInjector = авто-шприц інапровалину
+    .desc = Авто-шприц наповнений інапровалином на 3 використання, хімікатом для людей в критичному стані. Кожне використання вколює 10 юнитів.

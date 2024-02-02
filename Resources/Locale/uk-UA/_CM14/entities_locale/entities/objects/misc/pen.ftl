@@ -1,9 +1,9 @@
-ent-CMPen = pen
-    .desc = It's a normal black ink pen.
+ent-CMPen = ручка
+    .desc = Нормальна ручка з чорними чорнилами.
 
-ent-CMPenClicky = WY pen
-    .desc = It's a WY brand extra clicky black ink pen.
+ent-CMPenClicky = ручка Вею-Ю
+    .desc = Ручка з чорними чорнилами, брендуванням Вейланд-Ютані, та дуже набридливим клацанням.
 
-ent-CMPenFountain = fountain pen
-    .desc = A lavish testament to the ingenuity of ARMAT's craftsmanship, this fountain pen is a paragon of design and functionality. Detailed with golden accents and intricate mechanics, the pen allows for a swift change between a myriad of ink colors with a simple twist. A product of precision engineering, each mechanism inside the pen is designed to provide a seamless, effortless transition from one color to the next, creating an instrument of luxurious versatility.
+ent-CMPenFountain = авторучка
+    .desc = Як прекрасний показник винахідливості майстерні АРМАТ, ця авторучка зразок красоти та функціональності. Деталізована золотими акцентами та кмітливою механикою, ця ручка дозволяє швидку зміну незліченної кількості кольорів легким поворотом. Продукт високоточного проектування, кожний механизм внутрі цієї ручки зроблений щоб забезпечити швидку та легку зміну кольорів, роблячи її інструментом розкішної універсальності.
 
