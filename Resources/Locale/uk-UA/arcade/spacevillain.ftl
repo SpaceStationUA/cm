@@ -1,6 +1,6 @@
-﻿spacevillain-menu-title = Space Villain
-spacevillain-menu-label-player = Player
-spacevillain-menu-button-attack = ATTACK
-spacevillain-menu-button-heal = HEAL
-spacevillain-menu-button-recharge = RECHARGE
-spacevillain-menu-button-new-game = New Game
+﻿spacevillain-menu-title = Космічний Лиходій
+spacevillain-menu-label-player = Гравець
+spacevillain-menu-button-attack = АТАКА
+spacevillain-menu-button-heal = ЛІКУВАТИ
+spacevillain-menu-button-recharge = ПЕРЕЗАРЯДКА
+spacevillain-menu-button-new-game = Нова Гра
