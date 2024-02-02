@@ -1,22 +1,22 @@
 ent-CMScrewdriver = викрутка
-    .desc = { ent-Screwdriver.desc }
+    .desc = Цілий промисловий крутний момент у невеликій викрутці.
 
 ent-CMWirecutter = кусачки
-    .desc = { ent-Wirecutter.desc }
+    .desc = Вбивці дротів.
 
 ent-CMWrench = гайковий ключ
-    .desc = { ent-Wrench.desc }
+    .desc = Поширений інструмент для збирання та розбирання. Пам'ятайте: праворуч тугіше, ліворуч вільніше.
 
 ent-CMMultitool = тюнер доступу
     .desc = Невелекий ручний інструмент, який використовується для заміни різних функція машини.
     .suffix = Мультитул
 
 ent-CMCrowbar = лом
-    .desc = { ent-Crowbar.desc }
+    .desc = Багатофункціональний інструмент як для відчинення дверей так і для боротьби з міжпросторовими загарбниками.
 
 ent-CMCrowbarRed = аварійний лом
     .desc = { ent-CMCrowbar.desc }
 
 ent-CMHandLabeler = ручний етикетчик
-    .desc = { ent-HandLabeler.desc }
+    .desc = Ручний етикетчик, що використовується для маркування предметів і об'єктів.
 
