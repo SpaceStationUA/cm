@@ -6,15 +6,15 @@ ent-ActionXenoTailStab = Удар хвостом
 
 ent-ActionXenoLeap = Стрибнути
 
-ent-ActionXenoHeadbutt = Headbutt
+ent-ActionXenoHeadbutt = Удар головою з розбігу
 
 ent-ActionXenoTailSweep = Розмах хвостом
 
-ent-ActionXenoSlowingSpit = Сповільняющий плювок
+ent-ActionXenoSlowingSpit = Сповільнюючий плювок
 
-ent-ActionXenoScatteredSpit = Розкидующий плювок
+ent-ActionXenoScatteredSpit = Розкидуючий плювок
 
-ent-ActionXenoParalyzingSlash = Парализуючий удар
+ent-ActionXenoParalyzingSlash = Паралізуючий удар
 
 ent-ActionXenoBoneChips = Bone Chips
 

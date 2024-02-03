@@ -4,5 +4,5 @@ ent-ActionXenoChooseStructure = Обрати структуру
 
 ent-ActionXenoSecreteStructure = Виділити смолу
 
-ent-ActionXenoOrderConstruction = Замовити будивництво
+ent-ActionXenoOrderConstruction = Замовити будівництво
 

@@ -20,7 +20,7 @@ ent-CMPouchFirstAidPills = { ent-CMPouchFirstAidInjectors }
 
 ent-CMPouchFirstAidERTFill = { ent-CMPouchFirstAidERT }
     .desc = { ent-CMPouchFirstAidERT.desc }
-    .suffix = ERT, Заповнений
+    .suffix = ГШР, Заповнений
 
 ent-CMPouchMedicalFill = { ent-CMPouchMedical }
     .desc = { ent-CMPouchMedical.desc }
