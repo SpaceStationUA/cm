@@ -1,59 +1,60 @@
-ent-ColMarTechBase = ColMarTech vendor
+ent-ColMarTechBase = КолМарТех торговий автомат
+    .desc = { ent-BaseMachinePowered.desc }
 
-ent-ColMarTechFood = ColMarTech food vendor
-    .desc = USCM Food Vendor, containing standard military Prepared Meals.
+ent-ColMarTechFood = КолМарТех автомат з їжею
+    .desc = Автомат з їжею від СШКМ, містить стандартні військові готові блюда.
 
-ent-ArmatAttachments = Armat Systems squad attachments vendor
-    .desc = An automated supply rack hooked up to a small storage of weapons attachments. Can be accessed by any Marine Rifleman.
+ent-ArmatAttachments = автомат з навісними обладнанням від АРМАТ
+    .desc = Автоматична стійка, що під'єднана до маленького сховища з обладнанням до зброї. До неї мають доступ рядові.
 
-ent-ColMarTechUtilities = ColMarTech automated utilities squad vendor
-    .desc = An automated supply rack hooked up to a small storage of various utilities and tools. Can be accessed by any Marine Rifleman.
+ent-ColMarTechUtilities = КолМарТех автомат інструментів
+    .desc = Автоматична стійка, що під'єднана до маленького сховища різних утилит та інструментів. До неї мають доступ рядові.
 
-ent-ColMarTechMunitions = ColMarTech automated munition squad vendor
-    .desc = An automated supply rack hooked up to a small storage of various ammunition types. Can be accessed by any Marine Rifleman.
+ent-ColMarTechMunitions = КолМарТех автомат набоїв
+    .desc = Автоматична стійка, що під'єднана до маленького сховища різних типів набоїв. До неї мають доступ рядові.
 
-ent-ColMarTechGuns = ColMarTech automated weapons rack
-    .desc = An automated weapon rack hooked up to a big storage of standard-issue weapons.
+ent-ColMarTechGuns = КолМарТех автомат озброєння
+    .desc = Автоматична стійка, що під'єднана до великого сховища різновидної зброї.
 
-ent-ColMarTechEquipment = ColMarTech automated marine equipment rack
-    .desc = An automated rack hooked up to a colossal storage of Marine Rifleman standard-issue equipment.
+ent-ColMarTechEquipment = КолМарТех автомат стандартного обладнання
+    .desc = Автоматична стійка, що під'єднана до великого сховища стандартного обладнання рядових.
 
-ent-ColMarTechSLGear = ColMarTech squad leader gear rack
-    .desc = An automated gear rack for Squad Leaders.
+ent-ColMarTechSLGear = КолМарТех автомат лідера загону.
+    .desc = Автоматична стійка лідера загону.
 
-ent-ColMarTechSLEquipment = ColMarTech squad leader equipment rack
+ent-ColMarTechSLEquipment = КолМарТех squad leader equipment rack
     .desc = An automated rack hooked up to a colossal storage of Squad Leader standard-issue equipment.
 
-ent-ColMarTechSWSGear = ColMarTech squad weapons specialist gear rack
+ent-ColMarTechSWSGear = КолМарТех squad weapons specialist gear rack
     .desc = An automated gear rack for Squad Weapons Specialists.
 
-ent-ColMarTechSWSEquipment = ColMarTech squad weapons specialist equipment rack
+ent-ColMarTechSWSEquipment = КолМарТех squad weapons specialist equipment rack
     .desc = An automated rack hooked up to a colossal storage of Squad Weapons Specialist standard-issue equipment.
 
-ent-ColMarTechSCTGear = ColMarTech squad comtech gear rack
+ent-ColMarTechSCTGear = КолМарТех squad comtech gear rack
     .desc = An automated gear rack for combat technicians.
 
-ent-ColMarTechSCTEquipment = ColMarTech squad comtech equipment rack
+ent-ColMarTechSCTEquipment = КолМарТех squad comtech equipment rack
     .desc = An automated rack hooked up to a colossal storage of combat technician standard-issue equipment.
 
-ent-ColMarTechMedicalGear = ColMarTech squad medical gear rack
+ent-ColMarTechMedicalGear = КолМарТех squad medical gear rack
     .desc = An automated gear rack for hospital corpsmen.
 
-ent-ColMarTechMedicalEquipment = ColMarTech squad medical equipment rack
+ent-ColMarTechMedicalEquipment = КолМарТех squad medical equipment rack
     .desc = An automated rack hooked up to a colossal storage of hospital corpsman standard-issue equipment.
 
-ent-ColMarTechMarineMedical = ColMarTech MarineMed
-    .desc = Medical Pharmaceutical dispenser with basic medical supplies for marines.
+ent-ColMarTechMarineMedical = КолМарТех МорпіхМед
+    .desc = Автомат з базовими медічними припасами для морпіхів.
 
-ent-ColMarTechSGGear = ColMarTech squad smartgunner gear rack
+ent-ColMarTechSGGear = КолМарТех squad smartgunner gear rack
     .desc = An automated gear rack for Squad Smartgunners.
 
-ent-ColMarTechSGEquipment = ColMarTech squad smartgun equipment rack
+ent-ColMarTechSGEquipment = КолМарТех squad smartgun equipment rack
     .desc = An automated rack hooked up to a colossal storage of Squad Smartgun standard-issue equipment.
 
-ent-ColMarTechFLGear = ColMarTech fireteam leader gear rack
+ent-ColMarTechFLGear = КолМарТех fireteam leader gear rack
     .desc = An automated gear rack for fireteam leaders.
 
-ent-ColMarTechFLEquipment = ColMarTech fireteam leader equipment rack
+ent-ColMarTechFLEquipment = КолМарТех fireteam leader equipment rack
     .desc = An automated rack hooked up to a colossal storage of fireteam leader standard-issue equipment.
 

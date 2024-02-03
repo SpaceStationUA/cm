@@ -1,20 +1,20 @@
 ent-CMAirlockBrigLocked = { ent-CMAirlockSecurity }
     .desc = { ent-CMBaseDoor.desc }
-    .suffix = Brig, Locked
+    .suffix = Бріг, Зачинені
 
 ent-CMAirlockGlassBrigLocked = { ent-CMAirlockSecurity }
     .desc = { ent-CMBaseDoor.desc }
-    .suffix = Brig, Locked, Glass
+    .suffix = Бріг, Зачинені, Скляні
 
 ent-CMAirlockMaintBrigLocked = { ent-CMAirlockSecurity }
     .desc = { ent-CMBaseDoor.desc }
-    .suffix = Brig, Locked, Maint
+    .suffix = Бріг, Зачинені, Техи
 
 ent-CMAirlockArmoryLocked = двері зброярні
     .desc = { ent-CMBaseDoor.desc }
-    .suffix = Armory, Locked
+    .suffix = Зброярня, Зачинені
 
 ent-CMAirlockGlassArmoryLocked = { ent-CMAirlockArmoryLocked }
     .desc = { ent-CMBaseDoor.desc }
-    .suffix = Armory, Locked, Glass
+    .suffix = Зброярня, Зачинені, Скляні
 

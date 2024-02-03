@@ -1,35 +1,35 @@
 ent-CMAirlockCommandLocked = двері командування
     .desc = { ent-CMBaseDoor.desc }
-    .suffix = Командування, Зачинено
+    .suffix = Командування, Зачинені
 
 ent-CMAirlockMaintCommandLocked = двері командування
     .desc = { ent-CMBaseDoor.desc }
-    .suffix = Командування, Зачинено, Техи
+    .suffix = Командування, Зачинені, Техи
 
 ent-CMAirlockCMPLocked = двері ГВП
     .desc = { ent-CMBaseDoor.desc }
-    .suffix = ГВП, Зачинено
+    .suffix = ГВП, Зачинені
 
 ent-CMAirlockQuartermasterLocked = двері КМа
     .desc = { ent-CMBaseDoor.desc }
-    .suffix = Квартермейстер, Зачинено
+    .suffix = Квартермейстер, Зачинені
 
 ent-CMAirlockSEALocked = двері СВРа
     .desc = { ent-CMBaseDoor.desc }
-    .suffix = СВР, Зачинено
+    .suffix = СВР, Зачинені
 
 ent-CMAirlockCOLocked = двері КО
     .desc = { ent-CMBaseDoor.desc }
-    .suffix = КО, Зачинено
+    .suffix = КО, Зачинені
 
 ent-CMAirlockCMOLocked = двері ГЛа
     .desc = { ent-CMBaseDoor.desc }
-    .suffix = ГЛ, Зачинено
+    .suffix = ГЛ, Зачинені
 
 ent-CMAirlockCELocked = двері ГІ
     .desc = { ent-CMBaseDoor.desc }
-    .suffix = ГІ, Зачинено
+    .suffix = ГІ, Зачинені
 
 ent-CMAirlockASOLocked = двері ОДС
     .desc = { ent-CMBaseDoor.desc }
-    .suffix = ОДС, Зачинено
+    .suffix = ОДС, Зачинені

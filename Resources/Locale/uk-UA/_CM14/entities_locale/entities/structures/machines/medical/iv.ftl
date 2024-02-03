@@ -1,8 +1,8 @@
-ent-CMIV = pack
-    .desc = Allows you to inject blood into a patient or extract blood from them to do a blood transfusion.
-    .suffix = IV, empty
+ent-CMIV = штатив для пакетів крові
+    .desc = Дозволяє тобі вводити або забирати кров з паціента для внутрішньої інфузії.
+    .suffix = IV, порожній
 
-ent-CMBloodPack = blood pack
-    .desc = blood pack
-    .suffix = Full
+ent-CMBloodPack = пакет крові
+    .desc = { ent-BaseItem.desc }
+    .suffix = Повний
 

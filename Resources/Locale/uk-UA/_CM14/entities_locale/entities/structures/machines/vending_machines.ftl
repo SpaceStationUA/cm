@@ -1,25 +1,23 @@
-ent-CMVendor = Vendomat
-    .desc = A generic vending machine.
+ent-CMVendor = торговий автомат
+    .desc = Звичайний торговий автомат.
 
-ent-CMVendorCoffee = Hot Drinks machine
-    .desc = A vending machine which dispenses hot drinks.
+ent-CMVendorCoffee = автомат горячих напоїв
+    .desc = Торговий автомат з горячими напоями.
 
-ent-CMVendorSnack = Hot Foods Machine
-    .desc = A vending machine full of ready to cook meals, mhmmmm taste the nutritional goodness!
+ent-CMVendorSnack = автомат готової їжи
+    .desc = Торговий автомат повний приготованої їжи, ммм спробуйте все це!
 
-ent-CMVendorCola = Souto Softdrinks
-    .desc = A softdrink vendor provided by Souto Soda Company, Havana.
+ent-CMVendorCola = легкі напої Соуто
+    .desc = Торговий автомат легких напоїв від компанії Соуто Сода, з Гавани.
 
-ent-CMVendorCigs = Cigarette Machine
-    .desc = If you want to get cancer, might as well do it in style!
+ent-CMVendorCigs = автомат цигарок
+    .desc = Хочете рак? Тоді ви по адресу!
 
-ent-CMVendorSec = SecTech
-    .desc = A security equipment vendor.
-    .suffix = Military Police
+ent-CMVendorSec = ВоєнПолТех
+    .desc = Торговий автомат речей для військової поліції.
 
-ent-CMVendorSEA = SEATech
-    .desc = An equipment vendor designed to save lives
-    .suffix = SEA
+ent-CMVendorSEA = РадникТех
+    .desc = Торговий автомат Старшого Військового Радника.
 
 ent-CMVendorNutri = NutriMax
     .desc = A plant nutrient vendor.
@@ -40,6 +38,7 @@ ent-CMVendorIngredients = Galley Auxiliary Storage Requisition System
     .desc = A vending machine meant to be use for cooks.
 
 ent-CMVendorMedical = Wey-Med Plus
+    .desc = { ent-CMVendor.desc }
 
 ent-CMVendorChemistry = Wey-Chem Plus
     .desc = Medical chemistry dispenser. Provided by Wey-Yu Pharmaceuticals Division(TM).
