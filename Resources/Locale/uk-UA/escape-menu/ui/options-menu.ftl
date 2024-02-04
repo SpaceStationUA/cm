@@ -1,40 +1,40 @@
 ## General stuff
 
-ui-options-title = Game Options
-ui-options-tab-graphics = Graphics
-ui-options-tab-controls = Controls
-ui-options-tab-audio = Audio
+ui-options-title = Гра
+ui-options-tab-graphics = Графіка
+ui-options-tab-controls = Керування
+ui-options-tab-audio = Аудіо
 ui-options-tab-network = Network
-ui-options-tab-misc = General
+ui-options-tab-misc = Загальні
 
-ui-options-apply = Apply
-ui-options-reset-all = Reset All
-ui-options-default = Default
+ui-options-apply = Підтвердити
+ui-options-reset-all = Зкинути
+ui-options-default = По замовчуванню
 
 # Misc/General menu
 
-ui-options-discordrich = Enable Discord Rich Presence
-ui-options-general-ui-style = UI Style
+ui-options-discordrich = Увимкнути Discord Rich Presence
+ui-options-general-ui-style = Стиль дієвидла
 ui-options-general-discord = Discord
-ui-options-general-cursor = Cursor
-ui-options-general-speech = Speech
-ui-options-general-storage = Storage
-ui-options-general-accessibility = Accessibility
+ui-options-general-cursor = Курсор
+ui-options-general-speech = Голос
+ui-options-general-storage = Сховище
+ui-options-general-accessibility = Доступність
 
 ## Audio menu
 
-ui-options-master-volume = Master Volume:
-ui-options-midi-volume = MIDI (Instrument) Volume:
-ui-options-ambient-music-volume = Ambient music volume:
-ui-options-ambience-volume = Ambience volume:
-ui-options-lobby-volume = Lobby & Round-end volume:
-ui-options-interface-volume = Interface volume:
+ui-options-master-volume = Головна гучність:
+ui-options-midi-volume = MIDI (Інструментів) Гучність:
+ui-options-ambient-music-volume = Гучність атмосферної музики:
+ui-options-ambience-volume = Гучність оточення:
+ui-options-lobby-volume = Гучність Лобі та Кінця раунду:
+ui-options-interface-volume = Гучність дієвидла:
 ui-options-ambience-max-sounds = Ambience simultaneous sounds:
-ui-options-lobby-music = Lobby & Round-end Music
-ui-options-restart-sounds = Round Restart Sounds
-ui-options-event-music = Event Music
-ui-options-admin-sounds = Play Admin Sounds
-ui-options-volume-label = Volume
+ui-options-lobby-music = Музика лобі та кінця раунда
+ui-options-restart-sounds = Звуки перезапуску раунда
+ui-options-event-music = Івентна музика
+ui-options-admin-sounds = Музика адмінів
+ui-options-volume-label = Гучність
 ui-options-volume-percent = { TOSTRING($volume, "P0") }
 
 ## Graphics menu
