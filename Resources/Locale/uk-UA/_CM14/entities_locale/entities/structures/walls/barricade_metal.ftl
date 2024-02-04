@@ -1,26 +1,25 @@
-ent-CMBarricadeBase = Metal Barricade
+ent-CMBarricadeBase = Металева Барикада
 
-ent-CMBarricadeMetal = Metal Barricade
-    .desc = A metal barricade that keeps the unwanted out. Upgradable with steel, plasteel, or steel rods for different attributes. Repair with a welder.
+ent-CMBarricadeMetal = Металева Барикада
+    .desc = Металева барикада, яка не пропускає небажаних. Можна покращити за допомогою сталі, пласталі, або сталевих стрижнів для різних атрибутів. Ремонтується зварювальним апаратом.
 
-ent-CMBarricadeBurn = anti-Biohazard Barricade
-    .desc = A barricade incredibly resistant to corrosive and fire damage but breaks easier. Repair with a welder.
+ent-CMBarricadeBurn = Барикада Проти Біологічної Небезпеки
+    .desc = Барикада неймовірно стійка до корозій та пожеж, але легко піддається фізичним пошкодженням. Ремонтується зварювальним апаратом.
 
-ent-CMBarricadeBrute = Reinforced Barricade
-    .desc = A heavy-duty barricade reinforced with steel and resistant against thrashing. Repair with a welder.
+ent-CMBarricadeBrute = Посилена Барикада
+    .desc = Міцна барикада, укріплена сталлю та стійка до ударів. Ремонтується зварювальним апаратом.
 
-ent-CMBarricadeExplosive = Blast-Resistant Barricade
-    .desc = An blast-resistant barricade made out of the same stuff in EODs. Repair with a welder.
+ent-CMBarricadeExplosive = Вибухостійка Барикада
+    .desc = Вибухостійка барикада, зроблена з того самого матеріалу, що й саперний костюм. Ремонтується зварювальним апаратом.
 
-ent-CMBarricadeTurnstile = Turnstile
-    .desc = A railing to prevent marines from stepping out of line.
+ent-CMBarricadeTurnstile = Перила
+    .desc = Перила, щоб морські піхотинці не виходили з лінії як стадо.
 
-ent-CMBarricadeTurnstileMed = Turnstile
-    .desc = A railing to prevent marines from stepping out of line. This one is designed specifically for medical.
+ent-CMBarricadeTurnstileMed = Медичні Перила
+    .desc = Перила, щоб морські піхотинці не виходили з лінії. Цей розроблений спеціально для медичного відділу.
 
-ent-CMBarricadeMetalDoor = Folding Metal Barricade
-    .desc = A folding metal barricade weaker than the non-folding counterpart. Able to be opened and closed at a moment's notice. Repair with a welder.
+ent-CMBarricadeMetalDoor = Складна Металева Барикада
+    .desc = Складна металева барикада слабша за нескладний аналог. Можливе відкриття та закриття в будь-який момент. Ремонтується зварювальним апаратом.
 
-ent-CMBarricadePlasteelDoor = Folding Plasteel Barricade
-    .desc = A tough folding plasteel barricade stronger than its metal counterpart. Can be closed and opened at a moment's notice. Repair with a welder.
-
+ent-CMBarricadePlasteelDoor = Складна Барикада З Пласталі
+    .desc = Міцна складна барикада з пласталі, міцніша за металевий аналог. Можливе відкриття та закриття в будь-який момент. Ремонтується зварювальним апаратом.

@@ -1,4 +1,4 @@
 ent-CMGirder = балка
 
-ent-CMGirderReinforced = усилена балка
+ent-CMGirderReinforced = посилена балка
 
