@@ -1,20 +1,20 @@
-ent-CMBaseWindow = window
+ent-CMBaseWindow = вікно
 
-ent-CMWindowReinforcedAlmayerHull = hull window
-    .desc = A glass window with a special rod matrix inside a wall frame. This one was made out of exotic materials to prevent hull breaches. No way to get through here.
+ent-CMWindowReinforcedAlmayerHull = надміцне корабельне вікно
+    .desc = Скляне вікно зі спеціальним стрижневим корпусом всередині. Зроблене з екзотичних матеріалів, щоб запобігти пробоїнам корпусу. Тобі не пройти!
 
-ent-CMWindowReinforcedAlmayer = reinforced window
-    .desc = A glass window with a special rod matrix inside a wall frame. It looks rather strong. Might take a few good hits to shatter it.
+ent-CMWindowReinforcedAlmayer = армоване корабельне вікно
+    .desc = Скляне вікно зі спеціальним стрижневим корпусом всередині. Виглядає досить міцно. Може знадобитися кілька хороших ударів, щоб розбити його.
 
-ent-CMWindowReinforcedWhiteHull = reinforced window
-    .desc = An ultra-reinforced window designed to keep research a secure area. This one was made out of exotic materials to prevent hull breaches. No way to get through here.
+ent-CMWindowReinforcedWhiteHull = армоване корпусне вікно
+    .desc = Ультраармоване вікно, розроблене для забезпечення безпеки в зоні досліджень. Зроблене з екзотичних матеріалів, щоб запобігти пробоїнам. Тобі не пройти!
 
-ent-CMWindowReinforcedWhite = hull window
-    .desc = A glass window with a special rod matrix inside a wall frame. It looks rather strong. Might take a few good hits to shatter it.
+ent-CMWindowReinforcedWhite = армоване внутрішнє вікно
+    .desc = Скляне вікно зі спеціальним стрижневим корпусом всередині. Виглядає досить міцно. Може знадобитися кілька ударів, щоб розбити його.
 
-ent-CMWindowWhiteColony = window
-    .desc = A glass window. It looks thin and flimsy. A few knocks with anything should shatter it.
+ent-CMWindowWhiteColony = корпусне вікно
+    .desc = Скляне вікно. Виглядає тонким і кволим. Кілька ударів будь-чим повинні розбити його.
 
-ent-CMWindowWhiteColonyReinforced = reinforced window
-    .desc = A glass window with a special rod matrix inside a wall frame. It looks rather strong. Might take a few good hits to shatter it.
+ent-CMWindowWhiteColonyReinforced = корпусне армоване скло
+    .desc = Скляне вікно зі спеціальним стрижневим корпусом всередині. Виглядає досить міцно. Може знадобитися кілька хороших ударів, щоб розбити його.
 
