@@ -1,19 +1,19 @@
-ent-CMFilingCabinetBase = filing cabinet
-    .desc = A large cabinet with drawers.
-    .suffix = Empty
+ent-CMFilingCabinetBase = картотека
+    .desc = Велика шафа з ящичками.
+    .suffix = Пустий
 
-ent-CMFilingCabinet = filing cabinet
+ent-CMFilingCabinet = картотека
     .desc = { ent-CMFillingCabinetBase.desc }
 
-ent-CMFilingCabinetTall = tall filing cabinet
+ent-CMFilingCabinetTall = висока картотека
     .desc = { ent-CMFillingCabinetBase.desc }
 
-ent-CMFilingCabinetTallWood = tall wooden filing cabinet
+ent-CMFilingCabinetTallWood = висока дерев'яна картотека
     .desc = { ent-CMFillingCabinetBase.desc }
 
-ent-CMFilingCabinetChest = chest drawer
+ent-CMFilingCabinetChest = комод
     .desc = { ent-CMFillingCabinetBase.desc }
 
-ent-CMFilingCabinetChestWood = wooden chest drawer
+ent-CMFilingCabinetChestWood = дерев'яний комод
     .desc = { ent-CMFillingCabinetBase.desc }
 
