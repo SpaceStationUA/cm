@@ -91,43 +91,43 @@ ent-CMSemioticHazard = семіотика небезпеки
 ent-CMSemioticHigh_rad = семіотика радіації
     .desc = Стандарт семіотики, що вказує на присутність поблизу радіації.
 
-ent-CMSemioticHigh_voltage = high voltage семіотика
-    .desc = Стандарт семіотики, що вказує на присутність поблизу high voltage electrical current.
+ent-CMSemioticHigh_voltage = семіотика висогої напруги
+    .desc = Стандарт семіотики, що вказує на присутність поблизу електричний струм високої напруги.
 
-ent-CMSemioticHvac = HVAC семіотика
-    .desc = Стандарт семіотики, що вказує на присутність поблизу...an HVAC system. This sign must have been updated to the new standard.
+ent-CMSemioticHvac = семіотика ОВК
+    .desc = Стандарт семіотики, що вказує на присутність поблизу ...системи ОВК. Цій знак повинен бути оновлен до нових стандартів.
 
-ent-CMSemioticHvac_old = HVAC семіотика
-    .desc = Стандарт семіотики, що вказує на присутність поблизу HVAC system. This sign is still using the old standard.
+ent-CMSemioticHvac_old = семіотика ОВК
+    .desc = Стандарт семіотики, що вказує на присутність поблизу системи ОВК. Цій знак все ще використовує старі стандарти.
 
-ent-CMSemioticIntercom = intercom семіотика
-    .desc = Стандарт семіотики, що вказує на присутність поблизу intercom.
+ent-CMSemioticIntercom = семіотика інтеркома
+    .desc = Стандарт семіотики, що вказує на присутність поблизу інтеркома.
 
-ent-CMSemioticLadder = ladder семіотика
-    .desc = Стандарт семіотики, що вказує на присутність поблизу ladder.
+ent-CMSemioticLadder = семіотика драбини
+    .desc = Стандарт семіотики, що вказує на присутність поблизу драбини.
 
-ent-CMSemioticLaser = laser семіотика
-    .desc = Стандарт семіотики, що вказує на присутність поблизу lasers. It's usually not as cool as it sounds.
+ent-CMSemioticLaser = семіотика лазера
+    .desc = Стандарт семіотики, що вказує на присутність поблизу лазерів. Зазвичай це не так круто як може показатися...
 
-ent-CMSemioticLife_support = life support system семіотика
-    .desc = Стандарт семіотики, що вказує на присутність поблизу life support system.
+ent-CMSemioticLife_support = семіотика системи підтримки життя
+    .desc = Стандарт семіотики, що вказує на присутність поблизу системи підтримки життя.
 
-ent-CMSemioticMaint = maintenace семіотика
-    .desc = Стандарт семіотики, що вказує на присутність поблизу maintenance access.
+ent-CMSemioticMaint = семіотика техничніх тунелів
+    .desc = Стандарт семіотики, що вказує на присутність поблизу техничніх тунелів..
 
-ent-CMSemioticManualopenclose = manual opener/closer семіотика
-    .desc = Стандарт семіотики, що вказує на присутність поблизу manual shutoff valve.
+ent-CMSemioticManualopenclose = семіотика ручного клапана
+    .desc = Стандарт семіотики, що вказує на присутність поблизу ручного клапана.
 
-ent-CMSemioticMed_cryo = medical cryostasis vault семіотика
-    .desc = Стандарт семіотики, що вказує на присутність поблизу medical cryostasis vault.
+ent-CMSemioticMed_cryo = семіотика медичного кріостазисного сховища
+    .desc = Стандарт семіотики, що вказує на присутність поблизу медичного кріостазисного сховища.
 
-ent-CMSemioticMed_life_support = medical life support семіотика
-    .desc = Стандарт семіотики, що вказує на присутність поблизу life support system for a medbay.
+ent-CMSemioticMed_life_support = семіотика системи підтримки життя
+    .desc = Стандарт семіотики, що вказує на присутність поблизу системи підтримки життя.
 
-ent-CMSemioticMedical = medical семіотика
-    .desc = Стандарт семіотики, що вказує на присутність поблизу medbay.
+ent-CMSemioticMedical = семіотика медвідділа
+    .desc = Стандарт семіотики, що вказує на присутність поблизу медичного відділа.
 
-ent-CMSemioticNonpress = non-pressurized area beyond семіотика
+ent-CMSemioticNonpress = семіотика негерметічної території
     .desc = Стандарт семіотики, що вказує на that the area beyond isn't pressurized.
 
 ent-CMSemioticNonpress_ag = artificial gravity area, non-pressurized, suit required семіотика
