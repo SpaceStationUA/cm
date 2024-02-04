@@ -1,21 +1,21 @@
-ent-CMShellShotgunBase = handful of shotgun shell
-    .desc = A handful of rounds to reload on the go.
+ent-CMShellShotgunBase = жменька набоїв для дробовика
+    .desc = Жменька набоїв для дробовика щоб перезаряджатись на ходу.
 
-ent-CMShellShotgunBuckshot = handful of buckshot shells
+ent-CMShellShotgunBuckshot = жменька картечі для дробовика
     .desc = { ent-CMShellShotgunBase.desc }
 
-ent-CMShellShotgunSlugs = handful of shotgun slugs
+ent-CMShellShotgunSlugs = жменька точних набоїв для дробовика
     .desc = { ent-CMShellShotgunBase.desc }
 
-ent-CMShellShotgunIncendiary = handful of incendiary slugs
+ent-CMShellShotgunIncendiary = жменька точних запальних набоїв для дробовика
     .desc = { ent-CMShellShotgunBase.desc }
 
-ent-CMShellShotgunBeanbag = handful of beanbag slugs
+ent-CMShellShotgunBeanbag = жменька точних гумових набоїв для дробовика
     .desc = { ent-CMShellShotgunBase.desc }
 
-ent-CMShellShotgunFlechette = handful of flechette shells
+ent-CMShellShotgunFlechette = жменька флешетних набоїв для дробовика
     .desc = { ent-CMShellShotgunBase.desc }
 
-ent-CMShellShotgunIncendiaryBuckshot = handful of incendiary buckshot shells
+ent-CMShellShotgunIncendiaryBuckshot = жменька набоїв запальної картечі для дробовика
     .desc = { ent-CMShellShotgunBuckshot.desc }
 
