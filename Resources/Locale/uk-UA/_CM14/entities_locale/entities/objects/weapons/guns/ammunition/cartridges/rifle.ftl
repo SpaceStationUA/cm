@@ -1,3 +1,3 @@
-ent-CMCartridgeRifle10x24mm = cartridge (10x24mm)
+ent-CMCartridgeRifle10x24mm = патрон (10x24мм)
     .desc = { ent-BaseCartridgeRifle.desc }
 

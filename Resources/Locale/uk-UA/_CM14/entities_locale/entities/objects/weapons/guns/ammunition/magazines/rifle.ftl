@@ -1,15 +1,15 @@
-ent-CMMagazineRifleM41A = M41A magazine (10x24mm)
+ent-CMMagazineRifleM41A = магазин М41А (10x24мм)
     .desc = { ent-BaseMagazineRifle.desc }
 
-ent-CMMagazineExtendedRifleM41A = M41A extended magazine (10x24mm)
+ent-CMMagazineExtendedRifleM41A = розширений магазин М41А (10x24мм)
     .desc = { ent-CMMagazineRifleM41A.desc }
 
-ent-CMMagazineRifleM41AE2 = M41AE2 magazine (10x24mm)
+ent-CMMagazineRifleM41AE2 =  магазин М41АЕ2 (10x24мм)
     .desc = { ent-CMMagazineRifleM41A.desc }
 
-ent-CMMagazineRifleM4RA = M4RA magazine (10x24mm)
+ent-CMMagazineRifleM4RA = магазин М4RА (10x24мм)
     .desc = { ent-BaseMagazineRifle.desc }
 
-ent-CMMagazineRifleExtendedM4RA = M4RA extended magazine (10x24mm)
+ent-CMMagazineRifleExtendedM4RA = розширений магазин М4RА (10x24мм)
     .desc = { ent-CMMagazineRifleM4RA.desc }
 

@@ -1,3 +1,3 @@
-ent-BulletCaseless10x20mm = bullet (10x20mm)
+ent-BulletCaseless10x20mm = куля (10x20мм)
     .desc = { ent-BaseBullet.desc }
 
