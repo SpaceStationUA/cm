@@ -1,5 +1,5 @@
-ent-CMPaperBin = коробка папіру
-    .desc = Які секрети береже в себе ця коробка?
+ent-CMPaperBin = коробка паперу
+    .desc = Які секрети береже в собі ця коробка?
     .suffix = Порожня
 
 ent-CMPaperBin5 = { ent-CMPaperBin }

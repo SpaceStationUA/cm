@@ -1,69 +1,69 @@
-ent-CMLockerBase = locker
-    .desc = It's an immobile card-locked storage unit.
+ent-CMLockerBase = гардероб
+    .desc = Нерухомий гардероб, відкривається за допомогою картки.
 
-ent-CMLockerCommander = commanding officer's locker
+ent-CMLockerCommander = гардероб командуючого офіцера
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerStaff = staff officer's locker
+ent-CMLockerStaff = гардероб штабного офіцера
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerPilot = pilot officer's locker
+ent-CMLockerPilot = гардероб пілота-офіцера
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerPolice = military police's locker
+ent-CMLockerPolice = гардероб воєнполу
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerCMP = chief MP's locker
+ent-CMLockerCMP = гардероб голови воєнполу
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerWarden = warden's locker
+ent-CMLockerWarden = гардероб наглядача
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerMedical = medical doctor's locker
+ent-CMLockerMedical = гардероб лікаря
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerHydroResearch = hydroponics research locker
+ent-CMLockerHydroResearch = гардероб ботаніка
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerQM = quartermaster's locker
+ent-CMLockerQM = гардероб квартирмейстера
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerCargo = cargo technician's locker
+ent-CMLockerCargo = гардероб вантажника
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerSEA = SEA's locker
+ent-CMLockerSEA = гардероб старшого військового радника
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerResearcher = researcher's locker
+ent-CMLockerResearcher = гардероб вченого
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerCMO = chief medical officer's locker
+ent-CMLockerCMO = гардероб головного лікаря
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerFridge = fridge
+ent-CMLockerFridge = холодильник
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerCE = chief engineer's locker
+ent-CMLockerCE = гардероб головного інженера
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerEngineer = engineer's locker
+ent-CMLockerEngineer = гардероб інженера
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerEngineerElectrical = electrical supplies
+ent-CMLockerEngineerElectrical = гардероб електроніки
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerEngineerWelder = welding supplies
+ent-CMLockerEngineerWelder = гардероб зварювання
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerAlpha = alpha squad locker
+ent-CMLockerAlpha = гардероб загону Альфа
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerBravo = bravo squad locker
+ent-CMLockerBravo = гардероб загону Браво
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerCharlie = charlie squad locker
+ent-CMLockerCharlie = гардероб загону Чарлі
     .desc = { ent-CMLockerBase.desc }
 
-ent-CMLockerDelta = delta squad locker
+ent-CMLockerDelta = гардероб загону Дельта
     .desc = { ent-CMLockerBase.desc }
 

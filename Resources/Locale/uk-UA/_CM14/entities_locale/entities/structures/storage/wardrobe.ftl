@@ -10,7 +10,7 @@ ent-CMWardrobeBlue = синій гардероб
 ent-CMWardrobeGreen = зелений гардероб
     .desc = { ent-CMWardrobeBase.desc }
 
-ent-CMWardrobeOrange = оранжевий гардероб
+ent-CMWardrobeOrange = помаранчевий гардероб
     .desc = { ent-CMWardrobeBase.desc }
 
 ent-CMWardrobePink = рожевий гардероб

@@ -1,40 +1,40 @@
-ent-CMClosetBase = closet
-    .desc = It's a basic storage unit.
+ent-CMClosetBase = шафа
+    .desc = Звичайна шафа.
 
-ent-CMClosetEmergency = emergency closet
-    .desc = It's a storage unit for emergency breathmasks and o2 tanks.
+ent-CMClosetEmergency = аварійна шафа
+    .desc = Шафа для аварійних кисневих масок і балонів о2.
 
-ent-CMClosetFire = fire-safety closet
-    .desc = It's a storage unit for fire-fighting supplies.
+ent-CMClosetFire = пожежна шафа
+    .desc = Шафа для підтримки боротьби з вогнем.
 
-ent-CMClosetTool = tool closet
-    .desc = It's a storage unit for tools.
+ent-CMClosetTool = шафа інструментів
+    .desc = Шафа для інструментів
 
-ent-CMClosetRadiation = radiation suit closet
-    .desc = It's a storage unit for rad-protective suits.
+ent-CMClosetRadiation = шафа радіаційних костюмів
+    .desc = Шафа для радіаційних костюмів.
 
-ent-CMClosetBomb = EOD closet
-    .desc = It's a storage unit for explosion-protective suits.
+ent-CMClosetBomb = шафа саперного котстюму
+    .desc = Шафа для саперного костюму.
 
-ent-CMClosetBio = level-3 biohazard suit closet
-    .desc = It's a storage unit for level-3 biohazard gear.
+ent-CMClosetBio = шафа захисного костюму проти 3-го рівня біозагрози
+    .desc = Шафа для захисного костюму проти 3-го рівня біозагрози.
 
 ent-CMClosetBioVirology = { ent-CMClosetBio }
     .desc = { ent-CMClosetBio.desc }
-    .suffix = Virology
+    .suffix = Вірусологія
 
 ent-CMClosetBioSecurity = { ent-CMClosetBio }
     .desc = { ent-CMClosetBio.desc }
-    .suffix = Security
+    .suffix = Охорона
 
 ent-CMClosetBioJanitor = { ent-CMClosetBio }
     .desc = { ent-CMClosetBio.desc }
-    .suffix = Janitor
+    .suffix = Прибиральник
 
 ent-CMClosetBioScientist = { ent-CMClosetBio }
     .desc = { ent-CMClosetBio.desc }
-    .suffix = Scientist
+    .suffix = Навуковий
 
-ent-CMClosetAlien = strange closet
-    .desc = It looks alien!
+ent-CMClosetAlien = дивна шафа
+    .desc = Виглядає по-чужому.
 
