@@ -1,12 +1,12 @@
-ent-CMWindowDirectional = window
-    .desc = A glass window. It looks thin and flimsy. A few knocks with anything should shatter it.
+ent-CMWindowDirectional = вікно
+    .desc = Скляне вікно. Виглядає тонким і кволим. Кілька ударів будь-чим повинні розбити його.
 
-ent-CMWindowReinforcedDirectional = reinforced window
-    .desc = A glass window reinforced with bracing rods. It looks rather strong. Might take a few good hits to shatter it.
+ent-CMWindowReinforcedDirectional = армоване вікно
+    .desc = Скляне вікно, посилене арматурою. Виглядає досить міцно. Може знадобитися кілька хороших ударів, щоб розбити його.
 
-ent-CMWindowTintedDirectional = tinted window
-    .desc = A tinted glass window. It looks rather strong and opaque. Might take a few good hits to shatter it.
+ent-CMWindowTintedDirectional = тоноване вікно
+    .desc = Вікно з тонованого скла. Виглядає досить міцним, та ще й непрозоре! Може знадобитися кілька хороших ударів, щоб розбити його.
 
-ent-CMWindowUltraDirectional = ultra-reinforced window
-    .desc = An ultra-reinforced window designed to keep the briefing podium a secure area.
+ent-CMWindowUltraDirectional = ультраармоване вікно
+    .desc = Ультраармоване вікно, призначене щоб зберегти трибуни для брифінгу від шалених морпіхів.
 
