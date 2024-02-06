@@ -41,6 +41,5 @@ humanoid-profile-editor-job-priority-medium-button = Середній
 humanoid-profile-editor-job-priority-low-button = Низький
 humanoid-profile-editor-job-priority-never-button = Ніякий
 humanoid-profile-editor-naming-rules-warning = Увага: Образливі імена та описи накличуть на вас гнів адміністрації. Прочитайте \[Правила\] більш розгорнуту інформацію.
-Warning: Offensive or LRP IC names and descriptions will lead to admin intervention on this server. Read our \[Rules\] for more.
 humanoid-profile-editor-markings-tab = Маркування
 humanoid-profile-editor-flavortext-tab = Опис
