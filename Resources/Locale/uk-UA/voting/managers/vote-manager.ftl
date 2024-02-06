@@ -1,5 +1,5 @@
 # Displayed as initiator of vote when no user creates the vote
-ui-vote-initiator-server = The server
+ui-vote-initiator-server = Сервер
 
 ## Default.Votes
 

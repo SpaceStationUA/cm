@@ -1,2 +1,2 @@
-melee-speech-current-battlecry = Battlecry:
-melee-speech-menu-title = Set Battlecry
+melee-speech-current-battlecry = Бойовий крик:
+melee-speech-menu-title = Прийняти

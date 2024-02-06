@@ -1,2 +1,2 @@
-﻿server-updates-received = Update has been received, server will automatically restart for update at the end of this round.
-server-updates-shutdown = Server is shutting down for update and will automatically restart.
+﻿server-updates-received = Оновлення получено, сервер перезапуститься для оновлення у кінці цього раунду!
+server-updates-shutdown = Сервер перезапускається для оновлення.

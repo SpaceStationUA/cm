@@ -1,10 +1,10 @@
 ﻿## Species Names
 
-species-name-human = Human
-species-name-dwarf = Dwarf
-species-name-reptilian = Reptilian
-species-name-slime = Slime Person
-species-name-diona = Diona
-species-name-arachnid = Arachnid
-species-name-moth = Moth Person
-species-name-skeleton = Skeleton
+species-name-human = Людина
+species-name-dwarf = Дворф
+species-name-reptilian = Унатх
+species-name-slime = Слайм
+species-name-diona = Діона
+species-name-arachnid = Арахнід
+species-name-moth = Ніана
+species-name-skeleton = Скелет

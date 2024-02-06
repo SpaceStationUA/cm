@@ -2,22 +2,22 @@
 
 # Shown when a stack is examined in details range
 comp-stack-examine-detail-count = {$count ->
-    [one] There is [color={$markupCountColor}]{$count}[/color] thing
-    *[other] There are [color={$markupCountColor}]{$count}[/color] things
-} in the stack.
+    [one] Тут [color={$markupCountColor}]{$count}[/color] річ
+    *[other] Тут [color={$markupCountColor}]{$count}[/color] речей
+} у стаку.
 
 # Stack status control
-comp-stack-status = Count: [color=white]{$count}[/color]
+comp-stack-status = Кількість: [color=white]{$count}[/color]
 
 ### Interaction Messages
 
 # Shown when attempting to add to a stack that is full
-comp-stack-already-full = Stack is already full.
+comp-stack-already-full = Стак вже повний.
 
 # Shown when a stack becomes full
-comp-stack-becomes-full = Stack is now full.
+comp-stack-becomes-full = Стак тепер повний..
 
 # Text related to splitting a stack
-comp-stack-split = You split the stack.
-comp-stack-split-halve = Halve
-comp-stack-split-too-small = Stack is too small to split.
+comp-stack-split = Ти розділяєш стак.
+comp-stack-split-halve = Половина
+comp-stack-split-too-small = Стак занадто малий щоб розділити його.
