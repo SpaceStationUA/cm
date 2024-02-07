@@ -1,4 +1,4 @@
-machine-insert-item = {THE($user)} inserted {THE($item)} into {THE($machine)}.
+machine-insert-item = {$user} вставляє {$item} у {$machine}.
 
 machine-upgrade-examinable-verb-text = Upgrades
 machine-upgrade-examinable-verb-message = Examine the machine upgrades.
@@ -18,10 +18,10 @@ upgrade-max-charge = max charge
 upgrade-power-supply = power supply
 upgrade-power-supply-ramping = power ramp rate
 
-two-way-lever-left = push left
-two-way-lever-right = push right
-two-way-lever-cant = can't push the lever that way!
+two-way-lever-left = перемкнути вліво
+two-way-lever-right = перемкнути вправо
+two-way-lever-cant = не можливо перемкнути у цю сторону!
 
 recycler-count-items = Recycled {$items} objects.
 
-machine-already-in-use = {CAPITALIZE(THE($machine))} is already in use.
+machine-already-in-use = {CAPITALIZE($machine)} вже кимось використовується.

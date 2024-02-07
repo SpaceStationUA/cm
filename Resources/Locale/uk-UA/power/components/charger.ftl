@@ -1,2 +1,2 @@
-charger-examine = Charges at [color={$color}]{$chargeRate}W[/color].
-charger-component-charge-rate = Charge rate
+charger-examine = Заряджає [color={$color}]{$chargeRate}Вт[/color].
+charger-component-charge-rate = Рівень заряду

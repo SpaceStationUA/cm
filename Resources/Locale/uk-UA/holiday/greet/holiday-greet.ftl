@@ -1,25 +1,25 @@
 ## Generic Congrats
 
-holiday-greet = Have a happy {$holidayName}!
+holiday-greet = Щастливого {$holidayName}!
 
 ## Holiday Names
 
-holiday-name-new-year = New Year
-holiday-name-mister-lizard = Mister Lizard's Birthday
-holiday-name-chinese-new-year = Chinese New Year
-holiday-name-groundhog-day = Groundhog Day
-holiday-name-travis-scott-day = Travis Scott Day
-holiday-name-valentines-day = Valentine's Day
-holiday-name-birthday13 = Birthday of Space Station 13
+holiday-name-new-year = Нового року
+holiday-name-mister-lizard = Дня Народження Пана Ящира
+holiday-name-chinese-new-year = Китайського нового року
+holiday-name-groundhog-day = Дня бабака
+holiday-name-travis-scott-day = Дня Тревіса Скота
+holiday-name-valentines-day = Дня Святого Валентина
+holiday-name-birthday13 = Дня Народження Космічної Станції 13
 holiday-name-random-kindness = Random Acts of Kindness Day
-holiday-name-leap-day = Leap Day
-holiday-name-miku-day = Hatsune Miku Day
-holiday-name-pi-day = Pi Day
-holiday-name-st-patricks-day = St. Patrick's Day
-holiday-name-easter = Easter
-holiday-name-april-fool-day = April Fools Day
+holiday-name-leap-day = високосного дня
+holiday-name-miku-day = Дня Хатсуне Міку
+holiday-name-pi-day = Дня Пі
+holiday-name-st-patricks-day = Дня Святого Патрику
+holiday-name-easter = Великдня
+holiday-name-april-fool-day = Дня Дурака
 holiday-name-autism-awareness-day = Autism Awareness Day
-holiday-name-cosmonautics-day = Cosmonautics Day
+holiday-name-cosmonautics-day = Дня космонавтів
 holiday-name-four-twenty = Four-Twenty
 holiday-name-tea-day = National Tea Day
 holiday-name-earth-day = Earth Day

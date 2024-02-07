@@ -45,7 +45,7 @@ ui-options-opaque-storage-window = Прозоре вікно сховища
 ui-options-show-looc-on-head = Показувати чат LOOC над головами персонажів
 ui-options-fancy-speech = Показувати імена у облачках розмов
 ui-options-fancy-name-background = Додати тло до імен у облачках розмов
-ui-options-reduced-motion = Reduce motion of visual effects
+ui-options-reduced-motion = Зменшити рух візуальних ефектів
 ui-options-vsync = VSync
 ui-options-fullscreen = Повний екран
 ui-options-lighting-label = Якість світла:
@@ -69,7 +69,7 @@ ui-options-hud-theme-clockwork = Годинники
 ui-options-hud-theme-retro = Ретро
 ui-options-hud-theme-minimalist = Мінімализм
 ui-options-hud-theme-eris = Еріс
-ui-options-vp-stretch = Stretch viewport to fit game window
+ui-options-vp-stretch = Розтягнути поле зору під розмір окна гри
 ui-options-vp-scale = Fixed viewport scale: x{ $scale }
 ui-options-vp-integer-scaling = Prefer integer scaling (might cause black bars/clipping)
 ui-options-vp-integer-scaling-tooltip = If this option is enabled, the viewport will be scaled using an integer value
@@ -78,7 +78,7 @@ ui-options-vp-integer-scaling-tooltip = If this option is enabled, the viewport 
                                         of the viewport is not visible.
 ui-options-vp-low-res = Low-resolution viewport
 ui-options-parallax-low-quality = Low-quality Parallax (background)
-ui-options-fps-counter = Show FPS counter
+ui-options-fps-counter = Показувати FPS
 ui-options-vp-width = Viewport width: { $width }
 ui-options-hud-layout = HUD layout:
 

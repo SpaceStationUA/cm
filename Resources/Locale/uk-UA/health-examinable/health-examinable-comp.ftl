@@ -1,2 +1,2 @@
-﻿health-examinable-verb-text = Health
-health-examinable-verb-disabled = Perform a basic health examination in close range.
+﻿health-examinable-verb-text = Здоров'я
+health-examinable-verb-disabled = Краще одивитися людину на ушкодження.

@@ -69,10 +69,10 @@ ent-CMPosterGroves = Ґрувс
 ent-CMPosterSouto = Соуто
     .desc = Соуто. Якщо ти не п'єш Соуто, то ти скоріше за все цінуєш свої нирки та зуби... слабак! Надруковано в Гавані.
 
-ent-CMPosterArt2 = { ent-CMPosterArt }
+ent-CMPosterArt2 = { ent-CMPosterArt1 }
     .desc = На цьому плакаті зображен геометричний постмодерновий асцетний об'єктивний соціальний експресионізм... чого?
 
-ent-CMPosterArt3 = { ent-CMPosterArt }
+ent-CMPosterArt3 = { ent-CMPosterArt1 }
     .desc = На цьому плакаті зображено декілька кривих ліній які якийсь сноб оцінив у 12 мільйонів доларів. Нажаль, це просто нізкоякісна роздруковка.
 
 ent-CMPosterRocker2 = { ent-CMPosterRocker1 }

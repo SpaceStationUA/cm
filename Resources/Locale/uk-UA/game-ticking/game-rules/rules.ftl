@@ -1,5 +1,5 @@
 # General
-rule-restarting-in-seconds = Restarting in {$seconds} seconds.
+rule-restarting-in-seconds = Перезапуск через {$seconds} секунд.
 rule-time-has-run-out = Time has run out!
 
 # Respawning

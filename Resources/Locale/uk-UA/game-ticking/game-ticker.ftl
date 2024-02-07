@@ -2,10 +2,10 @@ game-ticker-restart-round = Перезапускаємо раунд...
 game-ticker-start-round = Раунд починається...
 game-ticker-start-round-cannot-start-game-mode-fallback = Невдалося почати режим {$failedGameMode}! Запускаємо {$fallbackMode}...
 game-ticker-start-round-cannot-start-game-mode-restart = Невдалося запустити режим {$failedGameMode}! Перезапускаємо раунд...
-game-ticker-start-round-invalid-map = Selected map {$map} is inelligible for gamemode {$mode}. Gamemode may not function as intended...
+game-ticker-start-round-invalid-map = Обрана мапа {$map} не підходить для режиму {$mode}. Режим гри може не функціонувати...
 game-ticker-unknown-role = Невідома
-game-ticker-delay-start = Round start has been delayed for {$seconds} seconds.
-game-ticker-pause-start = Round start has been paused.
+game-ticker-delay-start = Запуск раунду було відкладено на {$seconds} секунд.
+game-ticker-pause-start = Запуск раунду було відкладено.
 game-ticker-pause-start-resumed = Round start countdown is now resumed.
 game-ticker-player-join-game-message = Вітаємо на Колоніальних Морпіхах 14! Якщо це ваш перший раз, прочитайте правила та не бійтеся просити допомоги у LOOC (локальному OOC), OOC (зазвичай вимкнутий під час раунду) чи у АХелпі (F1).
 game-ticker-get-info-text = Привіт і вітаємо на [color=white]Колоніальних Морпіхах 14![/color]
@@ -31,7 +31,7 @@ player-join-message = Гравець {$name} під'єднався.
 player-first-join-message = ! Гравець {$name} під'єднався вперше.
 
 # Displayed in chat to admins when a player leaves
-player-leave-message = Граець {$name} від'єднався.
+player-leave-message = Гравець {$name} від'єднався.
 
 latejoin-arrival-announcement = {$character} ({$job}) прокинувся від кріосну!
 latejoin-arrival-sender = Корабель

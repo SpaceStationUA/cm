@@ -1,1 +1,1 @@
-﻿land-mine-triggered = You step on the { $mine }!
+﻿land-mine-triggered = Ваш крок активує { $mine }!
