@@ -1,3 +1,7 @@
+ent-CMPouchBayonetFill = { ent-CMPouchBayonet }
+    .desc = { ent-CMPouchBayonet.desc }
+    .suffix = Заповнений
+
 ent-CMPouchSurvivalFill = { ent-CMPouchSurvival }
     .desc = { ent-CMPouchSurvival.desc }
     .suffix = Заповнений
@@ -72,5 +76,9 @@ ent-CMPouchToolsFill = { ent-CMPouchTools }
 
 ent-CMPouchToolsSocFill = { ent-CMPouchToolsSoc }
     .desc = { ent-CMPouchToolsSoc.desc }
+    .suffix = Заповнений
+
+ent-CMPouchMacheteFill = { ent-CMPouchMachete }
+    .desc = { ent-CMPouchMachete.desc }
     .suffix = Заповнений
 

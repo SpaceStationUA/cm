@@ -6,6 +6,10 @@ ent-CMBeltUtilityCombatFilled = { ent-CMBeltUtilityCombat }
     .desc = { ent-CMBeltUtilityCombat.desc }
     .suffix = Заповнений
 
+ent-CMBeltKnifeFilled = { ent-CMBeltKnife }
+    .desc = { ent-CMBeltKnife.desc }
+    .suffix = Заповнений
+
 ent-CMBeltSecurityFilled = { ent-CMBeltSecurity }
     .desc = { ent-CMBeltSecurity.desc }
     .suffix = Заповнений
@@ -17,3 +21,4 @@ ent-CMBeltMedicalFilled = { ent-CMBeltMedical }
 ent-CMBeltMedicBagFilled = { ent-CMBeltMedicBag }
     .desc = { ent-CMBeltMedicBag.desc }
     .suffix = Заповнений
+
