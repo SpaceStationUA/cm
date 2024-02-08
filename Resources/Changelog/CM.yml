@@ -141,5 +141,21 @@
   id: 21
   time: '2024-02-06T06:09:16.0000000+00:00'
   url: https://api.github.com/repos/CM-14/CM-14/pulls/968
+- author: Tunguso4ka
+  changes:
+  - message: Beakers has been added to the game!
+    type: Add
+  id: 22
+  time: '2024-02-08T06:14:33.0000000+00:00'
+  url: https://api.github.com/repos/CM-14/CM-14/pulls/969
+- author: MetalSage
+  changes:
+  - message: Added M2132 machete
+    type: Add
+  - message: Added M11 throwing knife
+    type: Add
+  id: 23
+  time: '2024-02-08T06:32:57.0000000+00:00'
+  url: https://api.github.com/repos/CM-14/CM-14/pulls/967
 Name: CM
 Order: -1
