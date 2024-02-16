@@ -1,6 +1,12 @@
 ent-ArmorMarineM3 = броня зразку М3
     .desc = Стандартна броня що використовується СШКМ. Забезпечує гідний захист як від куль так і від ближніх атак. Також має вбудовані лихтарик та ХУД з системою свій-чужий.
 
+ent-CMArmorM3B12 = персональна броня зразку B12
+    .desc = A lightweight suit of carbon fiber body armor built for quick movement. Slightly better than the average M3 Pattern Personal Armor.
+
+ent-CMArmorM3 = тяжка броня зразку M3 EOD
+    .desc = A heavier version of the standard M3 pattern armor, the armor is primarily designed to withstand ballistic, explosive, and internal damage, with the drawback of increased bulk and thus reduced movement speed, alongside little additional protection from standard blunt force impacts and none from biological threats.
+
 ent-CMArmorM3Warden = броня наглядача зразку M3
     .desc = Добре зроблений варіант зразку М3, зазвичай видається наглядачам.
 
