@@ -26,3 +26,10 @@ ent-CMAdvFirstAidKitFilled = { ent-CMAdvFirstAidKit }
     .desc = { ent-CMAdvFirstAidKit.desc }
     .suffix = Заповнена
 
+ent-CMToxinAidKit = toxin first-aid kit
+    .desc = It's an emergency medical kit containing lifesaving anti-toxic medication. With medical training you can fit this in a backpack.
+
+ent-CMToxinAidKitFilled = { ent-CMToxinAidKit }
+    .desc = { ent-CMToxinAidKit.desc }
+    .suffix = Filled
+

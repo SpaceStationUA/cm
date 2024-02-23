@@ -5,6 +5,7 @@ ent-CMCrateLarge = великий ящик
     .desc = Здоровенний дерев'яний ящик.
 
 ent-CMCrateWeldable = { ent-CMCrateBase }
+    .desc = { ent-CMCrateBase.desc }
 
 ent-CMCrateAlpha = ящик загону Альфа
     .desc = Ящик з символом загону Альфа.
@@ -54,6 +55,9 @@ ent-CMCrateSupply = ящик підтримки
 ent-CMCrateWeapons = ящик зброї
     .desc = Ящик зі зброєю щоб робити ксеноморфам "куля голова боляче робити".
 
+ent-CMCrateMedical = медічний ящик
+    .desc = Це медічний ящик, ага.
+
 ent-CMCrateSecure = захищений ящик
     .desc = Просто захищений ящик щоб ніякий space asshole не вкрав ваш хабар.
     .suffix = Захищений
@@ -76,6 +80,6 @@ ent-CMCrateSecureSurgery = ящик з хірургічними інструме
 ent-CMCrateSecureWeapons = захищений ящик зброї
     .desc = Захищений ящик зброї щоб робити ксеноморфам "куля голова боляче робити".
 
-ent-CMCrateSecureWeyland = secure W-Y crate
-    .desc = A secure crate with a W-Y insignia on it.
+ent-CMCrateSecureWeyland = захищений Вей-Ю ящик
+    .desc = Захищений ящик з лого Вейланд Ютані.
 
