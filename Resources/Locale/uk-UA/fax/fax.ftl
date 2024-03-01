@@ -8,6 +8,9 @@ fax-machine-dialog-rename = Переназвати
 fax-machine-dialog-field-name = Назва
 
 fax-machine-ui-window = Факс
+fax-machine-ui-file-button = Print File
+fax-machine-ui-paper-button-normal = Normal Paper
+fax-machine-ui-paper-button-office = Office Paper
 fax-machine-ui-copy-button = Копіювати
 fax-machine-ui-send-button = Відправити
 fax-machine-ui-refresh-button = Оновити
@@ -19,3 +22,5 @@ fax-machine-ui-paper-inserted = Вставлено
 fax-machine-ui-paper-not-inserted = Нема
 
 fax-machine-chat-notify = Получен новий факс з факсу "{$fax}"
+
+fax-machine-printed-paper-name = printed paper

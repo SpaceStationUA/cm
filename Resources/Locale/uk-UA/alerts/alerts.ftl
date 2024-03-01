@@ -1,6 +1,9 @@
 alerts-low-oxygen-name = [color=red]Мало Кисню[/color]
 alerts-low-oxygen-desc = В повітрі що ви дихаєте [color=red]замало кисню[/color]. Одягніть [color=green]маску та балон[/color].
 
+alerts-low-nitrogen-name = [color=red]Low Nitrogen[/color]
+alerts-low-nitrogen-desc = There is [color=red]not enough nitrogen[/color] in the air you are breathing. Put on [color=green]internals[/color].
+
 alerts-high-toxin-name = [color=red]Великий Рівень Токсинів[/color]
 alerts-high-toxin-desc = В повітрі що ви дихаєте [color=red]забагато токсинів[/color]. Put on [color=green]internals[/color] or get away.
 

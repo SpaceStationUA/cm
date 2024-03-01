@@ -4,7 +4,8 @@ trait-blindness-desc = Ти - сліпий й не можеш бачити вс�
 trait-narcolepsy-name = Нарколепсія
 trait-narcolepsy-decs = Ти раптово можеш заснути
 
-trait-pacifist-name = Паціфист
+trait-pacifist-name = Пацифіст
+trait-pacifist-desc = You cannot attack or hurt any living beings.
 
 permanent-blindness-trait-examined = [color=lightblue]{CAPITALIZE(POSS-ADJ($target))} очі порожні та не сфокусовані. Виглядає що {SUBJECT($target)} не може вас бачити, якщо взагалі може.[/color]
 
@@ -25,9 +26,6 @@ trait-pirate-accent-desc = Ти не можеш зупинитися розмо�
 
 trait-accentless-name = Без акцентів
 trait-accentless-desc = Ти не маєш акценту який притаманен твоєї расі.
-
-trait-wheelchair-bound-name = Пристосований до інвалідного крісла
-trait-wheelchair-bound-desc = You cannot move without your wheelchair. Wheelchair included.
 
 trait-frontal-lisp-name = Frontal Lisp
 trait-frontal-lisp-desc = You thpeak with a lithp

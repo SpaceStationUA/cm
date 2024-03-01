@@ -3,7 +3,6 @@ anomaly-component-contact-damage = Аномалія обпалює твою шк
 anomaly-vessel-component-anomaly-assigned = Аномалію призначено до накопичувача.
 anomaly-vessel-component-not-assigned = Цей накопичувач не призначено до аномалії. Спробуй використати сканер на ній.
 anomaly-vessel-component-assigned = Цей накопичувач зараз призначено до аномалії.
-anomaly-vessel-component-upgrade-output = вироблення очок
 
 anomaly-particles-delta = Дельта-частки
 anomaly-particles-epsilon = Епсілон-частки

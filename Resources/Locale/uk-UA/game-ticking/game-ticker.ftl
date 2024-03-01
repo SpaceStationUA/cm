@@ -37,3 +37,6 @@ latejoin-arrival-announcement = {$character} ({$job}) прокинувся ві�
 latejoin-arrival-sender = Корабель
 latejoin-arrivals-direction = Шатл що доставе вас на корабель скоро прибуде.
 latejoin-arrivals-direction-time = Шатл що доставе вас на корабель прибуде через {$time}.
+ 
+preset-not-enough-ready-players = Не можливо запустити {$presetName}. Потрібно мінімум {$minimumPlayers} гравців, але приготувалося тільки {$readyPlayersCount}.
+preset-no-one-ready = Не можливо запустити {$presetName}. Жодного гравця не приготувалося.

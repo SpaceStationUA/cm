@@ -3,6 +3,7 @@ lathe-menu-queue = Черга
 lathe-menu-server-list = Сервера
 lathe-menu-sync = Синхронізувати
 lathe-menu-search-designs = Пошук
+lathe-menu-category-all = Усе
 lathe-menu-search-filter = Фільтр
 lathe-menu-amount = Кілікість:
 lathe-menu-material-display = {$material} ({$amount})

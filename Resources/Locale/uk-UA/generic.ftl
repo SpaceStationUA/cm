@@ -12,3 +12,5 @@ generic-invalid = неправільний
 generic-hours = години
 
 generic-playtime-title = Час гри
+
+generic-confirm = Підтвердити

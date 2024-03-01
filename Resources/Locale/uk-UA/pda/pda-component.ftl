@@ -51,3 +51,6 @@ pda-bound-user-interface-music-button-description = Дозволяє синте�
 comp-pda-ui-unknown = Невідомий
 
 comp-pda-ui-unassigned = Неназначено
+
+pda-notification-message = [font size=12][bold]PDA[/bold] { $header }: [/font]
+    "{ $message }"

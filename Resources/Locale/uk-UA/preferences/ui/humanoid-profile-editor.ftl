@@ -21,6 +21,7 @@ humanoid-profile-editor-export-button = Експортувати
 humanoid-profile-editor-save-button = Зберегти
 humanoid-profile-editor-clothing-label = Одяг:
 humanoid-profile-editor-backpack-label = Рюкзак:
+humanoid-profile-editor-spawn-priority-label = Пріоритет спавна:
 humanoid-profile-editor-eyes-label = Колір очей:
 humanoid-profile-editor-jobs-tab = Ролі
 humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = Залишитися в лобі якщо жодна з обраних ролей не доступна.
@@ -30,6 +31,12 @@ humanoid-profile-editor-preference-jumpskirt = Спідниця
 humanoid-profile-editor-preference-backpack = Рюкзак
 humanoid-profile-editor-preference-satchel = Сумка
 humanoid-profile-editor-preference-duffelbag = Мішок
+
+# Spawn priority
+humanoid-profile-editor-preference-spawn-priority-none = Нема
+humanoid-profile-editor-preference-spawn-priority-arrivals = Прибуття
+humanoid-profile-editor-preference-spawn-priority-cryosleep = Кріо
+
 humanoid-profile-editor-jobs-amount-in-department-tooltip = Ролі у відділі {$departmentName}
 humanoid-profile-editor-department-jobs-label = {$departmentName}
 humanoid-profile-editor-antags-tab = Антаги
