@@ -21,3 +21,7 @@ ent-CMPillCanisterKelotane = баночка пігулок келотану
     .desc = { ent-CMPillCanister.desc }
     .suffix = Келотан, 16
 
+ent-CMPillCanisterTricordrazine = Tricordrazine pill bottle
+    .desc = { ent-CMPillCanister.desc }
+    .suffix = Tricordrazine, 16
+

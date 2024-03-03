@@ -1,4 +1,5 @@
 stamp-component-stamped-name-default = Дуже важлива персона
+stamp-component-stamped-name-detective = Детектив
 stamp-component-stamped-name-mime = Мім
 stamp-component-stamped-name-captain = Капітан
 stamp-component-stamped-name-centcom = ЦентКом

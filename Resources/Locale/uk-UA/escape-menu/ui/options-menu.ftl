@@ -71,9 +71,9 @@ ui-options-hud-theme-slimecore = Слизкор
 ui-options-hud-theme-clockwork = Годинники
 ui-options-hud-theme-retro = Ретро
 ui-options-hud-theme-minimalist = Мінімализм
-ui-options-hud-theme-ashen = Ashen
+ui-options-hud-theme-ashen = Ашен
 ui-options-vp-stretch = Розтягнути поле зору під розмір окна гри
-ui-options-vp-scale = Fixed viewport scale: x{ $scale }
+ui-options-vp-scale = Фіксований розмір екрану: x{ $scale }
 ui-options-vp-integer-scaling = Prefer integer scaling (might cause black bars/clipping)
 ui-options-vp-integer-scaling-tooltip = If this option is enabled, the viewport will be scaled using an integer value
                                         at specific resolutions. While this results in crisp textures, it also often

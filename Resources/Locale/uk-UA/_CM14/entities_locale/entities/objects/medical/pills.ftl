@@ -16,3 +16,6 @@ ent-CMPillInaprovaline = пігулка інапровалину (15u)
 ent-CMPillKelotane = пігулка келотану (15u)
     .desc = { ent-CMPill.desc }
 
+ent-CMPillTricordrazine = Tricordrazine pill (15u)
+    .desc = { ent-CMPill.desc }
+

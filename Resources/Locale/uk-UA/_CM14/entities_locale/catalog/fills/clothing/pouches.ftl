@@ -11,8 +11,8 @@ ent-CMPouchSurvivalSynthFill = { ent-CMPouchSurvivalSynth }
     .suffix = Заповнений
 
 ent-CMPouchFirstAidInjectors = { ent-CMPouchFirstAid }
-    .desc = Contains a painkiller autoinjector, first-aid autoinjector, some ointment, and some bandages.
-    .suffix = Injectors
+    .desc = Містить знеболювальний автоінжектор, автоінжектор першої допомоги, трохи мазей та трохи бінтів.
+    .suffix = Інжектори
 
 ent-CMPouchFirstAidFill = { ent-CMPouchFirstAidInjectors }
     .desc = { ent-CMPouchFirstAidInjectors.desc }

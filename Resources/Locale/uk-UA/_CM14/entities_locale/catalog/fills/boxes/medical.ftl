@@ -1,15 +1,15 @@
-ent-CMBoxSterileMask = sterile mask box
-    .desc = This box contains sterile medical masks.
+ent-CMBoxSterileMask = коробка стерільних масок
+    .desc = Ця коробка містить стерільні медічні маски.
 
-ent-CMBoxLatexGloves = latex gloves box
-    .desc = Contains sterile latex gloves.
+ent-CMBoxLatexGloves = коробка латексних рукавичок
+    .desc = Містить латексні рукавички.
 
-ent-CMBoxBodyBag = body bag box
-    .desc = Contains body bags.
+ent-CMBoxBodyBag = коробка мішків для тіл
+    .desc = Вміщує мішки для тлі.
 
-ent-CMBoxPillCanister = box of pill bottles
-    .desc = It has pictures of pill bottles on its front.
+ent-CMBoxPillCanister = коробка баночек для пігулок
+    .desc = Має наліплену фотку баночки для пігулок.
 
-ent-CMBoxSyringe = box of syringes
-    .desc = A biohazard alert warning is printed on the box
+ent-CMBoxSyringe = коробка шприців
+    .desc = Має надрукований знак біо-небезпеки.
 
