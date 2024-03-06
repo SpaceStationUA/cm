@@ -7,10 +7,10 @@ namespace Content.Server._CM14.Rules;
 public sealed partial class CMRuleComponent : Component
 {
     [DataField]
-    public int PlayersPerXeno = 2; // TODO CM14
+    public int PlayersPerXeno = 4;
 
     [DataField]
-    public List<EntProtoId> SquadIds = new() { "SquadAlpha", "SquadBravo", "SquadCharlie", "SquadDelta" };
+    public List<EntProtoId> SquadIds = ["SquadAlpha", "SquadBravo", "SquadCharlie", "SquadDelta"];
 
     [DataField]
     public Dictionary<EntProtoId, EntityUid> Squads = new();
