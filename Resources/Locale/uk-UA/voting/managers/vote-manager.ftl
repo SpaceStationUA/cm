@@ -3,20 +3,20 @@ ui-vote-initiator-server = Сервер
 
 ## Default.Votes
 
-ui-vote-restart-title = Перезапуск раунду
-ui-vote-restart-succeeded = Голосування успішне.
-ui-vote-restart-failed = Для перезапуску потрібно { TOSTRING($ratio, "P0") } голосів.
-ui-vote-restart-fail-not-enough-ghost-players = Restart vote failed: A minimum of { $ghostPlayerRequirement }% ghost players is required to initiate a restart vote. Currently, there are not enough ghost players.
-ui-vote-restart-yes = За
-ui-vote-restart-no = Проти
+ui-vote-restart-title = Перезапустити раунд
+ui-vote-restart-succeeded = Успішне голосування.
+ui-vote-restart-failed = Голосування неуспішне (Треба мінімум { TOSTRING($ratio, "P0") }).
+ui-vote-restart-fail-not-enough-ghost-players = Голосування неуспішне: Необхідно мінімум { $ghostPlayerRequirement }% привидів щоб перезапустити раунд.
+ui-vote-restart-yes = Так
+ui-vote-restart-no = Ні
 ui-vote-restart-abstain = Утриматися
 
-ui-vote-gamemode-title = Наступний ігровий режим
-ui-vote-gamemode-tie = Нічия! Обираємо... { $picked }
-ui-vote-gamemode-win = { $winner } переміг у голосуванні за режим!
+ui-vote-gamemode-title = Наступний режим
+ui-vote-gamemode-tie = Нічия! Обираю... { $picked }
+ui-vote-gamemode-win = { $winner } переміг!
 
 ui-vote-map-title = Наступна мапа
-ui-vote-map-tie = Нічия! Обираємо... { $picked }
-ui-vote-map-win = { $winner } переміг у голосуванні за мапу!
-ui-vote-map-notlobby = Голосування за мапу доступне тільки у лобі між раундами!
-ui-vote-map-notlobby-time = Голосування за мапу доступне тільки у лобі між раундами і з часом { $time }!
+ui-vote-map-tie = Нічия! Обираю... { $picked }
+ui-vote-map-win = { $winner } перемогла!
+ui-vote-map-notlobby = Голосування за мапу можливо тільки в лобі!
+ui-vote-map-notlobby-time = Голосування за мапу можливо тільки в лобі з часом { $time } remaining!

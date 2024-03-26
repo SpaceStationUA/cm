@@ -1,13 +1,13 @@
-main-menu-invalid-username-with-reason = Неправильне ім'я:
+main-menu-invalid-username-with-reason = Непідходяче ім'я:
                                          {$invalidReason}
-main-menu-invalid-username = Неправильне ім'я
-main-menu-failed-to-connect = Не получилося під'єднатися:
-                              {$reason} 
+main-menu-invalid-username = Непідходяче ім'я
+main-menu-failed-to-connect = Помилка при під'єднанні:
+                              {$reason}
 main-menu-username-label = Ім'я:
 main-menu-username-text = Ім'я
-main-menu-address-label = Адрес сервера:
-main-menu-join-public-server-button = Під'єднатися до Публичного Серверу
-main-menu-join-public-server-button-tooltip = Не можливо під'єднатися до Публичного Серверу з Дебаг білда.
+main-menu-address-label = Адреса сервера:
+main-menu-join-public-server-button = Під'єднатися
+main-menu-join-public-server-button-tooltip = Ви не можете під'єднатися до публичного сервера зі збірки для дебага.
 main-menu-direct-connect-button = Пряме під'єднання
-main-menu-options-button = Налаштування
+main-menu-options-button = Налаштунки
 main-menu-quit-button = Вийти

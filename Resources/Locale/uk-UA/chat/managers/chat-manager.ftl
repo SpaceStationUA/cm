@@ -1,35 +1,35 @@
 ### UI
 
-chat-manager-max-message-length = Your message exceeds {$maxMessageLength} character limit
+chat-manager-max-message-length = Ваше повідомлення перевисило дозволену довжину у {$maxMessageLength} символів.
 chat-manager-ooc-chat-enabled-message = OOC чат увимкнено.
 chat-manager-ooc-chat-disabled-message = OOC чат вимкнено.
 chat-manager-looc-chat-enabled-message = LOOC чат увимкнено.
 chat-manager-looc-chat-disabled-message = LOOC чат вимкнено.
-chat-manager-dead-looc-chat-enabled-message = Мертві гравці тепер можуть використовувати LOOC.
-chat-manager-dead-looc-chat-disabled-message = Мертві гравці більше не можуть використовувати LOOC.
-chat-manager-crit-looc-chat-enabled-message = Гравці в криті тепер можуть використовувати LOOC.
-chat-manager-crit-looc-chat-disabled-message = Гравці в криті більше не можуть використовувати LOOC.
-chat-manager-admin-ooc-chat-enabled-message = Адмін OOC чат увимкнено.
-chat-manager-admin-ooc-chat-disabled-message = Адмін OOC чат вимкнено.
+chat-manager-dead-looc-chat-enabled-message = Мертві гравці тепер можуть писати у LOOC.
+chat-manager-dead-looc-chat-disabled-message = Мертві гравці більше не можуть писати у LOOC.
+chat-manager-crit-looc-chat-enabled-message = Гравці в криті тепер можуть писати у LOOC.
+chat-manager-crit-looc-chat-disabled-message = Гравці в криті більше не можуть писати у LOOC.
+chat-manager-admin-ooc-chat-enabled-message = Адмінський OOC чат увимкнено.
+chat-manager-admin-ooc-chat-disabled-message = Адмінський OOC чат вимкнено.
 
-chat-manager-max-message-length-exceeded-message = Ваше повідомлення містить більше символів ніж то дозволено лімітом в {$limit} символів
-chat-manager-no-headset-on-message = На вас немає гарнитури!
-chat-manager-no-radio-key = Не обраний канал рації!
-chat-manager-no-such-channel = Каналу рації '{$key}' не існує!
-chat-manager-whisper-headset-on-message = Ви не можете шепотіть по рації!
+chat-manager-max-message-length-exceeded-message = Ваше повідомлення перевисило дозволену довжину у {$limit} символів
+chat-manager-no-headset-on-message = На вас немає рації!
+chat-manager-no-radio-key = Не обрано ключа рації!
+chat-manager-no-such-channel = Ключа рації з '{$key}' не існує!
+chat-manager-whisper-headset-on-message = Ти не можеш шептіти в рацію!
 
 chat-manager-server-wrap-message = [bold]{$message}[/bold]
 chat-manager-sender-announcement-wrap-message = [font size=14][bold]{$sender} Оголошення:[/font][font size=12]
                                                 {$message}[/bold][/font]
-chat-manager-entity-say-wrap-message = [BubbleHeader][bold]{$entityName}[/bold][/BubbleHeader] {$verb}, [font={$fontType} size={$fontSize}]"[BubbleContent]{$message}[/BubbleContent]"[/font]
-chat-manager-entity-say-bold-wrap-message = [BubbleHeader][bold]{$entityName}[/bold][/BubbleHeader] {$verb}, [font={$fontType} size={$fontSize}]"[BubbleContent][bold]{$message}[/bold][/BubbleContent]"[/font]
+chat-manager-entity-say-wrap-message = [BubbleHeader][bold][Name]{$entityName}[/Name][/bold][/BubbleHeader] {$verb}, [font={$fontType} size={$fontSize}]"[BubbleContent]{$message}[/BubbleContent]"[/font]
+chat-manager-entity-say-bold-wrap-message = [BubbleHeader][bold][Name]{$entityName}[/Name][/bold][/BubbleHeader] {$verb}, [font={$fontType} size={$fontSize}]"[BubbleContent][bold]{$message}[/bold][/BubbleContent]"[/font]
 
-chat-manager-entity-whisper-wrap-message = [font size=11][italic][BubbleHeader]{$entityName}[/BubbleHeader] шепче,"[BubbleContent]{$message}[/BubbleContent]"[/italic][/font]
+chat-manager-entity-whisper-wrap-message = [font size=11][italic][BubbleHeader][Name]{$entityName}[/Name][/BubbleHeader] шепче,"[BubbleContent]{$message}[/BubbleContent]"[/italic][/font]
 chat-manager-entity-whisper-unknown-wrap-message = [font size=11][italic][BubbleHeader]Someone[/BubbleHeader] шепче, "[BubbleContent]{$message}[/BubbleContent]"[/italic][/font]
 
 # THE() is not used here because the entity and its name can technically be disconnected if a nameOverride is passed...
 chat-manager-entity-me-wrap-message = [italic]{ PROPER($entity) ->
-    *[false] the {$entityName} {$message}[/italic]
+    *[false] {$entityName} {$message}[/italic]
      [true] {$entityName} {$message}[/italic]
     }
 
@@ -44,11 +44,11 @@ chat-manager-send-admin-announcement-wrap-message = [bold]{$adminChannelName}: {
 
 chat-manager-send-hook-ooc-wrap-message = OOC: [bold](D){$senderName}:[/bold] {$message}
 
-chat-manager-dead-channel-name = МРТВЙ
+chat-manager-dead-channel-name = МРТВ
 chat-manager-admin-channel-name = АДМІН
 
-chat-manager-rate-limited = Ви відправляєте повідомлення занадто швидко!
-chat-manager-rate-limit-admin-announcement = Гравець { $player } порушив ліміт символів. Слідкуйте за ним якщо це єдиничний випадок.
+chat-manager-rate-limited = Ви занадто швидко посилаєте повідомлення!
+chat-manager-rate-limit-admin-announcement = Гравець { $player } порушив швидкісний ліміт повідомлень у чаті.
 
 ## Speech verbs for chat
 
@@ -60,7 +60,7 @@ chat-speech-verb-suffix-mumble = ..
 
 chat-speech-verb-default = каже
 chat-speech-verb-exclamation = exclaims
-chat-speech-verb-exclamation-strong = кричить
+chat-speech-verb-exclamation-strong = yells
 chat-speech-verb-question = питає
 chat-speech-verb-stutter = stutters
 chat-speech-verb-mumble = mumbles
@@ -82,7 +82,7 @@ chat-speech-verb-plant-2 = sways
 chat-speech-verb-plant-3 = creaks
 
 chat-speech-verb-robotic-1 = states
-chat-speech-verb-robotic-2 = beeps
+chat-speech-verb-robotic-2 = біпає
 
 chat-speech-verb-reptilian-1 = hisses
 chat-speech-verb-reptilian-2 = snorts
@@ -108,6 +108,10 @@ chat-speech-verb-large-mob-2 = growls
 
 chat-speech-verb-monkey-1 = chimpers
 chat-speech-verb-monkey-2 = screeches
+
+chat-speech-verb-parrot-1 = squawks
+chat-speech-verb-parrot-2 = tweets
+chat-speech-verb-parrot-3 = chirps
 
 chat-speech-verb-cluwne-1 = giggles
 chat-speech-verb-cluwne-2 = guffaws

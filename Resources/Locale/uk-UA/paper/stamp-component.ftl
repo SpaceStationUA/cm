@@ -4,6 +4,7 @@ stamp-component-stamped-name-mime = Мім
 stamp-component-stamped-name-captain = Капітан
 stamp-component-stamped-name-centcom = ЦентКом
 stamp-component-stamped-name-chaplain = Священик
+stamp-component-stamped-name-lawyer = Адвокат
 stamp-component-stamped-name-clown = Клоун
 stamp-component-stamped-name-cmo = Главний Лікарь
 stamp-component-stamped-name-denied = ВІДМОВА

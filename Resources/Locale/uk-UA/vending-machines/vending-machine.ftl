@@ -1,3 +1,3 @@
-vending-machine-thanks = Thanks for using { $name }!
-vending-machine-flavor-left = Request refills at cargo
-vending-machine-flavor-right = v1.1
+vending-machine-thanks = Дякуємо за використання { $name }!
+vending-machine-flavor-left = Поповнення можна замовити у Логістиці
+vending-machine-flavor-right = вер1.1

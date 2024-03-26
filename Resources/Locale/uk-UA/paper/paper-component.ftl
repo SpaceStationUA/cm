@@ -10,3 +10,5 @@ paper-component-examine-detail-stamped-by = {CAPITALIZE($paper)} {CONJUGATE-HAVE
 
 paper-component-action-stamp-paper-other = {CAPITALIZE($user)} штампує {$target} {$stamp}.
 paper-component-action-stamp-paper-self = Ви штампуєте {$target} {$stamp}.
+
+paper-ui-save-button = Зберегти ({$keybind})

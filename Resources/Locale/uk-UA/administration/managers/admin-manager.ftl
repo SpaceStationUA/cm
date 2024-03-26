@@ -7,3 +7,7 @@ admin-manager-admin-permissions-updated-message = Ваші дозволи адм
 admin-manager-admin-logout-message = Адмін вийшов: {$name}
 admin-manager-admin-login-message = Адмін зайшов: {$name}
 admin-manager-admin-data-host-title = Хост
+admin-manager-stealthed-message = Ви тепер невідимий для adminwho.
+admin-manager-unstealthed-message = Ви більше не невідимий для adminwho.
+admin-manager-self-enable-stealth = {$stealthAdminName} тепер невідимий для adminwho.
+admin-manager-self-disable-stealth = {$exStealthAdminName} більше не невідимий для adminwho.

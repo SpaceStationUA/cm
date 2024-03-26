@@ -1,188 +1,191 @@
 # Weapons
-uplink-pistol-viper-name = Viper
+uplink-pistol-viper-name = Гадюка
 uplink-pistol-viper-desc = A small, easily concealable, but somewhat underpowered gun. Retrofitted with a fully automatic receiver. Uses pistol magazines (.35 auto).
 
-uplink-revolver-python-name = Python
+uplink-revolver-python-name = Пітон
 uplink-revolver-python-desc = A brutally simple, effective, and loud Syndicate revolver. Comes loaded with armor-piercing rounds. Uses .45 magnum.
 
-uplink-pistol-cobra-name = Cobra
+uplink-pistol-cobra-name = Кобра
 uplink-pistol-cobra-desc = A rugged, robust operator handgun with inbuilt silencer. Uses pistol magazines (.25 caseless).
 
-uplink-rifle-mosin-name = Surplus Rifle
+uplink-rifle-mosin-name = Надлишкова гвинтівка
 uplink-rifle-mosin-desc = A bolt action service rifle that has seen many wars. Not modern by any standard, hand loaded, and terrible recoil, but it is cheap.
 
-uplink-esword-name = Energy Sword
+uplink-esword-name = Лазерний меч
 uplink-esword-desc = A very dangerous energy sword that can reflect shots. Can be stored in pockets when turned off. Makes a lot of noise when used or turned on.
 
-uplink-esword-double-name = Double Bladed Energy Sword
+uplink-esword-double-name = Двойний лазерний меч
 uplink-esword-double-desc = A much more expensive counter part to the normal energy sword: with a much higher reflection chance, larger attack angle, higher structural damage, and faster swing. Makes a lot of noise when used or turned on.
 
-uplink-edagger-name = Energy Dagger
+uplink-edagger-name = Лазерний меч
 uplink-edagger-desc = A small energy blade conveniently disguised in the form of a pen.
 
-uplink-fire-axe-flaming-name = Fire Axe
+uplink-fire-axe-flaming-name = ПОЖАРна сокира
 uplink-fire-axe-flaming-desc = A classic-style weapon infused with advanced atmos technology to allow it to set targets on fire. Now with rugged rubberized handle!
 
-uplink-gloves-north-star-name = Gloves of the North Star
+uplink-gloves-north-star-name = Рукавички Північної Зірки
 uplink-gloves-north-star-desc = A pair of gloves that reduce your punching cooldown drastically, allowing you to beat people to death in a flurry of punches.
 
 # Explosives
-uplink-explosive-grenade-name = Explosive Grenade
+uplink-explosive-grenade-name = Вибухівова граната
 uplink-explosive-grenade-desc = A simplistic grenade with a three-and-a-half-second long fuse that is geared towards injuring personnel. Causes minimal hull damage.
 
-uplink-flash-grenade-name = Flashbang
+uplink-flash-grenade-name = Світлошумова граната
 uplink-flash-grenade-desc = A standard-issue flashbang, capable of blinding and slowing down anyone without proper protection. This, of course, includes you; make sure you're properly equipped before using it.
 
-uplink-smoke-grenade-name = Smoke Grenade
+uplink-smoke-grenade-name = Димова граната
 uplink-smoke-grenade-desc = A grenade that releases a huge cloud of smoke, perfect for killing someone in the shadows or making a sneaky getaway.
 
-uplink-mini-bomb-name = Minibomb
+uplink-mini-bomb-name = Мінібомба
 uplink-mini-bomb-desc = A low-yield, high-impact precision sabotage explosive with a five-second long fuse. Perfect for quickly destroying a machine, dead body, or whatever else needs to go.
 
-uplink-supermatter-grenade-name = Supermatter Grenade
+uplink-supermatter-grenade-name = Граната суперматерії
 uplink-supermatter-grenade-desc = Grenade that simulates delamination of a suppermatter engine, generates powerful gravity well. Explosion comparable to a Mini Bomb.
 
-uplink-whitehole-grenade-name = Whitehole Grenade
+uplink-whitehole-grenade-name = Відталкуюча граната
 uplink-whitehole-grenade-desc = Grenade that are repulses everything around for about 10 seconds. Very useful in small rooms and for chasing someone.
 
-uplink-penguin-grenade-name = Grenade Penguin
+uplink-penguin-grenade-name = Пінгвін з гранатою
 uplink-penguin-grenade-desc = A small, highly-aggressive penguin with a grenade strapped around its neck. Harvested by the Syndicate from icy shit-hole planets.
 
 uplink-c4-name = C-4
 uplink-c4-desc = Use it to breach walls, airlocks or sabotage equipment. It can be attached to almost all objects and has a modifiable timer with a minimum setting of 10 seconds.
 
-uplink-c4-bundle-name = C-4 bundle
+uplink-c4-bundle-name = Набір C-4
 uplink-c4-bundle-desc = Because sometimes quantity is quality. Contains 8 C-4 plastic explosives.
 
-uplink-grenadier-rig-name = grenadier chest rig
+uplink-grenadier-rig-name = розгрузка вибухотехника
 uplink-grenadier-rig-desc = All you need for a loud party: 4 explosive grenades, 2 EMP grenades and 2 minibombs in a chest rig.
 
-uplink-emp-grenade-name = EMP Grenade
+uplink-emp-grenade-name = ЕМІ граната
 uplink-emp-grenade-desc = A grenade designed to disrupt electronic systems. Useful for disrupting communications, security's energy weapons, and APCs when you're in a tight spot.
 
-uplink-exploding-pen-name = Exploding pen
+uplink-exploding-pen-name = Вибухова ручка
 uplink-exploding-pen-desc = A class IV explosive device contained within a standard pen. Comes with a 4 second fuse.
 
-uplink-exploding-syndicate-bomb-name = Syndicate Bomb
+uplink-exploding-syndicate-bomb-name = Бомба Синдиката
 uplink-exploding-syndicate-bomb-desc = A big, anchored bomb that can create a huge explosion if not defused in time. Useful as a distraction. Has an adjustable timer with a minimum setting of 120 seconds.
 
-uplink-cluster-grenade-name = Cluster Grenade
+uplink-exploding-syndicate-bomb-fake-name = Бомба-приманка Синдиката
+uplink-exploding-syndicate-bomb-fake-desc = A training bomb carefully made to look just like the real thing. In all ways similar to a syndicate bomb, but only creates a tiny explosion.
+
+uplink-cluster-grenade-name = Касетна граната
 uplink-cluster-grenade-desc = Three explosive grenades bundled together, the grenades get launched after the 3.5 second timer runs out.
 
-uplink-incendiary-grenade-name = Incendiary Grenade
+uplink-incendiary-grenade-name = Запалювальна граната
 uplink-incendiary-grenade-desc = Releases a spray of incendiary fragments, igniting anyone near the detonation area.
 
-uplink-shrapnel-grenade-name = Shrapnel Grenade
+uplink-shrapnel-grenade-name = Граната зі шрапнеллю
 uplink-shrapnel-grenade-desc = Launches a spray of sharp fragments dealing great damage against unarmored targets.
 
 # Ammo
-uplink-pistol-magazine-name = Pistol Magazine (.35 auto)
+uplink-pistol-magazine-name = Магазин пістолета (.35 авто)
 uplink-pistol-magazine-desc = Pistol magazine with 10 catridges. Compatible with the Viper.
 
-uplink-pistol-magazine-c20r-name = SMG magazine (.35 auto)
+uplink-pistol-magazine-c20r-name = Магазин пістолет-кулемета (.35 авто)
 uplink-pistol-magazine-c20r-desc = Rifle magazine with 30 catridges. Compatible with C-20r.
 
-uplink-pistol-magazine-caseless-name = Pistol Magazine (.25 caseless)
+uplink-pistol-magazine-caseless-name = Магазин пістолетаe (.25 безоболонковий)
 uplink-pistol-magazine-caseless-desc = Pistol magazine with 10 catridges. Compatible with the Cobra.
 
-uplink-speedloader-magnum-name = Speedloader (.45 magnum AP)
+uplink-speedloader-magnum-name = Прискорювач заряджання (.45 магнум ББ)
 uplink-speedloader-magnu-desc = Revolver speedloader with 6 armor-piercing catridges, capable of ignoring armor entirely. Compatible with the Python.
 
-uplink-mosin-ammo-name = Ammunition box (.30 rifle)
+uplink-mosin-ammo-name = Коробка набоїв (.30 гвинтівочний)
 uplink-mosin-ammo-desc = A box of 50 cartridges for the surplus rifle.
 
-uplink-sniper-ammo-name = Ammunition box (.60 antimateriel)
+uplink-sniper-ammo-name = Коробка набоїв (.60 протиматеріальний)
 uplink-sniper-ammo-desc = A box of 10 cartridges for the Hristov sniper rifle.
 
 # Utility
-uplink-holopara-kit-name = Holoparasite Kit
+uplink-holopara-kit-name = Набір голопаразита
 uplink-holopara-kit-desc = The pride and joy of Cybersun. Contains an injector that hosts a sentient metaphysical guardian made of hard light which resides in the user's body when not active.
     The guardian can punch rapidly and is immune to hazardous environments while being resistant to direct trauma, but shares any damage it takes with the user.
 
-uplink-holoclown-kit-name = Holoclown Kit
+uplink-holoclown-kit-name = Набір голоклоуна
 uplink-holoclown-kit-desc = A joint venture between Cybersun and Honk.co. Contains an injector that hosts a sentient metaphysical clown made of hard light which resides in the user's body when not active.
     The holoclown has pockets to store things, a hardlight hand it can manipulate the environment with and is immune to hazardous environments while being resistant to direct trauma, but shares any damage it takes with the user.
 
-uplink-holster-name = Shoulder Holster
+uplink-holster-name = Наплічова кобура
 uplink-holster-desc = A deep shoulder holster capable of holding many types of ballistics.
 
-uplink-emag-name = Emag
+uplink-emag-name = ЕлектроМагнітна картка
 uplink-emag-desc = The business card of the syndicate, this sequencer is able to break open airlocks and tamper with a variety of station devices. Recharges automatically.
 
-uplink-agent-id-card-name = Agent ID Card
+uplink-agent-id-card-name = ІД Картка Агента
 uplink-agent-id-card-desc = A modified ID card that can copy accesses from other cards and change its name and job title at-will.
 
-uplink-black-jetpack-name = Black Jetpack
+uplink-black-jetpack-name = Чорний ракетний ранець
 uplink-black-jetpack-desc = A black jetpack. It allows you to fly around in space. Refills not included, use your fuel wisely.
 
-uplink-reinforcement-radio-monkey-name = Monkey Reinforcement Teleporter
+uplink-reinforcement-radio-monkey-name = Телепортер мавпи-підтримки
 uplink-reinforcement-radio-monkey-desc =  Call in a trained monkey to assist you. Comes with a single syndicate cigarette.
 
-uplink-reinforcement-radio-name = Reinforcement Teleporter
+uplink-reinforcement-radio-name = Телепортер підтримки
 uplink-reinforcement-radio-desc =  Radio in a reinforcement agent of extremely questionable quality. No off button, buy this if you're ready to party. They have a pistol with no reserve ammo, and a knife. That's it.
 
-uplink-reinforcement-radio-cyborg-assault-name = Syndicate Assault Cyborg Teleporter
+uplink-reinforcement-radio-cyborg-assault-name = Телепортер штурмового киборга Синдикату
 uplink-reinforcement-radio-cyborg-assault-desc =  A lean, mean killing machine with access to an Energy Sword, LMG, Cryptographic Sequencer, and a Pinpointer.
 
-uplink-stealth-box-name = Stealth Box
+uplink-stealth-box-name = Коробка-невідимка
 uplink-stealth-box-desc = A box outfitted with stealth technology, sneak around with this and don't move too fast now!
 
-uplink-headset-name = Syndicate Over-ear Headset
+uplink-headset-name = Повнорозміний навушник Синдиката
 uplink-headset-desc = A headset that allows you to communicate with other syndicate operatives. Has 4 slots for encryption keys.
 
-uplink-encryption-key-name = Syndicate Encryption Keys
+uplink-encryption-key-name = Ключи шифрування Синдикату
 uplink-encryption-key-desc = Two encryption keys for access to the secret frequency of our special agents. Give the spare to a friend, but make sure it doesn't fall into enemy hands.
 
-uplink-binary-translator-key-name = Binary Translator Key
+uplink-binary-translator-key-name = Ключ бінарного перекладу
 uplink-binary-translator-key-desc = Lets you tap into the silicons' binary channel. Don't talk on it though, at least not without a voice mask.
 
-uplink-hypopen-name = Hypopen
+uplink-hypopen-name = Гипоручка
 uplink-hypopen-desc = A chemical hypospray disguised as a pen, capable of instantly injecting up to 10u of reagents. Starts empty.
 
-uplink-voice-mask-name = Voice Mask
+uplink-voice-mask-name = Голосова маска
 uplink-voice-mask-desc = A gas mask that lets you adjust your voice to whoever you can think of. Also utilizes cutting-edge chameleon technology.
 
-uplink-clothing-eyes-hud-syndicate-name = Syndicate Visor
+uplink-clothing-eyes-hud-syndicate-name = Визор Синдикату
 uplink-clothing-eyes-hud-syndicate-desc = The syndicate's professional head-up display, designed for better detection of humanoids and their subsequent elimination.
 
-uplink-radio-jammer-name = Radio Jammer
+uplink-radio-jammer-name = Радіо-глушилка
 uplink-radio-jammer-desc = This device will disrupt any nearby outgoing radio communication when activated.
 
-uplink-syndicate-weapon-module-name = Weapon Cyborg Module
+uplink-syndicate-weapon-module-name = Модуль зброї киборга
 uplink-syndicate-weapon-module-desc = This module will give a cyborg advanced laser and machete
 
-uplink-singularity-beacon-name = Singularity Beacon
+uplink-singularity-beacon-name = Маяк Сингулярності
 uplink-singularity-beacon-desc = A device that attracts singularities. Has to be anchored and powered. Causes singularities to grow when consumed.
 
 # Implants
-uplink-storage-implanter-name = Storage Implanter
+uplink-storage-implanter-name = Імплантер Сховища
 uplink-storage-implanter-desc = Hide goodies inside of yourself with new bluespace technology!
 
-uplink-freedom-implanter-name = Freedom Implanter
+uplink-freedom-implanter-name = Імплантер Волі
 uplink-freedom-implanter-desc = Get away from those nasty sec officers with this three use implant!
 
-uplink-scram-implanter-name = Scram Implanter
+uplink-scram-implanter-name = Імплантер втечі
 uplink-scram-implanter-desc = A 2-use implant which teleports you within a large radius. Attempts to teleport you onto an unobstructed tile. May sometimes fail to do so. Life insurance not included.
 
-uplink-dna-scrambler-implanter-name = DNA Scrambler Implanter
+uplink-dna-scrambler-implanter-name = Імплантер зміни ДНК
 uplink-dna-scrambler-implanter-desc = A single use implant that can be activated to modify your DNA and give you a completely new look.
 
-uplink-emp-implanter-name = EMP Implanter
+uplink-emp-implanter-name = Імплантер ЕМІ
 uplink-emp-implanter-desc = Detonates a small EMP pulse on activation that drains nearby electronics of their power, can be used three times before the internal battery runs out.
 
-uplink-macro-bomb-implanter-name = Macro Bomb Implanter
+uplink-macro-bomb-implanter-name = Імплантер макро-бомби
 uplink-macro-bomb-implanter-desc = Inject this and on death you'll create a large explosion. Huge team casualty cost, use at own risk. Replaces internal micro bomb.
 
-uplink-uplink-implanter-name = Uplink Implanter
+uplink-uplink-implanter-name = Імплантер аплінка
 uplink-uplink-implanter-desc = Stealthily order equipment without the need for a PDA. Swallow telecrystals to top up the uplink.
 
 uplink-deathrattle-implant-name = Box Of Deathrattle Implants
 uplink-deathrattle-implant-desc = A box containing enough deathrattle implants for the whole squad. Relays a message containing your position to the syndicate channel when you go into a critical state or die.
 
-uplink-death-acidifier-implant-name = Death Acidifier Implant
+uplink-death-acidifier-implant-name = Імплант Посмертний окислитель
 uplink-death-acidifier-implant-desc = Completely melts the user and their equipment on use or death.
 
-uplink-micro-bomb-implanter-name = Micro Bomb Implanter
+uplink-micro-bomb-implanter-name = Імплат Мікро Бомба
 uplink-micro-bomb-implanter-desc = Explode on death or manual activation with this implant. Destroys the body with all equipment.
 
 # Bundles
@@ -197,6 +200,9 @@ uplink-decoy-kit-desc = State-of-the-art distraction technology straight from RN
 
 uplink-chemistry-kit-name = Chemical Synthesis Kit
 uplink-chemistry-kit-desc = A starter kit for the aspiring chemist, includes toxin and vestine for all your criminal needs!
+
+uplink-knives-kit-name = Throwing Knives Kit
+uplink-knives-kit-desc = A set of 4 syndicate branded throwing knives, perfect for embedding into the body of your victims.
 
 uplink-meds-bundle-name = Medical Bundle
 uplink-meds-bundle-desc = All you need to get your comrades back in the fight: mainly a combat medkit, a defibrillator and three combat medipens.
@@ -406,3 +412,9 @@ uplink-bribe-desc = A heartfelt gift that can help you sway someone's opinion. R
 
 uplink-hypodart-name = Hypodart
 uplink-hypodart-desc = A seemingly unremarkable dart with an enlarged reservoir for chemicals. It can store up to 7u reagents in itself, and instantly inject when it hits the target. Starts empty.
+
+uplink-barber-scissors-name = Barber Scissors
+uplink-barber-scissors-desc = A good tool to give your fellow agent a nice haircut, unless you want to give it to yourself.
+
+uplink-backpack-syndicate-name = Syndicate backpack
+uplink-backpack-syndicate-desc = Lightweight explosion-proof а backpack for holding various traitor goods

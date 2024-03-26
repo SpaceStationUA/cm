@@ -1,45 +1,53 @@
-criminal-records-console-window-title = Criminal Records Computer
-criminal-records-console-records-list-title = Crewmembers
-criminal-records-console-select-record-info = Select a record.
-criminal-records-console-no-records = No records found!
-criminal-records-console-no-record-found = No record was found for the selected person.
+criminal-records-console-window-title = Консоль записей
+criminal-records-console-records-list-title = Екіпаж
+criminal-records-console-select-record-info = Обрати запис.
+criminal-records-console-no-records = Нема записів!
+criminal-records-console-no-record-found = Не знайдено записів під результат пошуку.
 
 ## Status
 
-criminal-records-console-status = Status
-criminal-records-status-none = None
-criminal-records-status-wanted = Wanted
-criminal-records-status-detained = Detained
+criminal-records-console-status = Статус
+criminal-records-status-none = Вільний
+criminal-records-status-wanted = Розшук
+criminal-records-status-detained = Затриманий
+criminal-records-status-suspected = Підозрюваний
+criminal-records-status-discharged = Звільнений
+criminal-records-status-paroled = УДЗ
 
-criminal-records-console-wanted-reason = [color=gray]Wanted Reason[/color]
-criminal-records-console-reason = Reason
-criminal-records-console-reason-placeholder = For example: {$placeholder}
+criminal-records-console-wanted-reason = [color=gray]Причина розшуку[/color]
+criminal-records-console-suspected-reason = [color=gray]Причина підозри[/color]
+criminal-records-console-reason = Причина
+criminal-records-console-reason-placeholder = Наприклад: {$placeholder}
 
 ## Crime History
 
-criminal-records-console-crime-history = Crime History
-criminal-records-history-placeholder = Write the crime here
-criminal-records-no-history = This crewmember's record is spotless.
-criminal-records-add-history = Add
-criminal-records-delete-history = Delete
+criminal-records-console-crime-history = Історія злочинів
+criminal-records-history-placeholder = Напишіть злочин тут
+criminal-records-no-history = Нема записів.
+criminal-records-add-history = Додати
+criminal-records-delete-history = Видалити
 
-criminal-records-permission-denied = Permission denied
+criminal-records-permission-denied = Немає доступу
 
 ## Security channel notifications
 
-criminal-records-console-wanted = {$name} is wanted by {$officer} for: {$reason}.
-criminal-records-console-detained = {$name} has been detained by {$officer}.
-criminal-records-console-released = {$name} has been released by {$officer}.
-criminal-records-console-not-wanted = {$name} is no longer wanted.
-criminal-records-console-unknown-officer = <unknown officer>
+criminal-records-console-wanted = {$name} розшукується {$officer} за: {$reason}.
+criminal-records-console-suspected = {$officer} позначив {$name} як підозрюваного за: {$reason}
+criminal-records-console-not-suspected = {$name} більше не підозрюваний.
+criminal-records-console-detained = {$name} був затриманий {$officer}.
+criminal-records-console-released = {$name} був відпущений {$officer}.
+criminal-records-console-not-wanted = {$name} більше не розшукується.
+criminal-records-console-paroled = {$name} був випущений чи УДЗ {$officer}.
+criminal-records-console-not-parole = {$name} більше не на УДЗ.
+criminal-records-console-unknown-officer = <невідомим офіцером>
 
 ## Filters
 
-criminal-records-filter-placeholder = Input text and press "Enter"
-criminal-records-name-filter = Name
-criminal-records-prints-filter = Fingerprints
-criminal-records-dna-filter = DNA
+criminal-records-filter-placeholder = Введить текст та натисніть "Enter"
+criminal-records-name-filter = Ім'я
+criminal-records-prints-filter = Відбитки
+criminal-records-dna-filter = ДНК
 
 ## Arrest auto history lines
-criminal-records-console-auto-history = ARRESTED: {$reason}
-criminal-records-console-unspecified-reason = <unspecified reason>
+criminal-records-console-auto-history = ЗАТРИМАНИЙ: {$reason}
+criminal-records-console-unspecified-reason = <причина не обрана>

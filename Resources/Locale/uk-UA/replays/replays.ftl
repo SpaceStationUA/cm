@@ -8,6 +8,7 @@ replay-loading-initializing = Initializing Entities
 replay-loading-starting= Starting Entities
 replay-loading-failed = Failed to load replay:
                         {$reason}
+replay-loading-retry = Try load with more exception tolerance - MAY CAUSE BUGS!
 
 # Main Menu
 replay-menu-subtext = Replay Client
@@ -22,13 +23,13 @@ replay-info-none-selected = No replay selected
 replay-info-invalid = [color=red]Invalid replay selected[/color]
 replay-info-info = {"["}color=gray]Selected:[/color]  {$name} ({$file})
                    {"["}color=gray]Time:[/color]   {$time}
-                   {"["}color=gray]Round ID:[/color]   {$roundId}
-                   {"["}color=gray]Duration:[/color]   {$duration}
-                   {"["}color=gray]ForkId:[/color]   {$forkId}
-                   {"["}color=gray]Version:[/color]   {$version}
-                   {"["}color=gray]Engine:[/color]   {$engVersion}
-                   {"["}color=gray]Type Hash:[/color]   {$hash}
-                   {"["}color=gray]Comp Hash:[/color]   {$compHash}
+                   {"["}color=gray]Time:[/color]   {$time}
+                   {"["}color=gray]Time:[/color]   {$time}
+                   {"["}color=gray]Time:[/color]   {$time}
+                   {"["}color=gray]Time:[/color]   {$time}
+                   {"["}color=gray]Time:[/color]   {$time}
+                   {"["}color=gray]Time:[/color]   {$time}
+                   {"["}color=gray]Time:[/color]   {$time}
 
 # Replay selection window
 replay-menu-select-title = Select Replay

@@ -23,7 +23,10 @@ admin-notes-hide = Сховати
 admin-notes-delete-confirm = Підтвердити видалення
 admin-notes-edited = В останнє відредаговано {$author} {$date}
 admin-notes-unbanned = Розбанений {$admin} {$date}
-admin-notes-message-window-title = Увага!
+admin-notes-message-desc = [color=white]Ви получили { $count ->
+    [1] повідомлення від адміністрації
+    *[other] повідомлень від адміністрації
+} з останнього відвідування сервера.[/color]
 admin-notes-message-admin = Нове повідомлення від {$admin}, що було додано {$date}
 admin-notes-message-wait = Кнопка Підтвердити буде доступна через {$time} секунд.
 admin-notes-message-accept = Скасувати назавжди
@@ -32,7 +35,7 @@ admin-notes-message-seen = Прочитане
 admin-notes-banned-from = Забанен з
 admin-notes-the-server = цього серверу
 admin-notes-permanently = назавжди
-admin-notes-for = за {$player}
+admin-notes-for = Нотатка: {$player}
 admin-notes-days = {$days} днів
 admin-notes-hours = {$hours} годин
 admin-notes-minutes = {$minutes} хвилин
@@ -56,9 +59,9 @@ admin-note-editor-severity-high = Висока
 admin-note-editor-expiry-checkbox = Назавжди?
 admin-note-editor-expiry-checkbox-tooltip = Оберите цю опцію щоб зробити нотатку тимчасовою
 admin-note-editor-expiry-label = Проходить:
-admin-note-editor-expiry-label-params = Проходить: {$date} (in {$expiresIn})
+admin-note-editor-expiry-label-params = Проходить: {$date} (в {$expiresIn})
 admin-note-editor-expiry-label-expired = Пройшло
-admin-note-editor-expiry-placeholder = Введіть дату (yyyy-MM-dd HH:mm:ss)
+admin-note-editor-expiry-placeholder = Введіть дату (рррр-ММ-дд ГГ:мм:хх)
 admin-note-editor-submit = Підтвердити
 admin-note-editor-submit-confirm = Ви впевнені?
 
@@ -68,6 +71,7 @@ admin-notes-verb-text = Відкрити нотатки
 # Watchlist and message login
 admin-notes-watchlist = Watchlist for {$player}: {$message}
 admin-notes-new-message = Ви получили повідомлення від {$admin}: {$message}
+admin-notes-fallback-admin-name = [Система]
 
 # Admin remarks
 admin-remarks-command-description = Відкриває сторінку зауважень від адміністрації
@@ -75,4 +79,4 @@ admin-remarks-command-error = Зауваження адміністрації б
 admin-remarks-title = Зауваження адміністрації
 
 # Misc
-system-user = [System]
+system-user = [Система]

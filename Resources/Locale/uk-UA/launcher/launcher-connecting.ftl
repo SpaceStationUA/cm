@@ -1,6 +1,6 @@
 ### Connecting dialog when you start up the game
 
-connecting-title = Колоніальні Морпіхи 14
+connecting-title = Космічна Станція 14
 connecting-exit = Вийти
 connecting-retry = Спробувати знов
 connecting-reconnect = Перепід'єднатися
