@@ -1,5 +1,8 @@
+ent-CMBaseToolSurgery = ранорозширювач
+    .desc = Розширює всяке.
+
 ent-CMRetractor = ранорозширювач
-    .desc = Розширює всяке, .
+    .desc = Розширює всяке.
 
 ent-CMRetractorPredator = відкривач
     .desc = { ent-CMRetractor.desc }
@@ -60,4 +63,7 @@ ent-CMWoundClamp = ранозатискач
 
 ent-CMAutopsy = автоматична система розтинання Вейланд(ТМ)
     .desc = Повертає веселля в складні операції розтинів. Цей маленький гаджет проводить розтин будь якої дивної та невідомої чухні всього за 30 секунд!
+
+ent-CMBoneGel = кістний гель
+    .desc = { ent-CMBaseToolSurgery.desc }
 
