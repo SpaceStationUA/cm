@@ -4,64 +4,64 @@ ghost-role-component-default-rules = All normal rules apply unless an administra
                                      You are allowed to remember knowledge about the game in general, such as how to cook, how to use objects, etc.
                                      You are absolutely [color=red]NOT[/color] allowed to remember, say, the name, appearance, etc. of your previous character.
 
-ghost-role-information-mouse-name = Mouse
+ghost-role-information-mouse-name = Миша
 ghost-role-information-mouse-description = A hungry and mischievous mouse.
 
-ghost-role-information-mothroach-name = Mothroach
+ghost-role-information-mothroach-name = Ніанотарган
 ghost-role-information-mothroach-description = A cute but mischievous mothroach.
 
-ghost-role-information-giant-spider-name = Giant spider
+ghost-role-information-giant-spider-name = Великий павук
 ghost-role-information-giant-spider-description = This station's inhabitants look mighty tasty, and your sticky web is perfect to catch them!
 
 ghost-role-information-cognizine-description = Made conscious with the magic of cognizine.
 
-ghost-role-information-hamster-name = Hamster
+ghost-role-information-hamster-name = Хом'як
 ghost-role-information-hamster-description = A grumpy little ball of fluff.
 
-ghost-role-information-hamlet-name = Hamlet the hamster.
+ghost-role-information-hamlet-name = Хом'як Ґамлет.
 ghost-role-information-hamlet-description = Lives in the station bridge, has a bit of a temper and is always hungry.
 
-ghost-role-information-slimes-name = Slime
+ghost-role-information-slimes-name = Слайм
 ghost-role-information-slimes-description = An ordinary slime with no special needs or interests. You are friendly to others.
 
-ghost-role-information-angry-slimes-name = Slime
+ghost-role-information-angry-slimes-name = Слайм
 ghost-role-information-angry-slimes-description = Everyone around you irritates your instincts, destroy them!
 
-ghost-role-information-smile-name = Smile the Slime
+ghost-role-information-smile-name = Слайм Посмішка
 ghost-role-information-smile-description = The sweetest creature in the world. Smile Slime!
 
-ghost-role-information-punpun-name = Pun Pun
+ghost-role-information-punpun-name = Пун Пун
 ghost-role-information-punpun-description = An honorable member of the monkey society in charge of the bar and helping the bartenders in any way he can.
 
-ghost-role-information-xeno-name = Xeno
+ghost-role-information-xeno-name = Ксено
 ghost-role-information-xeno-description = You are a xeno, co-operate with your hive to kill all crewmembers!
 ghost-role-information-xeno-rules = You are an antagonist, smack, slash, and wack!
 
-ghost-role-information-revenant-name = Revenant
+ghost-role-information-revenant-name = Ревенант
 ghost-role-information-revenant-description = You are a Revenant. Use your powers to harvest souls and unleash chaos upon the crew. Unlock new abilities with the essence you harvest.
 ghost-role-information-revenant-rules = You are an antagonist, harvest, defile, and drive the crew insane.
 
 ghost-role-information-kangaroo-name = Kangaroo
 ghost-role-information-kangaroo-description = You're a kangaroo! Do whatever kangaroos do.
 
-ghost-role-information-monkey-name = Monkey
+ghost-role-information-monkey-name = Мавпа
 ghost-role-information-monkey-description = Ook ook!
 
-ghost-role-information-kobold-name = Kobold
+ghost-role-information-kobold-name = Кобольд
 ghost-role-information-kobold-description = Be the little gremlin you are, yell at people and beg for meat!
 
-ghost-role-information-rat-king-name = Rat King
+ghost-role-information-rat-king-name = Щурячий Король
 ghost-role-information-rat-king-description = You are the Rat King, scavenge food in order to produce rat minions to do your bidding.
 ghost-role-information-rat-king-rules = You are an antagonist, scavenge, attack, and grow your hoard!
 
-ghost-role-information-rat-servant-name = Rat Servant
+ghost-role-information-rat-servant-name = Щурячий слуга
 ghost-role-information-rat-servant-description = You are a Rat Servant. You must follow your king's orders.
 ghost-role-information-rat-servant-rules = You are an antagonist, scavenge, attack, and serve your king!
 
-ghost-role-information-salvage-carp-name = Space carp on salvage wreck
+ghost-role-information-salvage-carp-name = Космічний карп на уламку
 ghost-role-information-salvage-carp-description = Defend the loot inside the salvage wreck!
 
-ghost-role-information-sentient-carp-name = Sentient Carp
+ghost-role-information-sentient-carp-name = Розумний карп
 ghost-role-information-sentient-carp-description = Help the dragon flood the station with carps!
 
 ghost-role-information-salvage-shark-name = Space sharkminnow on salvage wreck
@@ -164,6 +164,9 @@ ghost-role-information-cerberus-rules = You are an intelligent, demonic dog. Try
 ghost-role-information-ert-leader-name = ERT Leader
 ghost-role-information-ert-leader-description = Lead a team of specialists to resolve the stations issues.
 
+ghost-role-information-ert-chaplain-name = ERT Chaplain
+ghost-role-information-ert-chaplain-description = Assist with mourning to resolve the station's crew moral issues.
+
 ghost-role-information-ert-janitor-name = ERT Janitor
 ghost-role-information-ert-janitor-description = Assist with custodial efforts to resolve the stations issues.
 
@@ -224,3 +227,8 @@ ghost-role-information-syndicate-reinforcement-rules = Normal syndicate antagoni
 ghost-role-information-syndicate-monkey-reinforcement-name = Syndicate Monkey Agent
 ghost-role-information-syndicate-monkey-reinforcement-description = Someone needs reinforcements. You, a trained monkey, will help them.
 ghost-role-information-syndicate-monkey-reinforcement-rules = Normal syndicate antagonist rules apply. Work with whoever called you in, and don't harm them.
+
+ghost-role-information-artifact-name = Sentient Artifact
+ghost-role-information-artifact-description =
+      Enact your eldritch whims.
+      Forcibly activate your nodes for good or for evil.

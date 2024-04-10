@@ -4,6 +4,7 @@ implanter-component-implanting-target = {$user} пробує імплантув�
 implanter-component-implant-failed = {$implant} не може бути імплантованим у {$target}!
 implanter-draw-failed-permanent = {$implant} злився з {$target} й не може бути деімплантованим!
 implanter-draw-failed = Ви спробували витягнути імплант, але його не було в паціенті.
+implanter-component-implant-already = {$target} вже має {$implant}!
 
 ## UI
 implanter-draw-text = Витягнути

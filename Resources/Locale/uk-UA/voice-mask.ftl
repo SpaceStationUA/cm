@@ -1,5 +1,6 @@
 voice-mask-name-change-window = Змінити ім'я Голосової маски
 voice-mask-name-change-info = Введить ім'я людини чий голос ви хочете імітувати.
+voice-mask-name-change-speech-style = Стиль голосу
 voice-mask-name-change-set = Поставити ім'я
 voice-mask-name-change-set-description = Змінює голос який інші люді чують.
 

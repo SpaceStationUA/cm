@@ -33,5 +33,8 @@ trait-frontal-lisp-desc = Ти возмовляєшш ш шепеляфісст�
 trait-socialanxiety-name = Соціальна невневненість
 trait-socialanxiety-desc = Багато людей приносять забагато тривогі й сорому. Ви не можете стримати себе в руках і починаєте заікатися.
 
+trait-southern-name = Southern Drawl
+trait-southern-desc = You have a different way of speakin'.
+
 trait-snoring-name = Хропіння
 trait-snoring-desc = Ви будете хропіти під час сну.
