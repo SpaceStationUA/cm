@@ -1,3 +1,6 @@
+ent-CMGrenadeBase = M40 HEDP граната
+    .desc = Кидайте та ховайтеся.
+
 ent-M40HEDP = M40 HEDP граната
     .desc = Кидайте та ховайтеся.
 

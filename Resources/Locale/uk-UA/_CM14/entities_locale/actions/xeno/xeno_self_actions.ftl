@@ -22,6 +22,9 @@ ent-ActionXenoResinWalker = Resin Walker
 ent-ActionXenoZoom = Перемнути радіус бачення
     .desc = { ent-ActionXenoBase.desc }
 
-ent-ActionXenoWordQueen = Word of the Queen
+ent-ActionXenoWordQueen = Слово королеви
+    .desc = { ent-ActionXenoBase.desc }
+
+ent-ActionXenoGrowOvipositor = Grow Ovipositor
     .desc = { ent-ActionXenoBase.desc }
 

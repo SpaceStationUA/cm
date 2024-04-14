@@ -31,7 +31,7 @@ ent-ColMarTechSWSGear = КолМарТех спеціалізований сте
 ent-ColMarTechSWSEquipment = КолМарТех стелаж спеціального спорядження загону
     .desc = Автоматизований стелаж, під'єднаний до величезного сховища стандартного спорядження спеціаліста зі стрілецької зброї.
 
-ent-ColMarTechSCTGear = КолМарТех стелаж спорядження бойового техніка 
+ent-ColMarTechSCTGear = КолМарТех стелаж спорядження бойового техніка
     .desc = Автоматизований стелаж для спорядження бойового техніка.
 
 ent-ColMarTechSCTEquipment = КолМарТех стелаж обладнання бойового техніка
@@ -57,4 +57,7 @@ ent-ColMarTechFLGear = КолМарТех стійка спорядження л
 
 ent-ColMarTechFLEquipment = КолМарТех стелаж спорядження лідера підрозділу
     .desc = Автоматизований стелаж, під'єднаний до величезного сховища стандартного спорядження лідерів підрозділів.
+
+ent-ColMarTechSurplus = ColMarTech Surplus Uniform Vendor
+    .desc = An automated rack hooked up to a small storage of standard marine uniforms.
 
