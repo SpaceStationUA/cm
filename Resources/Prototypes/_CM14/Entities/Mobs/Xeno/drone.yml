@@ -2,6 +2,7 @@
   parent:
   - CMXenoDeveloped
   - CMXenoTail
+  - CMXenoFlammable
   id: CMXenoDrone
   name: Drone
   description: An alien drone.
@@ -31,7 +32,7 @@
     - ActionXenoChooseStructure
     - ActionXenoSecreteStructure
     - ActionXenoTransferPlasma
-    - ActionXenoEvolve60 # TODO CM14 300
+    - ActionXenoEvolve300
     tier: 1
   - type: XenoAcid
   - type: XenoConstruction
@@ -54,3 +55,6 @@
     plasma: 1000
     maxPlasma: 1000
     plasmaRegenOnWeeds: 6
+  - type: Tackle
+    threshold: 4
+    stun: 7

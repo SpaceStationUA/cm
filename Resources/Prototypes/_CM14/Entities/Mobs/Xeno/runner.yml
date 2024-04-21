@@ -2,6 +2,7 @@
   parent:
   - CMXenoDeveloped
   - CMXenoTail
+  - CMXenoFlammable
   id: CMXenoRunner
   name: Runner
   description: A small red alien that looks like it could run fairly quickly...
@@ -28,8 +29,7 @@
     - ActionXenoLeap # TODO CM14 call this pounce, not leap
     - ActionXenoBoneChips
     - ActionXenoZoom
-    - ActionXenoEvolve60 # TODO CM14 300
-    # explosionResistance: 10
+    - ActionXenoEvolve300
     tier: 1
   - type: XenoBoneChips
   - type: XenoDevour
@@ -52,3 +52,6 @@
     damage:
       groups:
         Brute: 22.5
+  - type: Tackle
+    threshold: 5
+    stun: 8

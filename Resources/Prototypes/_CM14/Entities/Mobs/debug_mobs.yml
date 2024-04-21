@@ -1,12 +1,12 @@
 ﻿- type: entity
-  parent: MobHuman
+  parent: CMBaseMobSpeciesOrganic
   id: CMTestDummy
   name: test dummy
   suffix: CM14
   components:
   - type: Marine
   - type: Loadout
-    prototypes: [ StaffOfficerGear ]
+    prototypes: [ CMGearStaffOfficer ]
 
 - type: entity
   name: CM Test Dummy Spawner

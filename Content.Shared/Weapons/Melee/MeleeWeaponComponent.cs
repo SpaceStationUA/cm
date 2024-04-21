@@ -13,6 +13,13 @@ namespace Content.Shared.Weapons.Melee;
 [RegisterComponent, NetworkedComponent, AutoGenerateComponentState, AutoGenerateComponentPause]
 public sealed partial class MeleeWeaponComponent : Component
 {
+    /// <summary>
+    /// Defines if the primary attack should be a wide swing
+    /// </summary>
+    // TODO CM14 move this out and reset the file to upstream once source gen is fixed
+    [DataField]
+    public bool WidePrimary;
+
     // TODO: This is becoming bloated as shit.
     // This should just be its own component for alt attacks.
     /// <summary>
@@ -140,6 +147,14 @@ public sealed partial class MeleeWeaponComponent : Component
     [ViewVariables(VVAccess.ReadWrite)]
     [DataField("soundNoDamage"), AutoNetworkedField]
     public SoundSpecifier NoDamageSound { get; set; } = new SoundCollectionSpecifier("WeakHit");
+
+    /// <summary>
+    /// If true, the weapon must be equipped for it to be used.
+    /// E.g boxing gloves must be equipped to your gloves,
+    /// not just held in your hand to be used.
+    /// </summary>
+    [DataField, AutoNetworkedField]
+    public bool MustBeEquippedToUse = false;
 }
 
 /// <summary>

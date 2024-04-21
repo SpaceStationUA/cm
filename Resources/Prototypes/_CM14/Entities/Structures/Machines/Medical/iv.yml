@@ -1,5 +1,5 @@
 ﻿- type: entity
-  parent: BaseStructure
+  parent: CMBaseStructureCorrodible
   id: CMIV
   name: iv
   description: Allows you to inject blood into a patient or extract blood from them to do a blood transfusion.
@@ -56,7 +56,7 @@
   parent: BaseItem
   id: CMBloodPack # TODO CM14 blood types
   name: blood pack
-  suffix: Full
+  suffix: CM, empty
   components:
   - type: BloodPack
   - type: Sprite
@@ -69,15 +69,12 @@
     - state: blank
       map: ["enum.BloodPackVisuals.Label"]
   - type: Item
+    size: Small
     sprite: _CM14/Objects/Medical/blood_pack.rsi
   - type: SolutionContainerManager
     solutions:
       pack:
         maxVol: 300
-        canMix: false
-        reagents:
-        - ReagentId: Blood
-          Quantity: 300
   - type: FitsInDispenser
     solution: pack
   - type: RefillableSolution
@@ -118,3 +115,17 @@
         Blunt: 5
   - type: StaticPrice
     price: 30
+
+- type: entity
+  parent: CMBloodPack
+  id: CMBloodPackFull # TODO CM14 blood types
+  name: blood pack
+  suffix: CM, Full
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      pack:
+        maxVol: 300
+        reagents:
+        - ReagentId: Blood
+          Quantity: 300

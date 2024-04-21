@@ -2,6 +2,7 @@
   parent:
   - CMXenoDeveloped
   - CMXenoTail
+  - CMXenoFlammable
   id: CMXenoCrusher
   name: Crusher
   description: A huge alien with an enormous armored crest.
@@ -27,7 +28,6 @@
     #    - ActionXenoCharge
     #    - ActionXenoStomp
     #    - ActionXenoDefensiveShield
-    # explosionResistance: 100
     tier: 3
   - type: XenoDevour
   - type: XenoPlasma
@@ -41,3 +41,6 @@
     damage:
       groups:
         Brute: 40
+  - type: Tackle
+    threshold: 5
+    stun: 5

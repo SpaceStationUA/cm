@@ -2,6 +2,7 @@
   parent:
   - CMXenoDeveloped
   - CMXenoTail
+  - CMXenoFlammable
   id: CMXenoLurker
   name: Lurker
   description: A beefy, fast alien with sharp claws.
@@ -28,8 +29,7 @@
     #    - ActionXenoPounce
     #    - ActionXenoInvisibility
     #    - ActionXenoCripplingStrike
-    - ActionXenoEvolve60 # TODO CM14 540
-    # explosionResistance: 20
+    - ActionXenoEvolve540
     tier: 2
   - type: XenoDevour
   - type: XenoPlasma
@@ -45,3 +45,6 @@
     damage:
       groups:
         Brute: 35
+  - type: Tackle
+    threshold: 4
+    stun: 5

@@ -7,6 +7,7 @@
   - type: Sprite
     sprite: _CM14/Objects/Medical/beaker.rsi
   - type: Item
+    size: Small
     sprite: _CM14/Objects/Medical/beaker.rsi
   - type: SolutionContainerVisuals
     maxFillLevels: 5
@@ -15,7 +16,6 @@
     solutions:
       beaker:
         maxVol: 60
-        canMix: true
   - type: Spillable
     solution: beaker
   - type: StaticPrice
@@ -41,7 +41,6 @@
     solutions:
       beaker:
         maxVol: 120
-        canMix: true
   - type: SolutionContainerVisuals
     maxFillLevels: 5
     fillBaseName: beakerlarge
@@ -49,4 +48,4 @@
     solution: beaker
   - type: StaticPrice
     price: 20
-      
+

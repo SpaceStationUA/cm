@@ -2,6 +2,7 @@
   parent:
   - CMXenoDeveloped
   - CMXenoTail
+  - CMXenoFlammable
   id: CMXenoWarrior
   name: Warrior
   description: A beefy alien with an armored carapace.
@@ -28,8 +29,7 @@
     #    - ActionXenoPunch
     #    - ActionXenoLunge
     #    - ActionXenoFling
-    - ActionXenoEvolve60 # TODO CM14 540
-    # explosionResistance: 40
+    - ActionXenoEvolve540
     tier: 2
   - type: XenoDevour
   - type: XenoPlasma
@@ -47,3 +47,6 @@
     damage:
       groups:
         Brute: 35
+  - type: Tackle
+    threshold: 4
+    stun: 5

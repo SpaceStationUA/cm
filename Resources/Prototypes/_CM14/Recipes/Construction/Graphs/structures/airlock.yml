@@ -1,4 +1,5 @@
 - type: constructionGraph
+  parent: CM
   id: CMAirlock
   start: start
   graph:
@@ -117,7 +118,6 @@
     actions:
     - !type:SetWiresPanelSecurity
       wiresAccessible: true
-      weldingAllowed: true
     edges:
     - to: wired
       conditions:
@@ -140,7 +140,6 @@
     actions:
     - !type:SetWiresPanelSecurity
       wiresAccessible: true
-      weldingAllowed: true
     edges:
     - to: glassElectronics
       conditions:

@@ -26,7 +26,7 @@ public sealed class StorageSystem : SharedStorageSystem
 
         SubscribeLocalEvent<StorageComponent, ComponentShutdown>(OnShutdown);
         SubscribeNetworkEvent<PickupAnimationEvent>(HandlePickupAnimation);
-        SubscribeNetworkEvent<AnimateInsertingEntitiesEvent>(HandleAnimatingInsertingEntities);
+        SubscribeAllEvent<AnimateInsertingEntitiesEvent>(HandleAnimatingInsertingEntities);
     }
 
     public override void UpdateUI(Entity<StorageComponent?> entity)
@@ -172,5 +172,12 @@ public sealed class StorageSystem : SharedStorageSystem
                 _entityPickupAnimation.AnimateEntityPickup(entity, GetCoordinates(initialPosition), transformComp.LocalPosition, msg.EntityAngles[i]);
             }
         }
+    }
+
+    public override void OpenStorageUI(EntityUid uid, EntityUid entity, StorageComponent? storageComp = null, bool silent = false,
+        bool doAfter = true)
+    {
+        if (doAfter && CMStorage.OpenDoAfter(uid, entity, storageComp, silent))
+            return;
     }
 }

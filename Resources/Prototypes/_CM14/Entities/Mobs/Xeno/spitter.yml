@@ -2,6 +2,7 @@
   parent:
   - CMXenoDeveloped
   - CMXenoTail
+  - CMXenoFlammable
   id: CMXenoSpitter
   name: Spitter
   description: A gross, oozing alien of some kind.
@@ -28,8 +29,7 @@
     #    - ActionXenoSpit
     #    - ActionXenoChargeSpit
     #    - ActionXenoSprayAcid
-    - ActionXenoEvolve60 # TODO CM14 540
-    # explosionResistance: 20
+    - ActionXenoEvolve540
     tier: 2
   - type: XenoAcid
   - type: XenoDevour
@@ -48,3 +48,6 @@
     damage:
       groups:
         Brute: 25
+  - type: Tackle
+    threshold: 4
+    stun: 9

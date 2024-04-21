@@ -2,6 +2,7 @@
   parent:
   - CMXenoDeveloped
   - CMXenoTail
+  - CMXenoFlammable
   id: CMXenoCarrier
   name: Carrier
   description: A strange-looking alien creature. It carries a number of scuttling jointed crablike creatures.
@@ -31,7 +32,6 @@
     #    - ActionXenoThrowFacehugger
     #    - ActionXenoRetrieveEgg
     #    - ActionXenoHuggerReserve
-    # explosionResistance: 20
     tier: 2
   - type: XenoConstruction
     canOrderConstruction:
@@ -49,3 +49,6 @@
     damage:
       groups:
         Brute: 27.5
+  - type: Tackle
+    threshold: 3
+    stun: 9

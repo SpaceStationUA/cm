@@ -2,6 +2,7 @@
   parent:
   - CMXenoDeveloped
   - CMXenoTail
+  - CMXenoFlammable
   id: CMXenoDefender
   name: Defender
   description: A alien with an armored crest.
@@ -28,7 +29,7 @@
     - ActionXenoHeadbutt
     - ActionXenoTailSweep
     - ActionXenoFortify
-    - ActionXenoEvolve60 # TODO CM14 300
+    - ActionXenoEvolve300
     tier: 1
   - type: XenoEvolution
     evolvesTo:
@@ -56,3 +57,6 @@
     damage:
       groups:
         Brute: 27.5
+  - type: Tackle
+    threshold: 4
+    stun: 5

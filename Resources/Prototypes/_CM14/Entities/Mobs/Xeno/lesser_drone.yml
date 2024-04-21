@@ -2,6 +2,7 @@
   parent:
   - CMXenoDeveloped
   - CMXenoTail
+  - CMXenoFlammable
   id: CMXenoLesserDrone
   name: Lesser Drone
   description: An alien drone. Looks... smaller.
@@ -46,3 +47,6 @@
     damage:
       groups:
         Brute: 20
+  - type: Tackle
+    threshold: 5
+    stun: 5

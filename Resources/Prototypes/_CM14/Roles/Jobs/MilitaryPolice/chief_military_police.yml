@@ -1,0 +1,69 @@
+- type: job
+  parent: CMJobBase
+  id: CMChiefMP
+  name: cm-job-name-chief-mp
+  description: cm-job-description-chief-mp
+  playTimeTracker: CMJobChiefMP
+  requirements:
+    - !type:DepartmentTimeRequirement
+      department: CMMilitaryPolice
+      time: 36000 # 10 hours
+    - !type:DepartmentTimeRequirement
+      department: CMCommand
+      time: 18000 # 5 hours
+  weight: 5
+  startingGear: CMGearChiefMP
+  icon: "CMJobIconChiefMP"
+  requireAdminNotify: true
+  joinNotifyCrew: true
+  supervisors: cm-job-supervisors-co
+  canBeAntag: false
+  accessGroups:
+  - CMP
+  special:
+  - !type:AddComponentSpecial
+    components:
+    - type: Skills
+      construction: 2
+      cqc: 2
+      endurance: 2
+      engineer: 2
+      fireman: 2
+      intel: 1
+      jtac: 3
+      leadership: 2
+      medical: 1
+      meleeWeapons: 1
+      overwatch: 1
+      police: 2
+    - type: MarineOrders
+
+- type: startingGear
+  id: CMGearChiefMP
+  equipment:
+    jumpsuit: CMJumpsuitWO
+    back: CMSatchelSecurity
+    shoes: CMBootsBlackFilled
+    head: CMHeadBeretWO
+    eyes: ClothingEyesGlassesSecurity # todo cm14 replace with cm ones
+    gloves: CMHandsBlack
+    id: CMIDCardChiefMP
+    outerClothing: CMArmorM3WO
+    ears: CMHeadsetCMP
+    belt: CMBeltSecurityFilled
+
+- type: entity
+  parent: CMSpawnPointJobBase
+  id: CMSpawnPointChiefMP
+  name: chief mp spawn point
+  components:
+  - type: SpawnPoint
+    job_id: CMChiefMP
+  - type: Sprite
+    layers:
+    - sprite: Markers/jobs.rsi
+      state: green
+    - state: chief_military_police
+
+- type: playTimeTracker
+  id: CMJobChiefMP

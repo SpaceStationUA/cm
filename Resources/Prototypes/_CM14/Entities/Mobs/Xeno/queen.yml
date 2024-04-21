@@ -48,7 +48,7 @@
 #    - ActionXenoScreech
 #    - ActionXenoSpit
 #    - ActionXenoToggleSpitType
-    # explosionResistance: 100 # TODO CM14 fire immunity
+    # TODO CM14 fire immunity
     tier: 4
   - type: XenoAcid
   - type: XenoConstruction
@@ -74,3 +74,6 @@
       groups:
         Brute: 40
   - type: XenoOvipositorCapable
+  - type: Tackle
+    threshold: 3
+    stun: 11

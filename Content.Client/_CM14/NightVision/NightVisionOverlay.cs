@@ -1,5 +1,4 @@
-﻿using System.Numerics;
-using Content.Shared._CM14.NightVision;
+﻿using Content.Shared._CM14.NightVision;
 using Content.Shared.Mobs.Components;
 using Robust.Client.GameObjects;
 using Robust.Client.Graphics;
@@ -11,17 +10,18 @@ namespace Content.Client._CM14.NightVision;
 public sealed class NightVisionOverlay : Overlay
 {
     [Dependency] private readonly IEntityManager _entity = default!;
-    [Dependency] private readonly IEyeManager _eye = default!;
     [Dependency] private readonly IPlayerManager _players = default!;
 
+    private readonly ContainerSystem _container;
     private readonly TransformSystem _transform;
 
-    public override OverlaySpace Space => OverlaySpace.ScreenSpace;
+    public override OverlaySpace Space => OverlaySpace.WorldSpace;
 
     public NightVisionOverlay()
     {
         IoCManager.InjectDependencies(this);
 
+        _container = _entity.System<ContainerSystem>();
         _transform = _entity.System<TransformSystem>();
     }
 
@@ -33,9 +33,9 @@ public sealed class NightVisionOverlay : Overlay
             return;
         }
 
+        var handle = args.WorldHandle;
         var eye = args.Viewport.Eye;
         var eyeRot = eye?.Rotation ?? default;
-        var zoom = Vector2.One / (args.Viewport.Eye?.Zoom ?? Vector2.One);
 
         var entities = _entity.EntityQueryEnumerator<MobStateComponent, SpriteComponent, TransformComponent>();
         while (entities.MoveNext(out var uid, out _, out var sprite, out var xform))
@@ -43,12 +43,15 @@ public sealed class NightVisionOverlay : Overlay
             if (xform.MapID != eye?.Position.MapId)
                 continue;
 
-            var position = _eye.CoordinatesToScreen(xform.Coordinates).Position;
-            if (!args.ViewportBounds.Contains((int) position.X, (int) position.Y))
+            if (_container.IsEntityOrParentInContainer(uid))
                 continue;
 
+            var position = xform.Coordinates.ToMapPos(_entity, _transform);
             var rotation = _transform.GetWorldRotation(xform);
-            args.ScreenHandle.DrawEntity(uid, position, Vector2.One * 2 * zoom, rotation + eyeRot, Angle.Zero, null, sprite, xform, _transform);
+
+            sprite.Render(handle, eyeRot, rotation, position: position);
         }
+
+        handle.SetTransform(Matrix3.Identity);
     }
 }

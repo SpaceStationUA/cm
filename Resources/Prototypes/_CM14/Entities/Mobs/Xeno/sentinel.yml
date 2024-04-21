@@ -2,6 +2,7 @@
   parent:
   - CMXenoDeveloped
   - CMXenoTail
+  - CMXenoFlammable
   id: CMXenoSentinel
   name: Sentinel
   description: A slithery, spitting kind of alien.
@@ -27,8 +28,7 @@
     - ActionXenoSlowingSpit
     - ActionXenoScatteredSpit
     - ActionXenoParalyzingSlash
-    - ActionXenoEvolve60 # TODO CM14 300
-    # explosionResistance: 10
+    - ActionXenoEvolve300
     tier: 1
   - type: XenoDevour
   - type: XenoPlasma
@@ -47,3 +47,6 @@
     damage:
       groups:
         Brute: 22.5
+  - type: Tackle
+    threshold: 4
+    stun: 8

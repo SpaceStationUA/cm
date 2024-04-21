@@ -1,5 +1,8 @@
 ﻿- type: entity
-  parent: [CMXenoUndeveloped, CMXenoMelee]
+  parent:
+  - CMXenoUndeveloped
+  - CMXenoMelee
+  - CMXenoFlammable
   id: CMXenoHugger # TODO CM14 slowly die off weeds
   name: Facehugger
   components:
@@ -40,7 +43,7 @@
         - SmallMobLayer
   - type: XenoAnimateMovement
   - type: XenoLeap
-    knockdownTime: 90
+    knockdownTime: 1
   - type: XenoHugger
   - type: Item
   - type: WhitelistPickupBy
