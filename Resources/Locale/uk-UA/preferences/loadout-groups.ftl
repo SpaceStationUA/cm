@@ -121,6 +121,7 @@ loadout-group-scientist-neck = Шія
 loadout-group-scientist-jumpsuit = Одяг
 loadout-group-scientist-backpack = Рюкзак
 loadout-group-scientist-outerclothing = Зовнішний одяг
+loadout-group-scientist-gloves = Рукавички
 loadout-group-scientist-shoes = Взуття
 loadout-group-scientist-id = ID
 
@@ -139,6 +140,7 @@ loadout-group-warden-outerclothing = Зовнішний одяг
 loadout-group-security-head = Голова
 loadout-group-security-jumpsuit = Одяг
 loadout-group-security-backpack = Рюкзак
+loadout-group-security-belt = Security Belt
 loadout-group-security-outerclothing = Зовнішний одяг
 loadout-group-security-shoes = Взуття
 loadout-group-security-id = ID
@@ -152,6 +154,9 @@ loadout-group-detective-outerclothing = Зовнішний одяг
 loadout-group-security-cadet-jumpsuit = Одяг
 
 # Medical
+loadout-group-medical-gloves = Рукавички
+loadout-group-medical-mask = Маски
+
 loadout-group-chief-medical-officer-head = Голова
 loadout-group-chief-medical-officer-jumpsuit = Одяг
 loadout-group-chief-medical-officer-outerclothing = Зовнішний одяг

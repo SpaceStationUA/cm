@@ -1,28 +1,28 @@
 # marines
-job-name-rifleman = Рядовий
-job-description-rifleman = Слухайте наказів від офіцерів. Стріляйте коли треба стріляти, виконуйте свою роботу, та будь ласка, постарайтеся не померти.
-JobRifleman = Рядовий
+cm-job-name-rifleman = Рядовий
+cm-job-description-rifleman = Слухайте наказів від офіцерів. Стріляйте коли треба стріляти, виконуйте свою роботу, та будь ласка, постарайтеся не померти.
+CMJobRifleman = Рядовий
 
-job-name-squad-leader = Лідер Загіну
-job-description-squad-leader = Лідер одного з чотирьох загонів. Віддавайте вашому загону та бойовим групам цілі та слухайтеся наказів від Командування. Тримайте ваших людей живими.
-JobSquaderLeader = Лідер Загіну
+cm-job-name-squad-leader = Лідер Загіну
+cm-job-description-squad-leader = Лідер одного з чотирьох загонів. Віддавайте вашому загону та бойовим групам цілі та слухайтеся наказів від Командування. Тримайте ваших людей живими.
+CMJobSquaderLeader = Лідер Загіну
 
-job-name-fireteam-leader = Лідер Бойового Отряду
-job-description-fireteam-leader = Слухайтеся наказів лідера загону та командуйте вашою групою.
-JobFireteamLeader = Лідер Бойового Отряду
+cm-job-name-fireteam-leader = Лідер Бойового Отряду
+cm-job-description-fireteam-leader = Слухайтеся наказів лідера загону та командуйте вашою групою.
+CMJobFireteamLeader = Лідер Бойового Отряду
 
-job-name-weapons-specialist = Спеціаліст по Озброєнню
-job-description-weapons-specialist = Тримайте у своїх руках найтяжчу та найсильнішу зброю що бачив світ.
-JobWeaponsSpecialist = Спеціаліст по Озброєнню
+cm-job-name-weapons-specialist = Спеціаліст по Озброєнню
+cm-job-description-weapons-specialist = Тримайте у своїх руках найтяжчу та найсильнішу зброю що бачив світ.
+CMJobWeaponsSpecialist = Спеціаліст по Озброєнню
 
-job-name-smartgunner = Смарт Ґанер
-job-description-smartgunner = Підтримуйте дії свого загону вогнем на пригнічення.
-JobSmartgunner = Смарт Ґанер
+cm-job-name-smartgunner = Смарт Ґанер
+cm-job-description-smartgunner = Підтримуйте дії свого загону вогнем на пригнічення.
+CMJobSmartgunner = Смарт Ґанер
 
-job-name-hospital-corpsman = Бойовий медик
-job-description-hospital-corpsman = Підтримуйте боєздатність морпіхів, або їх життя. Евакуюйте поранених.
-JobHospitalCorpsman = Бойовий медик
+cm-job-name-hospital-corpsman = Бойовий медик
+cm-job-description-hospital-corpsman = Підтримуйте боєздатність морпіхів, або їх життя. Евакуюйте поранених.
+CMJobHospitalCorpsman = Бойовий медик
 
-job-name-combat-tech = Бойовий Техник
-job-description-combat-tech = Будуйте або розбирайте укріплення. Відкривайте заблоковані місця для вашої команди.
-JobCombatTech = Бойовий Техник
+cm-job-name-combat-tech = Бойовий Техник
+cm-job-description-combat-tech = Будуйте або розбирайте укріплення. Відкривайте заблоковані місця для вашої команди.
+CMJobCombatTech = Бойовий Техник

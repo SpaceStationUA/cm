@@ -1,3 +1,3 @@
-ent-SpawnPointOrdnanceTech = точка спавну техника озброєння
+ent-CMSpawnPointOrdnanceTech = точка спавну техника озброєння
     .desc = { ent-CMSpawnPointJobBase.desc }
 

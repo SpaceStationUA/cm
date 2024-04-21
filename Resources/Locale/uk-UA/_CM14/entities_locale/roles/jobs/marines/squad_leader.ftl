@@ -1,3 +1,3 @@
-ent-SpawnPointSquadLeader = точка спавну лідеру загону
+ent-CMSpawnPointSquadLeader = точка спавну лідеру загону
     .desc = { ent-CMSpawnPointJobBase.desc }
 

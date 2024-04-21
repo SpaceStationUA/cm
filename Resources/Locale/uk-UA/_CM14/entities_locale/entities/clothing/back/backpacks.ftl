@@ -1,3 +1,6 @@
+ent-CMPersonalStorageBase = backpack
+    .desc = You wear this on your back and put items into it.
+
 ent-CMBackpack = рюкзак
     .desc = Ти носиш його на собі і кладеш в нього свої речі.
 

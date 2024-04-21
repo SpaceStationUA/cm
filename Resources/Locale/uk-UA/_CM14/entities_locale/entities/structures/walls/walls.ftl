@@ -1,6 +1,3 @@
-ent-CMBaseWall = стіна
-    .desc = Великий шматок металу потрібен для розділення кімнат.
-
 ent-CMWallMetal = { ent-CMBaseWall }
     .desc = { ent-CMBaseWall.desc }
 
@@ -13,24 +10,32 @@ ent-CMWallMetalAlmayerWhite = { ent-CMBaseWall }
 ent-CMWallReinforced = посилена стіна
     .desc = Великий шматок посиленого металу потрібнен для розділення кімнат.
 
-ent-CMWallSuperReinforced = { ent-CMWallReinforced }
+ent-CMWallSuperReinforced = { ent-CMBaseWall }
+    .desc = { ent-CMBaseWall.desc }
 
 ent-CMWallReinforcedAlmayer = { ent-CMWallReinforced }
+    .desc = { ent-CMWallReinforced.desc }
 
 ent-CMWallReinforcedAlmayerWhite = { ent-CMWallReinforced }
+    .desc = { ent-CMWallReinforced.desc }
 
 ent-CMWallReinforcedHeavy = двічі посилена стіна
     .desc = Великий шматок двічі посиленого металу. Виглядає незнищенним.
 
 ent-CMWallReinforcedHeavyAlmayer = { ent-CMWallReinforcedHeavy }
+    .desc = { ent-CMWallReinforcedHeavy.desc }
 
 ent-CMWallReinforcedHeavyAlmayerWhite = { ent-CMWallReinforcedHeavy }
+    .desc = { ent-CMWallReinforcedHeavy.desc }
 
 ent-CMWallShuttleBlack = { ent-CMBaseWall }
+    .desc = { ent-CMBaseWall.desc }
 
-ent-CMWallShuttleOrange = { ent-CMBaseWall }
+ent-CMWallShuttleOrange = { ent-CMWallShuttleBlack }
+    .desc = { ent-CMWallShuttleBlack.desc }
 
-ent-CMWallShuttleWhite = { ent-CMBaseWall }
+ent-CMWallShuttleWhite = { ent-CMWallShuttleBlack }
+    .desc = { ent-CMWallShuttleBlack.desc }
 
 ent-CMWallRock = кам'яна стіна
     .desc = Стіна з каменів.

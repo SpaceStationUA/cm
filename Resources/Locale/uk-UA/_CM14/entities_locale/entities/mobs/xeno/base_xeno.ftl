@@ -1,17 +1,21 @@
-ent-CMXenoBase = CMXenoBase
+ent-CMXenoBase = ця сутність не має назви
 
-ent-CMXenoPrying = CMXenoPrying
+ent-CMXenoPrying = ця сутність не має назви
 
-ent-CMXenoPuller = CMXenoPuller
+ent-CMXenoPuller = ця сутність не має назви
 
-ent-CMXenoMelee = CMXenoMelee
+ent-CMXenoMelee = ця сутність не має назви
 
-ent-CMXenoLarge = CMXenoLarge
+ent-CMXenoLarge = ця сутність не має назви
 
 ent-CMXenoUndeveloped = { ent-CMXenoBase }
     .desc = { ent-CMXenoBase.desc }
 
-ent-CMXenoDeveloped = CMXenoDeveloped
+ent-CMXenoAI = { ent-CMXenoBase }
+    .desc = { ent-CMXenoBase.desc }
 
-ent-CMXenoTail = CMXenoTail
+ent-CMXenoDeveloped = ця сутність не має назви
 
+ent-CMXenoTail = ця сутність не має назви
+
+ent-CMXenoFlammable = ця сутність не має назви

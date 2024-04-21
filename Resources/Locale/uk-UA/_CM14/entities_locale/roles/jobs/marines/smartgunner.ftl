@@ -1,3 +1,3 @@
-ent-SpawnPointSmartGunner = точка спавна смартґаннера
+ent-CMSpawnPointSmartGunner = точка спавна смартґаннера
     .desc = { ent-CMSpawnPointJobBase.desc }
 

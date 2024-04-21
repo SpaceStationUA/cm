@@ -1,3 +1,3 @@
-ent-SpawnPointRifleman = точка спавна рядового
+ent-CMSpawnPointRifleman = точка спавна рядового
     .desc = { ent-CMSpawnPointJobBase.desc }
 

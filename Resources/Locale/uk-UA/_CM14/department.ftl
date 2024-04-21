@@ -1,31 +1,31 @@
 # command
-department-MarineCommand = Командування
-department-MarineCommand-description = Командування - мізки USS Алмаєра, що ведуть та коордінують дії отрядів та персоналу корабля для повної перемоги над Ксеноморфами.
+department-CMCommand = Командування
+cm-department-Command-description = Командування - мізки USS Алмаєра, що ведуть та коордінують дії отрядів та персоналу корабля для повної перемоги над Ксеноморфами.
 
 # military police
-department-MilitaryPolice = Військова Поліція
-department-MilitaryPolice-description = Забезпечуйте дотримання військовому уставу та законам. Затримуйте злочинців. Тримайте персонал корабля подалі від загроз.
+department-CMMilitaryPolice = Військова Поліція
+cm-department-MilitaryPolice-description = Забезпечуйте дотримання військовому уставу та законам. Затримуйте злочинців. Тримайте персонал корабля подалі від загроз.
 
 # requisitions
-department-Requisitions = Забезпечення
-department-Requisitions-description = Забезпечуйте морпіхів боєприпасами.
+department-CMRequisitions = Забезпечення
+cm-department-Requisitions-description = Забезпечуйте морпіхів боєприпасами.
 
 # marines
-department-Marine = Морпіхи
-department-Marine-description = Головна ударна сила Алмаєра. Саме їх посилають зачищати планети від ворогів Штатів та Землі.
+department-CMMarine = Морпіхи
+cm-department-Marine-description = Головна ударна сила Алмаєра. Саме їх посилають зачищати планети від ворогів Штатів та Землі.
 
 # engineering
-department-MarineEngineering = Інженерія
-department-MarineEngineering-description = Ваше завдання - підтримувати роботу двигуна та всього корабля у цілому.
+department-CMEngineering = Інженерія
+cm-department-MarineEngineering-description = Ваше завдання - підтримувати роботу двигуна та всього корабля у цілому.
 
 # medical
-department-MarineMedical = Медічний
-department-MarineMedical-description = Лікуйте усіх паціентів що приходять до вашого відділу.
+department-CMMedical = Медічний
+cm-department-MarineMedical-description = Лікуйте усіх паціентів що приходять до вашого відділу.
 
 # auxiliary support
-department-AuxiliarySupport = Допоміжни Війська
-department-AuxiliarySupport-description = Завдання Допоміжних Військ як не дивно - допомогати морпіхам. Силою чи іншими зусіллями.
+department-CMAuxiliarySupport = Допоміжни Війська
+cm-department-AuxiliarySupport-description = Завдання Допоміжних Військ як не дивно - допомогати морпіхам. Силою чи іншими зусіллями.
 
 # non uscm
-department-Civilians = Цивільні
-department-Civilians-description = Люді що не є частиною МорПіхів США.
+department-CMCivilians = Цивільні
+cm-department-Civilians-description = Люді що не є частиною МорПіхів США.

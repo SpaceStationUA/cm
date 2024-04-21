@@ -1,3 +1,3 @@
-ent-SpawnPointHospitalCorpsman = точка спавну бойового медика
+ent-CMSpawnPointHospitalCorpsman = точка спавну бойового медика
     .desc = { ent-CMSpawnPointJobBase.desc }
 

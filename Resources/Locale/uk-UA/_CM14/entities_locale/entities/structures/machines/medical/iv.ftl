@@ -6,3 +6,7 @@ ent-CMBloodPack = пакет крові
     .desc = { ent-BaseItem.desc }
     .suffix = Повний
 
+ent-CMBloodPackFull = { ent-CMBloodPack }
+    .desc = { ent-CMBloodPack.desc }
+    .suffix = CM, Full
+
