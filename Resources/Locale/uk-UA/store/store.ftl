@@ -1,10 +1,11 @@
-store-ui-default-title = Store
-store-ui-default-withdraw-text = Withdraw
+store-ui-default-title = Магазин
+store-ui-default-withdraw-text = Вийняти
 store-ui-balance-display = {$currency}: {$amount}
 store-ui-price-display = {$amount} {$currency}
 store-ui-traitor-flavor = Copyright (C) NT -30643
-store-ui-traitor-warning = Operatives must lock their uplinks after use to avoid detection.
+store-ui-traitor-warning = Оперативники повинні заблокувати свій магазин після використання, задля запобігання розкриттю.
 
-store-withdraw-button-ui = Withdraw {$currency}
+store-withdraw-button-ui = Вийняти {$currency}
 
-store-not-account-owner = This {$store} is not bound to you!
+store-ui-button-out-of-stock = {""} (Немає в наявності)
+store-not-account-owner = Цій {$store} не належить вам!

@@ -2,11 +2,6 @@ flavor-profile = Смакує {$flavor}.
 flavor-profile-multiple = Смакує {$flavors} та {$lastFlavor}.
 flavor-profile-unknown = Смакує невимовно.
 
-# Base flavors. Use these when you can't think of anything.
-# These are specifically flavors that are placed in front
-# of other flavors. When the flavors are processed, these
-# will go in front so you don't get this like "Tastes like tomatoes, sweet and spicy",
-# instead, you get "Tastes sweet, spicy and like tomatoes".
 
 flavor-base-savory = savory
 flavor-base-sweet = sweet
@@ -47,35 +42,26 @@ flavor-base-clean = clean
 flavor-base-alkaline = alkaline
 flavor-base-holy = holy
 flavor-base-horrible = horrible
-# lmao
 flavor-base-terrible = terrible
 flavor-base-mindful = mindful
 
-# Complex flavors. Put a flavor here when you want something that's more
-# specific.
 
 flavor-complex-nothing = like nothing
 flavor-complex-honey = like honey
 
-# Condiments
 
 flavor-complex-ketchunaise = like tomatoes and mayonnaise
 flavor-complex-mayonnaise = like mayonnaise
 flavor-complex-mustard = like mustard
 
 
-# Food-specific flavors.
 
-## Food chemicals. In case you get something that has this inside.
 flavor-complex-nutriment = like nutrition
 flavor-complex-vitamin = like vitamins
 flavor-complex-protein = like protein
 
-## Generic food taste. This should be replaced with an actual flavor profile,
-## if you have food that looks like this.
 flavor-complex-food = like food
 
-## Basic foodstuffs (ingredients, generic flavors)
 flavor-complex-bun = like bun
 flavor-complex-bread = like bread
 flavor-complex-batter = like batter
@@ -123,9 +109,7 @@ flavor-complex-meatballs = like meatballs
 flavor-complex-nettles = like nettles
 flavor-complex-jungle = like jungle
 flavor-complex-vegetables = like vegetables
-# use it when there multiple types of veggies
 
-## Complex foodstuffs (cooked foods, joke flavors, etc)
 
 flavor-complex-pink = like pink
 flavor-complex-curry = like curry
@@ -169,15 +153,16 @@ flavor-complex-profits = like profits
 flavor-complex-fishops = like the dreaded fishops
 flavor-complex-violets = like violets
 
-# Drink-specific flavors.
 
-## Generic alcohol/soda taste. This should be replaced with an actual flavor profile.
+flavor-complex-mothballs = like mothballs
+flavor-complex-paint-thinner = like paint thinner
+
+
 flavor-complex-alcohol = like alcohol
 flavor-complex-soda = like soda
 flavor-complex-juice = like juice
 flavor-complex-rocksandstones = like rocks and stones
 
-## Basic drinks
 flavor-complex-water = like water
 flavor-complex-beer = like piss
 flavor-complex-cognac = like dry spicy alcohol
@@ -213,7 +198,6 @@ flavor-complex-tea = like tea
 flavor-complex-ice = like ice
 flavor-complex-mopwata = like stagnant, dirty water
 
-## Cocktails
 flavor-complex-arnold-palmer = like a hole-in-one
 flavor-complex-blue-hawaiian = like the tropics
 flavor-complex-cosmopolitan = sweet and tangy
@@ -246,12 +230,9 @@ flavor-complex-cogchamp = like brass
 flavor-complex-white-gilgamesh = like lightly carbonated cream
 flavor-complex-antifreeze = warm
 
-### This is exactly what pilk tastes like. I'm not even joking. I might've been a little drunk though
 flavor-complex-pilk = like sweet milk
 
-# Medicine/chemical-specific flavors.
 
-## Generic flavors.
 flavor-complex-medicine = like medicine
 
 flavor-complex-carpet = like a handful of fur
