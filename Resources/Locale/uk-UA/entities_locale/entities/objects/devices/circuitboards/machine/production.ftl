@@ -25,6 +25,9 @@ ent-MedicalTechFabCircuitboard = плата медічного техфабу
 ent-CircuitImprinterMachineCircuitboard = плата друкувача плат
     .desc = { ent-BaseMachineCircuitboard.desc }
 
+ent-CircuitImprinterHyperConvectionMachineCircuitboard = hyper convection circuit imprinter machine board
+    .desc = A machine printed circuit board for a hyper convection circuit imprinter.
+
 ent-ExosuitFabricatorMachineCircuitboard = плата фабрикатору екзоскелетів
     .desc = { ent-BaseMachineCircuitboard.desc }
 

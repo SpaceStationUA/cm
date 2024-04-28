@@ -102,6 +102,10 @@ ent-AirlockChemistryLocked = { ent-AirlockChemistry }
     .desc = { ent-AirlockChemistry.desc }
     .suffix = Хімія, Зачинений
 
+ent-AirlockMedicalMorgueLocked = { ent-AirlockMedical }
+    .desc = { ent-AirlockMedical.desc }
+    .suffix = Morgue, Locked
+
 ent-AirlockScienceLocked = { ent-AirlockScience }
     .desc = { ent-AirlockScience.desc }
     .suffix = Наука, Зачинений

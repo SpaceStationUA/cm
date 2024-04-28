@@ -1,7 +1,7 @@
-# Miscellaneous
 loadout-group-trinkets = Дрібнички
 
-# Command
+loadout-group-glasses = Окуляри
+
 loadout-group-captain-head = Голова
 loadout-group-captain-jumpsuit = Одяг
 loadout-group-captain-neck = Шія
@@ -14,9 +14,8 @@ loadout-group-hop-neck = Шія
 loadout-group-hop-backpack = Рюкзак
 loadout-group-hop-outerclothing = Зовнішний одяг
 
-# Civilian
 loadout-group-passenger-jumpsuit = Одяг
-loadout-group-passenger-mask = mask
+loadout-group-passenger-mask = Маска
 loadout-group-passenger-gloves = Рукавички
 loadout-group-passenger-backpack = Рюкзак
 loadout-group-passenger-outerclothing = Зовнішний одяг
@@ -60,7 +59,7 @@ loadout-group-clown-outerclothing = Зовнішний одяг
 loadout-group-clown-shoes = Взуття
 
 loadout-group-mime-head = Голова
-loadout-group-mime-mask = mask
+loadout-group-mime-mask = Маска
 loadout-group-mime-jumpsuit = Одяг
 loadout-group-mime-backpack = Рюкзак
 loadout-group-mime-outerclothing = Зовнішний одяг
@@ -68,7 +67,6 @@ loadout-group-mime-outerclothing = Зовнішний одяг
 loadout-group-musician-backpack = Рюкзак
 loadout-group-musician-outerclothing = Зовнішний одяг
 
-# Cargo
 loadout-group-quartermaster-head = Голова
 loadout-group-quartermaster-jumpsuit = Одяг
 loadout-group-quartermaster-backpack = Рюкзак
@@ -86,7 +84,6 @@ loadout-group-salvage-specialist-backpack = Рюкзак
 loadout-group-salvage-specialist-outerclothing = Зовнішний одяг
 loadout-group-salvage-specialist-shoes = Взуття
 
-# Engineering
 loadout-group-chief-engineer-head = Голова
 loadout-group-chief-engineer-jumpsuit = Одяг
 loadout-group-chief-engineer-backpack = Рюкзак
@@ -108,7 +105,6 @@ loadout-group-atmospheric-technician-backpack = Рюкзак
 loadout-group-atmospheric-technician-outerclothing = Зовнішний одяг
 loadout-group-atmospheric-technician-shoes = Взуття
 
-# Science
 loadout-group-research-director-head = Голова
 loadout-group-research-director-neck = Шія
 loadout-group-research-director-jumpsuit = Одяг
@@ -127,7 +123,6 @@ loadout-group-scientist-id = ID
 
 loadout-group-research-assistant-jumpsuit = Одяг
 
-# Security
 loadout-group-head-of-security-head = Голова
 loadout-group-head-of-security-jumpsuit = Одяг
 loadout-group-head-of-security-neck = Шія
@@ -153,7 +148,6 @@ loadout-group-detective-outerclothing = Зовнішний одяг
 
 loadout-group-security-cadet-jumpsuit = Одяг
 
-# Medical
 loadout-group-medical-gloves = Рукавички
 loadout-group-medical-mask = Маски
 
@@ -183,7 +177,6 @@ loadout-group-paramedic-outerclothing = Зовнішний одяг
 loadout-group-paramedic-shoes = Взуття
 loadout-group-paramedic-backpack = Рюкзак
 
-# Wildcards
 loadout-group-reporter-jumpsuit = Одяг
 
 loadout-group-boxer-jumpsuit = Одяг

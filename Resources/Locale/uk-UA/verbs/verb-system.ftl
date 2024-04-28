@@ -2,12 +2,9 @@ verb-system-waiting-on-server-text = Чекаємо на сервер...
 verb-system-null-server-response = Ця сутність не у полі зору. Ви не повинні її бачити.
 
 
-# if verbs have a range of targets (e.g., multiple ejectables) you can
-# usually just use Entity.Name. But it is a bit odd when targeting yourself
 verb-self-target-pronoun = себе
 
 
-# verb categories & common verbs. These appear across multiple systems, so they may as well go here.
 
 verb-categories-admin = Адмін
 verb-categories-debug = Дебаг
@@ -28,6 +25,8 @@ verb-categories-timer = Встановити затримку
 verb-categories-lever = Ричаг
 verb-categories-select-type = Обрати тип
 verb-categories-fax = Поставити адресата
+
+verb-categories-power-level = Рівень струму
 
 verb-common-toggle-light = Перемкнути світло
 verb-common-close = Закрити

@@ -10,7 +10,3 @@ ent-WeaponRifleM90GrenadeLauncher = M-90gl
 ent-WeaponRifleLecter = Lecter
     .desc = A high end military grade assault rifle. Uses .20 rifle ammo.
 
-ent-WeaponRifleLecterRubber = Lecter
-    .desc = { ent-WeaponRifleLecter.desc }
-    .suffix = Non-lethal
-

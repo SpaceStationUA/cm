@@ -4,10 +4,14 @@ ent-BaseMagazineRifle = magazine (.20 rifle)
 ent-MagazineRifle = magazine (.20 rifle)
     .desc = { ent-BaseMagazineRifle.desc }
 
-ent-MagazineRiflePractice = magazine (.20 rifle practice)
-    .desc = { ent-BaseMagazineRifle.desc }
+ent-MagazineRifleEmpty = magazine (.20 rifle any)
+    .desc = { ent-MagazineRifle.desc }
+    .suffix = empty
 
-ent-MagazineRifleRubber = magazine (.20 rifle rubber)
+ent-MagazineRifleIncendiary = magazine (.20 rifle incendiary)
+    .desc = { ent-MagazineRifle.desc }
+
+ent-MagazineRiflePractice = magazine (.20 rifle practice)
     .desc = { ent-BaseMagazineRifle.desc }
 
 ent-MagazineRifleUranium = magazine (.20 rifle uranium)

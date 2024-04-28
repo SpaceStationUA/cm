@@ -1,8 +1,6 @@
-# Nouns
 seeds-noun-seeds = насіння
 seeds-noun-spores = спори
 
-# Seeds
 seeds-wheat-name = пшениці
 seeds-wheat-display-name = wheat stalks
 seeds-oat-name = овса
@@ -113,3 +111,5 @@ seeds-pumpkin-name = гарбуза
 seeds-pumpkin-display-name = гарбузи
 seeds-cotton-name = бавовни
 seeds-cotton-display-name = рослина бавовни
+seeds-pyrotton-name = пироттону
+seeds-pyrotton-display-name = рослина пироттону

@@ -7,9 +7,6 @@ ent-CartridgeMagnum = cartridge (.45 magnum)
 ent-CartridgeMagnumPractice = cartridge (.45 magnum practice)
     .desc = { ent-BaseCartridgeMagnum.desc }
 
-ent-CartridgeMagnumRubber = cartridge (.45 magnum rubber)
-    .desc = { ent-BaseCartridgeMagnum.desc }
-
 ent-CartridgeMagnumIncendiary = cartridge (.45 magnum incendiary)
     .desc = { ent-BaseCartridgeMagnum.desc }
 

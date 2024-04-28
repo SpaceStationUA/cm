@@ -1,26 +1,29 @@
-fax-machine-popup-source-unknown = unknown
-fax-machine-popup-received = Received correspondence from { $from }.
-fax-machine-popup-name-long = Fax name is too long
-fax-machine-popup-name-exist = Fax with same name already exist in network
-fax-machine-popup-name-set = Fax name has been updated
+fax-machine-popup-source-unknown = невідомий
+fax-machine-popup-received = Получено повідомлення від { $from }.
+fax-machine-popup-name-long = Назва факса завелика
+fax-machine-popup-name-exist = Факс з такою ж назвою вже існує
+fax-machine-popup-name-set = Назва факса була змінена!
 
-fax-machine-dialog-rename = Rename
-fax-machine-dialog-field-name = Name
+fax-machine-popup-error = ПОМИЛКА - папір затиснуло
+fax-machine-popup-copy-error = ПОМИЛКА - неможливо копіювати!
 
-fax-machine-ui-window = Fax Machine
-fax-machine-ui-file-button = Print File
-fax-machine-ui-paper-button-normal = Normal Paper
-fax-machine-ui-paper-button-office = Office Paper
-fax-machine-ui-copy-button = Copy
-fax-machine-ui-send-button = Send
-fax-machine-ui-refresh-button = Refresh
-fax-machine-ui-no-peers = No Peers
-fax-machine-ui-to = To:
-fax-machine-ui-from = From:
-fax-machine-ui-paper = Paper:
-fax-machine-ui-paper-inserted = Paper in tray
-fax-machine-ui-paper-not-inserted = No paper
+fax-machine-dialog-rename = Переназвати
+fax-machine-dialog-field-name = Назва
 
-fax-machine-chat-notify = Received new fax message from "{$fax}" fax
+fax-machine-ui-window = Факс
+fax-machine-ui-file-button = Друкувати файл
+fax-machine-ui-paper-button-normal = Нормальний папір
+fax-machine-ui-paper-button-office = Офісний папір
+fax-machine-ui-copy-button = Копіювати
+fax-machine-ui-send-button = Відправити
+fax-machine-ui-refresh-button = Оновити
+fax-machine-ui-no-peers = Немає приймачів
+fax-machine-ui-to = До:
+fax-machine-ui-from = Від:
+fax-machine-ui-paper = Папір:
+fax-machine-ui-paper-inserted = Папір в лотку
+fax-machine-ui-paper-not-inserted = Немає папіру
 
-fax-machine-printed-paper-name = printed paper
+fax-machine-chat-notify = Получено новий факс з факсу "{$fax}"
+
+fax-machine-printed-paper-name = надрукований папір

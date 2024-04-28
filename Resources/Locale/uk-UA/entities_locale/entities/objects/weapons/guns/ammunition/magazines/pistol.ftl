@@ -10,14 +10,28 @@ ent-BaseMagazinePistolSubMachineGun = SMG magazine (.35 auto)
 ent-MagazinePistolSubMachineGunTopMounted = WT550 magazine (.35 auto top-mounted)
     .desc = { ent-BaseItem.desc }
 
+ent-MagazinePistolSubMachineGunTopMountedEmpty = WT550 magazine (.35 auto top-mounted any)
+    .desc = { ent-MagazinePistolSubMachineGunTopMounted.desc }
+
 ent-MagazinePistol = pistol magazine (.35 auto)
     .desc = { ent-BaseMagazinePistol.desc }
+
+ent-MagazinePistolEmpty = pistol magazine (.35 auto any)
+    .desc = { ent-MagazinePistol.desc }
+    .suffix = empty
+
+ent-MagazinePistolIncendiary = pistol magazine (.35 auto incendiary)
+    .desc = { ent-MagazinePistol.desc }
 
 ent-MagazinePistolPractice = pistol magazine (.35 auto practice)
     .desc = { ent-BaseMagazinePistol.desc }
 
-ent-MagazinePistolRubber = pistol magazine (.35 auto rubber)
+ent-MagazinePistolUranium = pistol magazine (.35 auto uranium)
     .desc = { ent-BaseMagazinePistol.desc }
+
+ent-MagazinePistolHighCapacityEmpty = machine pistol magazine (.35 auto any)
+    .desc = { ent-BaseMagazinePistolHighCapacity.desc }
+    .suffix = empty
 
 ent-MagazinePistolHighCapacity = machine pistol magazine (.35 auto)
     .desc = { ent-BaseMagazinePistolHighCapacity.desc }
@@ -31,10 +45,11 @@ ent-MagazinePistolHighCapacityRubber = machine pistol magazine (.35 auto rubber)
 ent-MagazinePistolSubMachineGun = SMG magazine (.35 auto)
     .desc = { ent-BaseMagazinePistolSubMachineGun.desc }
 
-ent-MagazinePistolSubMachineGunPractice = SMG magazine (.35 auto practice)
+ent-MagazinePistolSubMachineGunEmpty = SMG magazine (.35 auto any)
     .desc = { ent-BaseMagazinePistolSubMachineGun.desc }
+    .suffix = empty
 
-ent-MagazinePistolSubMachineGunRubber = SMG magazine (.35 auto rubber)
+ent-MagazinePistolSubMachineGunPractice = SMG magazine (.35 auto practice)
     .desc = { ent-BaseMagazinePistolSubMachineGun.desc }
 
 ent-MagazinePistolSubMachineGunUranium = SMG magazine (.35 auto rubber)

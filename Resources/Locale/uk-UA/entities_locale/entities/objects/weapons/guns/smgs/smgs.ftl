@@ -17,11 +17,3 @@ ent-WeaponSubMachineGunVector = Vector
 ent-WeaponSubMachineGunWt550 = WT550
     .desc = An excellent SMG, produced by NanoTrasen's Small Arms Division. Uses .35 auto ammo.
 
-ent-WeaponSubMachineGunDrozdRubber = Drozd
-    .desc = { ent-WeaponSubMachineGunDrozd.desc }
-    .suffix = Non-Lethal
-
-ent-WeaponSubMachineGunVectorRubber = Vector
-    .desc = An excellent fully automatic Heavy SMG. Uses .45 magnum ammo.
-    .suffix = Non-Lethal
-

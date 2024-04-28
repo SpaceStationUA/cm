@@ -86,8 +86,23 @@ ent-MobMonkeySyndicateAgentNukeops = { ent-MobBaseSyndicateMonkey }
     .desc = { ent-MobBaseSyndicateMonkey.desc }
     .suffix = NukeOps
 
+ent-MobBaseKobold = kobold
+    .desc = Cousins to the sentient race of lizard people, kobolds blend in with their natural habitat and are as nasty as monkeys; ready to pull out your hair and stab you to death.
+
 ent-MobKobold = kobold
     .desc = Cousins to the sentient race of lizard people, kobolds blend in with their natural habitat and are as nasty as monkeys; ready to pull out your hair and stab you to death.
+
+ent-MobBaseSyndicateKobold = { ent-MobBaseKobold }
+    .desc = { ent-MobBaseKobold.desc }
+    .suffix = syndicate base
+
+ent-MobKoboldSyndicateAgent = { ent-MobBaseSyndicateKobold }
+    .desc = { ent-MobBaseSyndicateKobold.desc }
+    .suffix = syndicate agent
+
+ent-MobKoboldSyndicateAgentNukeops = { ent-MobBaseSyndicateKobold }
+    .desc = { ent-MobBaseSyndicateKobold.desc }
+    .suffix = NukeOps
 
 ent-MobGuidebookMonkey = guidebook monkey
     .desc = A hopefully helpful monkey whose only purpose in life is for you to click on. Does this count as having a monkey give you a tutorial?
@@ -108,6 +123,9 @@ ent-MobMouse1 = { ent-MobMouse }
 
 ent-MobMouse2 = { ent-MobMouse }
     .desc = { ent-MobMouse.desc }
+
+ent-MobMouseCancer = cancer mouse
+    .desc = Toxic. Squeak!
 
 ent-MobLizard = lizard
     .desc = A harmless dragon.

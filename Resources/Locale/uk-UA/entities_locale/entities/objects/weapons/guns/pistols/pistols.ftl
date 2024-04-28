@@ -10,14 +10,6 @@ ent-WeaponPistolCobra = cobra
 ent-WeaponPistolMk58 = mk 58
     .desc = A cheap, ubiquitous sidearm, produced by a NanoTrasen subsidiary. Uses .35 auto ammo.
 
-ent-WeaponPistolMk58Nonlethal = { ent-WeaponPistolMk58 }
-    .desc = { ent-WeaponPistolMk58.desc }
-    .suffix = Non-lethal
-
 ent-WeaponPistolN1984 = N1984
     .desc = The sidearm of any self respecting officer.     Comes in .45 magnum, the lord's caliber.
-
-ent-WeaponPistolN1984Nonlethal = N1984
-    .desc = { ent-WeaponPistolN1984.desc }
-    .suffix = Non-lethal
 

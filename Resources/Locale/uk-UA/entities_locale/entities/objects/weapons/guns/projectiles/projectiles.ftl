@@ -9,9 +9,6 @@ ent-BaseBulletTrigger = { ent-BaseBullet }
 ent-BaseBulletPractice = base bullet practice
     .desc = { ent-BaseBullet.desc }
 
-ent-BaseBulletRubber = base bullet rubber
-    .desc = { ent-BaseBullet.desc }
-
 ent-BaseBulletIncendiary = base bullet incendiary
     .desc = { ent-BaseBullet.desc }
 

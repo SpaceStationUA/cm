@@ -55,9 +55,6 @@ ent-RandomSentience = { ent-BaseGameRule }
 ent-SolarFlare = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
-ent-TerminatorSpawn = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
-
 ent-VentClog = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 

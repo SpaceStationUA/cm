@@ -1,39 +1,43 @@
-analysis-console-menu-title = analysis console
-analysis-console-server-list-button = Server List
-analysis-console-scan-button = Scan
-analysis-console-scan-tooltip-info = Scan artifacts to learn information about their structure.
-analysis-console-print-button = Print
-analysis-console-print-tooltip-info = Print out the current information about the artifact.
-analysis-console-extract-button = Extract
-analysis-console-extract-button-info = Extract points from an artifact based on the newly explored nodes.
-analysis-console-bias-up = Up
-analysis-console-bias-down = Down
+analysis-console-menu-title = Консоль анализу
+analysis-console-server-list-button = Список серверів
+analysis-console-scan-button = Сканувати
+analysis-console-scan-tooltip-info = Просканувати артефакт щоб дізнатися інформацію про нього.
+analysis-console-print-button = Друкувати
+analysis-console-print-tooltip-info = Надрукувати інформацію про артефакт
+analysis-console-extract-button = Витягнути
+analysis-console-extract-button-info = Витягує доступні бали з артефакту.
+analysis-console-bias-up = Вище
+analysis-console-bias-down = Нижче
 analysis-console-bias-button-info-up = Toggles the bias an artifact has in moving between its nodes. Up heads toward zero depth.
 analysis-console-bias-button-info-down = Toggles the bias an artifact has in moving between its nodes. Down heads toward ever-higher depths.
 
-analysis-console-info-no-scanner = No analyzer connected! Please connect one using a multitool.
-analysis-console-info-no-artifact = No artifact present! Place one on the pad then scan for information.
-analysis-console-info-ready = Systems operational. Ready to scan.
+analysis-console-info-no-scanner = Анализатор не під'єднаний! Просимо, під'єднайте його за допомогою мультитулу.
+analysis-console-info-no-artifact = Немає артефакту! Поставте його на анализатор для сканування.
+analysis-console-info-ready = Система працездатна. Натиснить "Сканувати".
 
 analysis-console-info-id = NODE_ID: {$id}
-analysis-console-info-depth = DEPTH: {$depth}
-analysis-console-info-triggered-true = ACTIVATED: TRUE
-analysis-console-info-triggered-false = ACTIVATED: FALSE
-analysis-console-info-effect = REACTION: {$effect}
-analysis-console-info-trigger = STIMULUS: {$trigger}
-analysis-console-info-edges = EDGES: {$edges}
-analysis-console-info-value = UNEXTRACTED_VALUE: {$value}
+analysis-console-info-depth = ГЛИБІНА: {$depth}
+analysis-console-info-triggered-true = АКТИВОВАНО: ТАК
+analysis-console-info-triggered-false = АКТИВОВАНО: НІ
+analysis-console-info-effect = РЕАКЦІЯ: {$effect}
+analysis-console-info-trigger = СТИМУЛ: {$trigger}
+analysis-console-info-edges = КРАЯ: {$edges}
+analysis-console-info-value = ДОСТУПНІ_БАЛИ: {$value}
 
-analysis-console-info-scanner = Scanning...
-analysis-console-info-scanner-paused = Paused.
+analysis-console-info-scanner = Сканування...
+analysis-console-info-scanner-paused = Пауза.
 analysis-console-progress-text = {$seconds ->
-    [one] T-{$seconds} second
-    *[other] T-{$seconds} seconds
+    [one] T-{$seconds} секунда
+    *[other] T-{$seconds} секунд
 }
 
-analyzer-artifact-component-upgrade-analysis = analysis duration
+analysis-console-no-server-connected = Не можемо витягнути бали. Сервер не під'єднаний.
+analysis-console-no-artifact-placed = Немає артефакту на анализатору.
+analysis-console-no-points-to-extract = Немає доступних балів.
 
-analysis-console-print-popup = The console printed out a report.
-analyzer-artifact-extract-popup = Energy shimmers on the artifact's surface!
+analyzer-artifact-component-upgrade-analysis = час сканування
 
-analysis-report-title = Artifact Report: Node {$id}
+analysis-console-print-popup = Консоль друкує звіт.
+analyzer-artifact-extract-popup = Енергія мерехтить по поверхні артефакта!
+
+analysis-report-title = Звіт сканування: Node {$id}

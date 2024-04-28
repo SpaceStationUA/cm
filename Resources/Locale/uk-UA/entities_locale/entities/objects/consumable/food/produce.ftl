@@ -118,10 +118,10 @@ ent-FoodOnionSlice = onion slice
 ent-FoodOnionRedSlice = red onion slice
     .desc = Purple despite the name.
 
-ent-FoodChili = chili
+ent-FoodChiliPepper = chili pepper
     .desc = Spicy, best not touch your eyes.
 
-ent-FoodChilly = chilly pepper
+ent-FoodChillyPepper = chilly pepper
     .desc = Icy hot.
 
 ent-FoodAloe = aloe
@@ -189,4 +189,7 @@ ent-FoodPumpkin = pumpkin
 
 ent-CottonBol = cotton boll
     .desc = Moth people's favorite snack, and just as fluffy as them.
+
+ent-PyrottonBol = pyrotton boll
+    .desc = This will probably set you on fire.
 

@@ -1,24 +1,20 @@
-ent-DoorElectronicsService = { ent-DoorElectronics }
+ent-DoorElectronicsCaptain = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Service, Locked
+    .suffix = Captain, Locked
 
-ent-DoorElectronicsTheatre = { ent-DoorElectronics }
+ent-DoorElectronicsHeadOfPersonnel = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Theatre, Locked
+    .suffix = HeadOfPersonnel, Locked
 
-ent-DoorElectronicsChapel = { ent-DoorElectronics }
+ent-DoorElectronicsCommand = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Chapel, Locked
-
-ent-DoorElectronicsJanitor = { ent-DoorElectronics }
-    .desc = { ent-DoorElectronics.desc }
-    .suffix = Janitor, Locked
-
-ent-DoorElectronicsKitchen = { ent-DoorElectronics }
-    .desc = { ent-DoorElectronics.desc }
-    .suffix = Kitchen, Locked
+    .suffix = Command, Locked
 
 ent-DoorElectronicsBar = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Bar, Locked
+
+ent-DoorElectronicsBarKitchen = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
     .suffix = Bar, Locked
 
@@ -26,85 +22,85 @@ ent-DoorElectronicsHydroponics = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
     .suffix = Hydroponics, Locked
 
+ent-DoorElectronicsChapel = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Chapel, Locked
+
+ent-DoorElectronicsTheatre = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Theatre, Locked
+
+ent-DoorElectronicsKitchen = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Kitchen, Locked
+
+ent-DoorElectronicsKitchenHydroponics = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Kitchen/Hydroponics, Locked
+
+ent-DoorElectronicsJanitor = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Janitor, Locked
+
 ent-DoorElectronicsLawyer = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
     .suffix = Lawyer, Locked
 
-ent-DoorElectronicsCaptain = { ent-DoorElectronics }
+ent-DoorElectronicsService = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Captain, Locked
+    .suffix = Service, Locked
 
-ent-DoorElectronicsExternal = { ent-DoorElectronics }
+ent-DoorElectronicsQuartermaster = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = External, Locked
-
-ent-DoorElectronicsCargo = { ent-DoorElectronics }
-    .desc = { ent-DoorElectronics.desc }
-    .suffix = Cargo, Locked
-
-ent-DoorElectronicsEngineering = { ent-DoorElectronics }
-    .desc = { ent-DoorElectronics.desc }
-    .suffix = Engineering, Locked
-
-ent-DoorElectronicsAtmospherics = { ent-DoorElectronics }
-    .desc = { ent-DoorElectronics.desc }
-    .suffix = Atmospherics, Locked
-
-ent-DoorElectronicsFreezer = { ent-DoorElectronics }
-    .desc = { ent-DoorElectronics.desc }
-    .suffix = Freezer, Locked
+    .suffix = Quartermaster, Locked
 
 ent-DoorElectronicsSalvage = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
     .suffix = Salvage, Locked
 
-ent-DoorElectronicsMedical = { ent-DoorElectronics }
+ent-DoorElectronicsCargo = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Medical, Locked
-
-ent-DoorElectronicsChemistry = { ent-DoorElectronics }
-    .desc = { ent-DoorElectronics.desc }
-    .suffix = Chemistry, Locked
-
-ent-DoorElectronicsResearch = { ent-DoorElectronics }
-    .desc = { ent-DoorElectronics.desc }
-    .suffix = Research, Locked
-
-ent-DoorElectronicsScience = { ent-DoorElectronics }
-    .desc = { ent-DoorElectronics.desc }
-    .suffix = Science, Locked
-
-ent-DoorElectronicsCommand = { ent-DoorElectronics }
-    .desc = { ent-DoorElectronics.desc }
-    .suffix = Command, Locked
-
-ent-DoorElectronicsCentralCommand = { ent-DoorElectronics }
-    .desc = { ent-DoorElectronics.desc }
-    .suffix = CentralCommand, Locked
-
-ent-DoorElectronicsChiefMedicalOfficer = { ent-DoorElectronics }
-    .desc = { ent-DoorElectronics.desc }
-    .suffix = ChiefMedicalOfficer, Locked
+    .suffix = Cargo, Locked
 
 ent-DoorElectronicsChiefEngineer = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
     .suffix = ChiefEngineer, Locked
 
-ent-DoorElectronicsHeadOfSecurity = { ent-DoorElectronics }
+ent-DoorElectronicsAtmospherics = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = HeadOfSecurity, Locked
+    .suffix = Atmospherics, Locked
+
+ent-DoorElectronicsEngineering = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Engineering, Locked
+
+ent-DoorElectronicsMorgue = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Morgue, Locked
 
 ent-DoorElectronicsResearchDirector = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
     .suffix = ResearchDirector, Locked
 
-ent-DoorElectronicsHeadOfPersonnel = { ent-DoorElectronics }
+ent-DoorElectronicsMedicalResearch = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = HeadOfPersonnel, Locked
+    .suffix = Medical/Science, Locked
 
-ent-DoorElectronicsQuartermaster = { ent-DoorElectronics }
+ent-DoorElectronicsResearch = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Quartermaster, Locked
+    .suffix = Research, Locked
+
+ent-DoorElectronicsHeadOfSecurity = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = HeadOfSecurity, Locked
+
+ent-DoorElectronicsArmory = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Armory, Locked
+
+ent-DoorElectronicsDetective = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Detective, Locked
 
 ent-DoorElectronicsSecurity = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
@@ -114,35 +110,43 @@ ent-DoorElectronicsSecurityLawyer = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
     .suffix = Security/Lawyer, Locked
 
-ent-DoorElectronicsDetective = { ent-DoorElectronics }
-    .desc = { ent-DoorElectronics.desc }
-    .suffix = Detective, Locked
-
 ent-DoorElectronicsBrig = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
     .suffix = Brig, Locked
 
-ent-DoorElectronicsArmory = { ent-DoorElectronics }
+ent-DoorElectronicsChiefMedicalOfficer = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Armory, Locked
+    .suffix = ChiefMedicalOfficer, Locked
 
-ent-DoorElectronicsVault = { ent-DoorElectronics }
+ent-DoorElectronicsChemistry = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Vault, Locked
+    .suffix = Chemistry, Locked
 
-ent-DoorElectronicsMaintenance = { ent-DoorElectronics }
+ent-DoorElectronicsMedical = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Maintenance, Locked
-
-ent-DoorElectronicsSyndicateAgent = { ent-DoorElectronics }
-    .desc = { ent-DoorElectronics.desc }
-    .suffix = SyndicateAgent, Locked
+    .suffix = Medical, Locked
 
 ent-DoorElectronicsNukeop = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
     .suffix = Nukeop, Locked
 
-ent-DoorElectronicsRnDMed = { ent-DoorElectronics }
+ent-DoorElectronicsSyndicateAgent = { ent-DoorElectronics }
     .desc = { ent-DoorElectronics.desc }
-    .suffix = Medical/Science, Locked
+    .suffix = SyndicateAgent, Locked
+
+ent-DoorElectronicsCentralCommand = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = CentralCommand, Locked
+
+ent-DoorElectronicsExternal = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = External, Locked
+
+ent-DoorElectronicsMaintenance = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Maintenance, Locked
+
+ent-DoorElectronicsVault = { ent-DoorElectronics }
+    .desc = { ent-DoorElectronics.desc }
+    .suffix = Vault, Locked
 

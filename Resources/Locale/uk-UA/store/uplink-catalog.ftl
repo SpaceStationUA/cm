@@ -1,4 +1,3 @@
-# Weapons
 uplink-pistol-viper-name = Гадюка
 uplink-pistol-viper-desc = A small, easily concealable, but somewhat underpowered gun. Retrofitted with a fully automatic receiver. Uses pistol magazines (.35 auto).
 
@@ -26,7 +25,6 @@ uplink-fire-axe-flaming-desc = A classic-style weapon infused with advanced atmo
 uplink-gloves-north-star-name = Рукавички Північної Зірки
 uplink-gloves-north-star-desc = A pair of gloves that reduce your punching cooldown drastically, allowing you to beat people to death in a flurry of punches.
 
-# Explosives
 uplink-explosive-grenade-name = Вибухівова граната
 uplink-explosive-grenade-desc = A simplistic grenade with a three-and-a-half-second long fuse that is geared towards injuring personnel. Causes minimal hull damage.
 
@@ -78,7 +76,6 @@ uplink-incendiary-grenade-desc = Releases a spray of incendiary fragments, ignit
 uplink-shrapnel-grenade-name = Граната зі шрапнеллю
 uplink-shrapnel-grenade-desc = Launches a spray of sharp fragments dealing great damage against unarmored targets.
 
-# Ammo
 uplink-pistol-magazine-name = Магазин пістолета (.35 авто)
 uplink-pistol-magazine-desc = Pistol magazine with 10 catridges. Compatible with the Viper.
 
@@ -97,7 +94,6 @@ uplink-mosin-ammo-desc = A box of 50 cartridges for the surplus rifle.
 uplink-sniper-ammo-name = Коробка набоїв (.60 протиматеріальний)
 uplink-sniper-ammo-desc = A box of 10 cartridges for the Hristov sniper rifle.
 
-# Utility
 uplink-holopara-kit-name = Набір голопаразита
 uplink-holopara-kit-desc = The pride and joy of Cybersun. Contains an injector that hosts a sentient metaphysical guardian made of hard light which resides in the user's body when not active.
     The guardian can punch rapidly and is immune to hazardous environments while being resistant to direct trauma, but shares any damage it takes with the user.
@@ -121,8 +117,8 @@ uplink-agent-id-card-desc = A modified ID card that can copy accesses from other
 uplink-black-jetpack-name = Чорний ракетний ранець
 uplink-black-jetpack-desc = A black jetpack. It allows you to fly around in space. Refills not included, use your fuel wisely.
 
-uplink-reinforcement-radio-monkey-name = Телепортер мавпи-підтримки
-uplink-reinforcement-radio-monkey-desc =  Call in a trained monkey to assist you. Comes with a single syndicate cigarette.
+uplink-reinforcement-radio-ancestor-name = Genetic Ancestor Reinforcement Teleporter
+uplink-reinforcement-radio-ancestor-desc =  Call in a trained ancestor of your choosing to assist you. Comes with a single syndicate cigarette.
 
 uplink-reinforcement-radio-name = Телепортер підтримки
 uplink-reinforcement-radio-desc =  Radio in a reinforcement agent of extremely questionable quality. No off button, buy this if you're ready to party. They have a pistol with no reserve ammo, and a knife. That's it.
@@ -160,7 +156,6 @@ uplink-syndicate-weapon-module-desc = This module will give a cyborg advanced la
 uplink-singularity-beacon-name = Маяк Сингулярності
 uplink-singularity-beacon-desc = A device that attracts singularities. Has to be anchored and powered. Causes singularities to grow when consumed.
 
-# Implants
 uplink-storage-implanter-name = Імплантер Сховища
 uplink-storage-implanter-desc = Hide goodies inside of yourself with new bluespace technology!
 
@@ -191,7 +186,6 @@ uplink-death-acidifier-implant-desc = Completely melts the user and their equipm
 uplink-micro-bomb-implanter-name = Імплат Мікро Бомба
 uplink-micro-bomb-implanter-desc = Explode on death or manual activation with this implant. Destroys the body with all equipment.
 
-# Bundles
 uplink-observation-kit-name = Observation Kit
 uplink-observation-kit-desc = Includes surveillance camera monitor board and security hud disguised as sunglasses.
 
@@ -237,7 +231,6 @@ uplink-surplus-bundle-desc = Contains 50 telecrystals worth of completely random
 uplink-super-surplus-bundle-name = Super Surplus Crate
 uplink-super-surplus-bundle-desc = Contains 125 telecrystals worth of completely random Syndicate items.
 
-# Tools
 uplink-toolbox-name = Toolbox
 uplink-toolbox-desc = A full compliment of tools for the mechanically inclined traitor. Includes a pair of insulated combat gloves, syndicate gas mask and a utility belt.
 
@@ -253,7 +246,6 @@ uplink-power-sink-desc = Drains immense amounts of electricity from the grid. Us
 uplink-carp-dehydrated-name = Dehydrated Space Carp
 uplink-carp-dehydrated-desc = Looks like a plush toy carp, but just add water and it becomes a real-life space carp!
 
-# Job Specific
 uplink-gatfruit-seeds-name = Packet Of Gatfruit Seeds
 uplink-gatfruit-seeds-desc = And who says guns don't grow on trees?
 
@@ -287,7 +279,9 @@ uplink-disposable-turret-desc = Looks and functions like a normal electrical too
 uplink-cluster-banana-peel-name = Cluster Banana
 uplink-cluster-banana-peel-desc = Splits into 6 explosive banana peels after being thrown, the peels detonate automatically after 20 seconds if nobody slips on them.
 
-# Armor
+uplink-cane-blade-name = Cane Blade
+uplink-cane-blade-desc = A cane that has a hidden blade that can be unsheathed.
+
 uplink-chameleon-name = Chameleon Kit
 uplink-chameleon-desc = A backpack full of items that contain chameleon technology allowing you to disguise as pretty much anything on the station, and more!
 
@@ -315,7 +309,6 @@ uplink-hardsuit-syndieelite-desc = An elite version of the blood-red hardsuit, w
 uplink-clothing-outer-hardsuit-juggernaut-name = Cybersun Juggernaut Suit
 uplink-clothing-outer-hardsuit-juggernaut-desc = Hyper resilient armor made of materials tested in the Tau chromosphere facility. The only thing that's going to be slowing you down is this suit... and tasers.
 
-# Misc
 uplink-cyberpen-name = Cybersun Pen
 uplink-cyberpen-desc = Cybersun's legal department pen, invaluable for forging documents and escaping prisons. Smells vaguely of hard-light and war profiteering.
 
@@ -370,7 +363,6 @@ uplink-mobcat-microbomb-desc = A hand cat equipped with a microbomb implant. Exp
 uplink-chameleon-projector-name = Chameleon Projector
 uplink-chameleon-projector-desc = Disappear in plain sight by creating a hologram of an item around you. Do not use this to play the game "Object Search".
 
-# Pointless
 uplink-revolver-cap-gun-name = Cap Gun
 uplink-revolver-cap-gun-desc = Looks almost like the real thing! Ages 8 and up.
 

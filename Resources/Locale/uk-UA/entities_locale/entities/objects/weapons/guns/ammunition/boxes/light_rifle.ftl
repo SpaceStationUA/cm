@@ -10,9 +10,6 @@ ent-MagazineBoxLightRifle = ammunition box (.30 rifle)
 ent-MagazineBoxLightRiflePractice = ammunition box (.30 rifle practice)
     .desc = { ent-BaseMagazineBoxLightRifle.desc }
 
-ent-MagazineBoxLightRifleRubber = ammunition box (.30 rifle rubber)
-    .desc = { ent-BaseMagazineBoxLightRifle.desc }
-
 ent-MagazineBoxLightRifleIncendiary = ammunition box (.30 rifle incendiary)
     .desc = { ent-BaseMagazineBoxLightRifle.desc }
 

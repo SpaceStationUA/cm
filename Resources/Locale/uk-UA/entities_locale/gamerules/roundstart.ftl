@@ -15,9 +15,6 @@ ent-MaxTimeRestart = { ent-BaseGameRule }
 ent-Nukeops = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 
-ent-Pirates = { ent-BaseGameRule }
-    .desc = { ent-BaseGameRule.desc }
-
 ent-Traitor = { ent-BaseGameRule }
     .desc = { ent-BaseGameRule.desc }
 

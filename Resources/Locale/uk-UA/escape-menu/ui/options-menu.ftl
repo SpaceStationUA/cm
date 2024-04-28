@@ -1,5 +1,3 @@
-## General stuff
-
 ui-options-title = Гра
 ui-options-tab-graphics = Графіка
 ui-options-tab-controls = Керування
@@ -11,7 +9,6 @@ ui-options-apply = Підтвердити
 ui-options-reset-all = Зкинути
 ui-options-default = По замовчуванню
 
-# Misc/General menu
 
 ui-options-discordrich = Увимкнути Discord Rich Presence
 ui-options-general-ui-style = Стиль дієвидла
@@ -21,7 +18,6 @@ ui-options-general-speech = Голос
 ui-options-general-storage = Сховище
 ui-options-general-accessibility = Доступність
 
-## Audio menu
 
 ui-options-master-volume = Головна гучність:
 ui-options-midi-volume = MIDI (Інструментів) Гучність:
@@ -37,7 +33,6 @@ ui-options-admin-sounds = Музика адмінів
 ui-options-volume-label = Гучність
 ui-options-volume-percent = { TOSTRING($volume, "P0") }
 
-## Graphics menu
 
 ui-options-show-held-item = Показувати тримаємий предмет поряд з курсором
 ui-options-show-combat-mode-indicators = Показувати індікатор бойового режиму поряд з курсором
@@ -93,7 +88,6 @@ ui-options-fps-counter = Показувати FPS
 ui-options-vp-width = Довжина поля зору: { $width }
 ui-options-hud-layout = Вигляд дієвидла:
 
-## Controls menu
 
 ui-options-binds-reset-all = Скинути УСІ скорочення
 ui-options-binds-explanation = Лівий клік щоб змінити, правий щоб видалити.
@@ -173,6 +167,7 @@ ui-options-function-open-crafting-menu = Open crafting menu
 ui-options-function-open-inventory-menu = Open inventory
 ui-options-function-open-a-help = Open admin help
 ui-options-function-open-abilities-menu = Open action menu
+ui-options-function-toggle-round-end-summary-window = Toggle round end summary window
 ui-options-function-open-entity-spawn-window = Open entity spawn menu
 ui-options-function-open-sandbox-window = Open sandbox menu
 ui-options-function-open-tile-spawn-window = Open tile spawn menu
@@ -196,7 +191,6 @@ ui-options-function-editor-rotate-object = Rotate
 ui-options-function-editor-flip-object = Flip
 ui-options-function-editor-copy-object = Copy
 
-ui-options-function-open-abilities-menu = Open action menu
 ui-options-function-show-debug-console = Open Console
 ui-options-function-show-debug-monitors = Show Debug Monitors
 ui-options-function-inspect-entity = Inspect Entity
@@ -231,7 +225,6 @@ ui-options-function-shuttle-rotate-left = Rotate left
 ui-options-function-shuttle-rotate-right = Rotate right
 ui-options-function-shuttle-brake = Brake
 
-## Network menu
 
 ui-options-net-predict = Client-side prediction
 
@@ -263,6 +256,5 @@ ui-options-net-pvs-leave-tooltip = This limits the rate at which the client will
                                        stuttering when walking around, but could occasionally
                                        lead to mispredicts and other issues.
 
-## Toggle window console command
 cmd-options-desc = Opens options menu, optionally with a specific tab selected.
 cmd-options-help = Usage: options [tab]
